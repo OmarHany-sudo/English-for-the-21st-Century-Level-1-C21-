@@ -1,0 +1,8238 @@
+{
+  "source_file": "C21_Level1_Complete_Study_Guide.docx",
+  "source_sha256": "05cacea84bc01495e769e3dbbd4e62127d1d43067f96a263c3f553fe9afed78d",
+  "blocks": [
+    {
+      "id": "src-0000",
+      "text": "C21  •  COMPLETE EDITION"
+    },
+    {
+      "id": "src-0001",
+      "text": "ENGLISH"
+    },
+    {
+      "id": "src-0002",
+      "text": "for the 21st Century"
+    },
+    {
+      "id": "src-0003",
+      "text": "Level 1 – C21"
+    },
+    {
+      "id": "src-0004",
+      "text": "Study Guide &"
+    },
+    {
+      "id": "src-0005",
+      "text": "Complete Explanation"
+    },
+    {
+      "id": "src-0006",
+      "text": "إهداء إلى فيرو وليد"
+    },
+    {
+      "id": "src-0007",
+      "text": "❤"
+    },
+    {
+      "id": "src-0008",
+      "text": "UNITS  01  /  02  /  03"
+    },
+    {
+      "id": "src-0009",
+      "text": "شرح • مفردات • قواعد • تدريبات • إجابات"
+    },
+    {
+      "id": "src-0010",
+      "text": "A Journey to Better English Starts Here."
+    },
+    {
+      "id": "src-0011",
+      "text": "TABLE OF CONTENTS"
+    },
+    {
+      "id": "src-0012",
+      "text": "فهرس المحتويات"
+    },
+    {
+      "id": "src-0013",
+      "text": "أرقام هذا الفهرس تخص صفحات الكتاب الموحّد. أما أرقام الصفحات داخل الشروح فهي إحالات الكتاب الدراسي الأصلي."
+    },
+    {
+      "id": "src-0014",
+      "text": "Unit 1 • People & Places"
+    },
+    {
+      "id": "src-0015",
+      "text": "3"
+    },
+    {
+      "id": "src-0016",
+      "text": "UNIT 1A — WHERE IN THE WORLD?"
+    },
+    {
+      "id": "src-0017",
+      "text": "3"
+    },
+    {
+      "id": "src-0018",
+      "text": "UNIT 1B — ABOUT ME"
+    },
+    {
+      "id": "src-0019",
+      "text": "6"
+    },
+    {
+      "id": "src-0020",
+      "text": "UNIT 1C — PERSONAL INFORMATION"
+    },
+    {
+      "id": "src-0021",
+      "text": "9"
+    },
+    {
+      "id": "src-0022",
+      "text": "WRITING SKILLS — مهارات الكتابة"
+    },
+    {
+      "id": "src-0023",
+      "text": "12"
+    },
+    {
+      "id": "src-0024",
+      "text": "C21 SKILLS — المهارات الإضافية"
+    },
+    {
+      "id": "src-0025",
+      "text": "13"
+    },
+    {
+      "id": "src-0026",
+      "text": "UNIT 1 — المراجعة الشاملة"
+    },
+    {
+      "id": "src-0027",
+      "text": "15"
+    },
+    {
+      "id": "src-0028",
+      "text": "UNIT 1 — اختبار تدريبي شامل"
+    },
+    {
+      "id": "src-0029",
+      "text": "18"
+    },
+    {
+      "id": "src-0030",
+      "text": "Unit 2 • Introductions & Conversations"
+    },
+    {
+      "id": "src-0031",
+      "text": "21"
+    },
+    {
+      "id": "src-0032",
+      "text": "UNIT 2A — TALKING ABOUT OTHER PEOPLE"
+    },
+    {
+      "id": "src-0033",
+      "text": "22"
+    },
+    {
+      "id": "src-0034",
+      "text": "Unit 2A • Reading student profiles"
+    },
+    {
+      "id": "src-0035",
+      "text": "27"
+    },
+    {
+      "id": "src-0036",
+      "text": "UNIT 2B — INTRODUCTIONS"
+    },
+    {
+      "id": "src-0037",
+      "text": "30"
+    },
+    {
+      "id": "src-0038",
+      "text": "UNIT 2C — COOL BEAUTY"
+    },
+    {
+      "id": "src-0039",
+      "text": "33"
+    },
+    {
+      "id": "src-0040",
+      "text": "WRITING SKILLS — مهارات الكتابة"
+    },
+    {
+      "id": "src-0041",
+      "text": "35"
+    },
+    {
+      "id": "src-0042",
+      "text": "C21 SKILLS — المهارات الإضافية"
+    },
+    {
+      "id": "src-0043",
+      "text": "37"
+    },
+    {
+      "id": "src-0044",
+      "text": "UNIT 2 — المراجعة الشاملة"
+    },
+    {
+      "id": "src-0045",
+      "text": "39"
+    },
+    {
+      "id": "src-0046",
+      "text": "UNIT 2 — اختبار تدريبي شامل"
+    },
+    {
+      "id": "src-0047",
+      "text": "40"
+    },
+    {
+      "id": "src-0048",
+      "text": "Unit 3 • Friends & Family"
+    },
+    {
+      "id": "src-0049",
+      "text": "43"
+    },
+    {
+      "id": "src-0050",
+      "text": "1) Unit 3A — Happy families: أفراد العائلة"
+    },
+    {
+      "id": "src-0051",
+      "text": "44"
+    },
+    {
+      "id": "src-0052",
+      "text": "2) Unit 3B — Hometown: العائلة والمدينة"
+    },
+    {
+      "id": "src-0053",
+      "text": "46"
+    },
+    {
+      "id": "src-0054",
+      "text": "3) Unit 3C — First impressions: الانطباع الأول ووصف الناس"
+    },
+    {
+      "id": "src-0055",
+      "text": "48"
+    },
+    {
+      "id": "src-0056",
+      "text": "4) Writing Skills — الكتابة وعلامة الملكية"
+    },
+    {
+      "id": "src-0057",
+      "text": "49"
+    },
+    {
+      "id": "src-0058",
+      "text": "5) Study Skills — تنظيم الكلمات الجديدة"
+    },
+    {
+      "id": "src-0059",
+      "text": "50"
+    },
+    {
+      "id": "src-0060",
+      "text": "6) Communication — Asking for help: طلب المساعدة"
+    },
+    {
+      "id": "src-0061",
+      "text": "51"
+    },
+    {
+      "id": "src-0062",
+      "text": "7) Communication — Predicting: توقع الموقف قبل الاستماع"
+    },
+    {
+      "id": "src-0063",
+      "text": "51"
+    },
+    {
+      "id": "src-0064",
+      "text": "8) Planning Ahead — خطة التعلم"
+    },
+    {
+      "id": "src-0065",
+      "text": "52"
+    },
+    {
+      "id": "src-0066",
+      "text": "9) مراجعة سريعة قبل الامتحان"
+    },
+    {
+      "id": "src-0067",
+      "text": "52"
+    },
+    {
+      "id": "src-0068",
+      "text": "10) اختبار تدريبي شامل مع الإجابات"
+    },
+    {
+      "id": "src-0069",
+      "text": "53"
+    },
+    {
+      "id": "src-0070",
+      "text": "Final Review • المراجعة النهائية العامة"
+    },
+    {
+      "id": "src-0071",
+      "text": "55"
+    },
+    {
+      "id": "src-0072",
+      "text": "النصوص والجداول قابلة للتحرير • ترتيب المحتوى: Unit 1 → Unit 2 → Unit 3"
+    },
+    {
+      "id": "src-0073",
+      "text": "UNIT 1 — PEOPLE & PLACES"
+    },
+    {
+      "id": "src-0074",
+      "text": "ENGLISH FOR THE 21st CENTURY"
+    },
+    {
+      "id": "src-0075",
+      "text": "LEVEL 1 – C21"
+    },
+    {
+      "id": "src-0076",
+      "text": "مذكرة شرح وتدريب – الوحدة الأولى"
+    },
+    {
+      "id": "src-0077",
+      "text": "شرح باللغة العربية المصرية المبسطة"
+    },
+    {
+      "id": "src-0078",
+      "text": "إعداد تعليمي للمذاكرة والاستعداد للامتحان"
+    },
+    {
+      "id": "src-0079",
+      "text": "People & Places • English for the 21st Century"
+    },
+    {
+      "id": "src-0080",
+      "text": "مقدمة وحدود المذكرة"
+    },
+    {
+      "id": "src-0081",
+      "text": "هذه المذكرة مخصصة للوحدة الأولى فقط من كتاب English for the 21st Century – Level 1 (C21) بعنوان People & Places. جرى تنظيم الشرح وفق الدروس والمهارات الظاهرة في صفحات الكتاب المتاحة."
+    },
+    {
+      "id": "src-0082",
+      "text": "ملاحظة مصدرية: الصفحات التي أمكن فحصها بوضوح هي الصفحات المطبوعة 14–27. صفحتا 12 و13 لم تكونا ظاهرتين ضمن الصفحات التي أمكن التحقق منها. كما أن ملفات الصوت المستقلة غير مرفقة؛ لذلك لا تُخترع إجابات أنشطة الاستماع."
+    },
+    {
+      "id": "src-0083",
+      "text": "فهرس المحتويات الأصلي"
+    },
+    {
+      "id": "src-0084",
+      "text": "1. Unit 1A – Where in the world? (ص 14–16)"
+    },
+    {
+      "id": "src-0085",
+      "text": "2. Unit 1B – About me (ص 17–19)"
+    },
+    {
+      "id": "src-0086",
+      "text": "3. Unit 1C – Personal information (ص 20–21)"
+    },
+    {
+      "id": "src-0087",
+      "text": "4. Writing Skills – Punctuation & Personal Profile (ص 22–23)"
+    },
+    {
+      "id": "src-0088",
+      "text": "5. C21 Skills – Study Skills & Communication (ص 24–27)"
+    },
+    {
+      "id": "src-0089",
+      "text": "6. المراجعة الشاملة وجداول القواعد"
+    },
+    {
+      "id": "src-0090",
+      "text": "7. الاختبار التدريبي ونموذج الإجابة"
+    },
+    {
+      "id": "src-0091",
+      "text": "UNIT 1A — WHERE IN THE WORLD?"
+    },
+    {
+      "id": "src-0092",
+      "text": "الصفحات المطبوعة: 14–16"
+    },
+    {
+      "id": "src-0093",
+      "text": "يركز الدرس على ثلاثة مفاهيم مرتبطة: Country (الدولة)، Nationality (الجنسية)، وCapital City (العاصمة)."
+    },
+    {
+      "id": "src-0094",
+      "text": "1) Vocabulary – المفردات"
+    },
+    {
+      "id": "src-0095",
+      "text": "Country – الدولة"
+    },
+    {
+      "id": "src-0096",
+      "text": "Nationality – الجنسية"
+    },
+    {
+      "id": "src-0097",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-0098",
+      "text": "Brazil"
+    },
+    {
+      "id": "src-0099",
+      "text": "Brazilian"
+    },
+    {
+      "id": "src-0100",
+      "text": "البرازيل – برازيلي"
+    },
+    {
+      "id": "src-0101",
+      "text": "India"
+    },
+    {
+      "id": "src-0102",
+      "text": "Indian"
+    },
+    {
+      "id": "src-0103",
+      "text": "الهند – هندي"
+    },
+    {
+      "id": "src-0104",
+      "text": "China"
+    },
+    {
+      "id": "src-0105",
+      "text": "Chinese"
+    },
+    {
+      "id": "src-0106",
+      "text": "الصين – صيني"
+    },
+    {
+      "id": "src-0107",
+      "text": "Japan"
+    },
+    {
+      "id": "src-0108",
+      "text": "Japanese"
+    },
+    {
+      "id": "src-0109",
+      "text": "اليابان – ياباني"
+    },
+    {
+      "id": "src-0110",
+      "text": "Spain"
+    },
+    {
+      "id": "src-0111",
+      "text": "Spanish"
+    },
+    {
+      "id": "src-0112",
+      "text": "إسبانيا – إسباني"
+    },
+    {
+      "id": "src-0113",
+      "text": "Poland"
+    },
+    {
+      "id": "src-0114",
+      "text": "Polish"
+    },
+    {
+      "id": "src-0115",
+      "text": "بولندا – بولندي"
+    },
+    {
+      "id": "src-0116",
+      "text": "Iraq"
+    },
+    {
+      "id": "src-0117",
+      "text": "Iraqi"
+    },
+    {
+      "id": "src-0118",
+      "text": "العراق – عراقي"
+    },
+    {
+      "id": "src-0119",
+      "text": "Oman"
+    },
+    {
+      "id": "src-0120",
+      "text": "Omani"
+    },
+    {
+      "id": "src-0121",
+      "text": "عُمان – عُماني"
+    },
+    {
+      "id": "src-0122",
+      "text": "Egypt"
+    },
+    {
+      "id": "src-0123",
+      "text": "Egyptian"
+    },
+    {
+      "id": "src-0124",
+      "text": "مصر – مصري"
+    },
+    {
+      "id": "src-0125",
+      "text": "Saudi Arabia"
+    },
+    {
+      "id": "src-0126",
+      "text": "Saudi Arabian"
+    },
+    {
+      "id": "src-0127",
+      "text": "السعودية – سعودي"
+    },
+    {
+      "id": "src-0128",
+      "text": "Sweden"
+    },
+    {
+      "id": "src-0129",
+      "text": "Swedish"
+    },
+    {
+      "id": "src-0130",
+      "text": "السويد – سويدي"
+    },
+    {
+      "id": "src-0131",
+      "text": "Taiwan"
+    },
+    {
+      "id": "src-0132",
+      "text": "Taiwanese"
+    },
+    {
+      "id": "src-0133",
+      "text": "تايوان – تايواني"
+    },
+    {
+      "id": "src-0134",
+      "text": "Ethiopia"
+    },
+    {
+      "id": "src-0135",
+      "text": "Ethiopian"
+    },
+    {
+      "id": "src-0136",
+      "text": "إثيوبيا – إثيوبي"
+    },
+    {
+      "id": "src-0137",
+      "text": "أمثلة:"
+    },
+    {
+      "id": "src-0138",
+      "text": "• I am from Egypt. = أنا من مصر."
+    },
+    {
+      "id": "src-0139",
+      "text": "• I am Egyptian. = أنا مصري."
+    },
+    {
+      "id": "src-0140",
+      "text": "• She is Japanese. = هي يابانية."
+    },
+    {
+      "id": "src-0141",
+      "text": "الفرق المهم: I am from Egypt تتحدث عن الدولة أو الأصل. أما I am Egyptian فتتحدث عن الجنسية."
+    },
+    {
+      "id": "src-0142",
+      "text": "Capital Cities – العواصم"
+    },
+    {
+      "id": "src-0143",
+      "text": "Country"
+    },
+    {
+      "id": "src-0144",
+      "text": "Capital City"
+    },
+    {
+      "id": "src-0145",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-0146",
+      "text": "Iraq"
+    },
+    {
+      "id": "src-0147",
+      "text": "Baghdad"
+    },
+    {
+      "id": "src-0148",
+      "text": "بغداد"
+    },
+    {
+      "id": "src-0149",
+      "text": "China"
+    },
+    {
+      "id": "src-0150",
+      "text": "Beijing"
+    },
+    {
+      "id": "src-0151",
+      "text": "بكين"
+    },
+    {
+      "id": "src-0152",
+      "text": "Brazil"
+    },
+    {
+      "id": "src-0153",
+      "text": "Brasilia"
+    },
+    {
+      "id": "src-0154",
+      "text": "برازيليا"
+    },
+    {
+      "id": "src-0155",
+      "text": "Spain"
+    },
+    {
+      "id": "src-0156",
+      "text": "Madrid"
+    },
+    {
+      "id": "src-0157",
+      "text": "مدريد"
+    },
+    {
+      "id": "src-0158",
+      "text": "Oman"
+    },
+    {
+      "id": "src-0159",
+      "text": "Muscat"
+    },
+    {
+      "id": "src-0160",
+      "text": "مسقط"
+    },
+    {
+      "id": "src-0161",
+      "text": "India"
+    },
+    {
+      "id": "src-0162",
+      "text": "New Delhi"
+    },
+    {
+      "id": "src-0163",
+      "text": "نيودلهي"
+    },
+    {
+      "id": "src-0164",
+      "text": "Japan"
+    },
+    {
+      "id": "src-0165",
+      "text": "Tokyo"
+    },
+    {
+      "id": "src-0166",
+      "text": "طوكيو"
+    },
+    {
+      "id": "src-0167",
+      "text": "Poland"
+    },
+    {
+      "id": "src-0168",
+      "text": "Warsaw"
+    },
+    {
+      "id": "src-0169",
+      "text": "وارسو"
+    },
+    {
+      "id": "src-0170",
+      "text": "أمثلة:"
+    },
+    {
+      "id": "src-0171",
+      "text": "• Baghdad is the capital of Iraq. = بغداد عاصمة العراق."
+    },
+    {
+      "id": "src-0172",
+      "text": "• Tokyo is the capital of Japan. = طوكيو عاصمة اليابان."
+    },
+    {
+      "id": "src-0173",
+      "text": "2) أسئلة وتراكيب مفيدة"
+    },
+    {
+      "id": "src-0174",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-0175",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-0176",
+      "text": "إجابة نموذجية"
+    },
+    {
+      "id": "src-0177",
+      "text": "Where are you from?"
+    },
+    {
+      "id": "src-0178",
+      "text": "أنت من أين؟"
+    },
+    {
+      "id": "src-0179",
+      "text": "I'm from Egypt."
+    },
+    {
+      "id": "src-0180",
+      "text": "What nationality are you?"
+    },
+    {
+      "id": "src-0181",
+      "text": "ما جنسيتك؟"
+    },
+    {
+      "id": "src-0182",
+      "text": "I'm Egyptian."
+    },
+    {
+      "id": "src-0183",
+      "text": "What is the capital of Japan?"
+    },
+    {
+      "id": "src-0184",
+      "text": "ما عاصمة اليابان؟"
+    },
+    {
+      "id": "src-0185",
+      "text": "Tokyo is the capital of Japan."
+    },
+    {
+      "id": "src-0186",
+      "text": "3) Expressions & Communication"
+    },
+    {
+      "id": "src-0187",
+      "text": "نموذج الحوار الموجود في الدرس:"
+    },
+    {
+      "id": "src-0188",
+      "text": "A: Is Brasilia the capital of Brazil? – هل برازيليا عاصمة البرازيل؟"
+    },
+    {
+      "id": "src-0189",
+      "text": "B: Yes, it is. – نعم، هي كذلك."
+    },
+    {
+      "id": "src-0190",
+      "text": "A: Is it the capital of Saudi Arabia? – هل هي عاصمة السعودية؟"
+    },
+    {
+      "id": "src-0191",
+      "text": "B: No, it isn't. The capital of Saudi Arabia is Riyadh. – لا. عاصمة السعودية هي الرياض."
+    },
+    {
+      "id": "src-0192",
+      "text": "4) Pronunciation"
+    },
+    {
+      "id": "src-0193",
+      "text": "يتضمن الدرس تدريباً على أصوات الحروف المتحركة القصيرة Short vowel sounds، مع الاستماع إلى أسماء الدول والجنسيات وتكرارها. من أمثلة الكلمات المستخدمة في الدرس: India, Japan, country, Oman. النطق العربي تقريبي فقط، والأفضل الاستماع إلى التسجيل الأصلي."
+    },
+    {
+      "id": "src-0194",
+      "text": "5) حل تمارين الصفحات 14–16"
+    },
+    {
+      "id": "src-0195",
+      "text": "الصفحة/التمرين"
+    },
+    {
+      "id": "src-0196",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-0197",
+      "text": "الإجابة أو طريقة الحل"
+    },
+    {
+      "id": "src-0198",
+      "text": "14 – Ex.1"
+    },
+    {
+      "id": "src-0199",
+      "text": "تحديد الدول على الخريطة"
+    },
+    {
+      "id": "src-0200",
+      "text": "a Brazil, b India, c China, d Japan, e Spain, f Poland, g Iraq, h Oman."
+    },
+    {
+      "id": "src-0201",
+      "text": "14 – Ex.2"
+    },
+    {
+      "id": "src-0202",
+      "text": "إكمال الجنسيات"
+    },
+    {
+      "id": "src-0203",
+      "text": "Brazilian, Indian, Chinese, Japanese, Spanish, Polish, Iraqi, Omani."
+    },
+    {
+      "id": "src-0204",
+      "text": "14 – Ex.3"
+    },
+    {
+      "id": "src-0205",
+      "text": "إضافة الدول للمجموعات"
+    },
+    {
+      "id": "src-0206",
+      "text": "Ethiopia–Ethiopian; Saudi Arabia–Saudi Arabian; Sweden–Swedish; Taiwan–Taiwanese."
+    },
+    {
+      "id": "src-0207",
+      "text": "14 – Ex.4"
+    },
+    {
+      "id": "src-0208",
+      "text": "إضافة دول أخرى للخريطة"
+    },
+    {
+      "id": "src-0209",
+      "text": "نشاط مفتوح؛ أمثلة إضافية: Egypt–Egyptian, France–French."
+    },
+    {
+      "id": "src-0210",
+      "text": "15 – Ex.5"
+    },
+    {
+      "id": "src-0211",
+      "text": "تسمية العواصم في الصور"
+    },
+    {
+      "id": "src-0212",
+      "text": "Baghdad, Beijing, Brasilia, Madrid, Muscat, New Delhi, Tokyo, Warsaw."
+    },
+    {
+      "id": "src-0213",
+      "text": "15 – Ex.6"
+    },
+    {
+      "id": "src-0214",
+      "text": "السؤال عن العواصم والدول"
+    },
+    {
+      "id": "src-0215",
+      "text": "استخدم Is ... the capital of ...? والإجابة Yes, it is / No, it isn't."
+    },
+    {
+      "id": "src-0216",
+      "text": "16 – Ex.7"
+    },
+    {
+      "id": "src-0217",
+      "text": "رسم خريطة بسيطة للدولة"
+    },
+    {
+      "id": "src-0218",
+      "text": "نشاط مفتوح؛ اكتب Egypt, Egyptian, Cairo."
+    },
+    {
+      "id": "src-0219",
+      "text": "16 – Ex.8"
+    },
+    {
+      "id": "src-0220",
+      "text": "مطابقة أربعة أشخاص بدولهم بعد الاستماع"
+    },
+    {
+      "id": "src-0221",
+      "text": "الدول: Egypt, India, Japan, Spain. الإجابات تحتاج Audio."
+    },
+    {
+      "id": "src-0222",
+      "text": "16 – Ex.9"
+    },
+    {
+      "id": "src-0223",
+      "text": "تقديم النفس أمام الفصل"
+    },
+    {
+      "id": "src-0224",
+      "text": "Hi. I'm ... I'm ... I'm from ..."
+    },
+    {
+      "id": "src-0225",
+      "text": "تنبيه الاستماع: تمرين 16/8 يحتاج التسجيل الصوتي لتحديد المطابقة الصحيحة، ولا يمكن استنتاجها من الصور وحدها."
+    },
+    {
+      "id": "src-0226",
+      "text": "UNIT 1B — ABOUT ME"
+    },
+    {
+      "id": "src-0227",
+      "text": "الصفحات المطبوعة: 17–19"
+    },
+    {
+      "id": "src-0228",
+      "text": "1) Grammar – Verb to be"
+    },
+    {
+      "id": "src-0229",
+      "text": "Verb to be هو الفعل الذي نستخدمه لربط الشخص بمعلومة مثل الجنسية أو المهنة أو المكان أو العمر."
+    },
+    {
+      "id": "src-0230",
+      "text": "Subject"
+    },
+    {
+      "id": "src-0231",
+      "text": "Verb to be"
+    },
+    {
+      "id": "src-0232",
+      "text": "مثال"
+    },
+    {
+      "id": "src-0233",
+      "text": "I"
+    },
+    {
+      "id": "src-0234",
+      "text": "am"
+    },
+    {
+      "id": "src-0235",
+      "text": "I am a student."
+    },
+    {
+      "id": "src-0236",
+      "text": "You"
+    },
+    {
+      "id": "src-0237",
+      "text": "are"
+    },
+    {
+      "id": "src-0238",
+      "text": "You are Egyptian."
+    },
+    {
+      "id": "src-0239",
+      "text": "We"
+    },
+    {
+      "id": "src-0240",
+      "text": "are"
+    },
+    {
+      "id": "src-0241",
+      "text": "We are friends."
+    },
+    {
+      "id": "src-0242",
+      "text": "They"
+    },
+    {
+      "id": "src-0243",
+      "text": "are"
+    },
+    {
+      "id": "src-0244",
+      "text": "They are students."
+    },
+    {
+      "id": "src-0245",
+      "text": "He"
+    },
+    {
+      "id": "src-0246",
+      "text": "is"
+    },
+    {
+      "id": "src-0247",
+      "text": "He is a teacher."
+    },
+    {
+      "id": "src-0248",
+      "text": "She"
+    },
+    {
+      "id": "src-0249",
+      "text": "is"
+    },
+    {
+      "id": "src-0250",
+      "text": "She is Japanese."
+    },
+    {
+      "id": "src-0251",
+      "text": "It"
+    },
+    {
+      "id": "src-0252",
+      "text": "is"
+    },
+    {
+      "id": "src-0253",
+      "text": "It is a city."
+    },
+    {
+      "id": "src-0254",
+      "text": "Positive – الإثبات"
+    },
+    {
+      "id": "src-0255",
+      "text": "التركيب: Subject + am/is/are + complement."
+    },
+    {
+      "id": "src-0256",
+      "text": "• I am from Egypt. = أنا من مصر."
+    },
+    {
+      "id": "src-0257",
+      "text": "• You are a student. = أنت طالب."
+    },
+    {
+      "id": "src-0258",
+      "text": "• They are from Japan. = هم من اليابان."
+    },
+    {
+      "id": "src-0259",
+      "text": "Negative – النفي"
+    },
+    {
+      "id": "src-0260",
+      "text": "التركيب: Subject + am/is/are + not + complement."
+    },
+    {
+      "id": "src-0261",
+      "text": "• I am not from Brazil. = أنا لست من البرازيل."
+    },
+    {
+      "id": "src-0262",
+      "text": "• You are not a teacher. = أنت لست مدرساً."
+    },
+    {
+      "id": "src-0263",
+      "text": "• They are not students. = هم ليسوا طلاباً."
+    },
+    {
+      "id": "src-0264",
+      "text": "Questions – السؤال"
+    },
+    {
+      "id": "src-0265",
+      "text": "نقدم فعل be على الفاعل: Am/Is/Are + subject + complement?"
+    },
+    {
+      "id": "src-0266",
+      "text": "• Are you a student? = هل أنت طالب؟"
+    },
+    {
+      "id": "src-0267",
+      "text": "• Are they from India? = هل هم من الهند؟"
+    },
+    {
+      "id": "src-0268",
+      "text": "Short Answers – الإجابات القصيرة"
+    },
+    {
+      "id": "src-0269",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-0270",
+      "text": "إجابة نعم"
+    },
+    {
+      "id": "src-0271",
+      "text": "إجابة لا"
+    },
+    {
+      "id": "src-0272",
+      "text": "Are you Egyptian?"
+    },
+    {
+      "id": "src-0273",
+      "text": "Yes, I am."
+    },
+    {
+      "id": "src-0274",
+      "text": "No, I'm not."
+    },
+    {
+      "id": "src-0275",
+      "text": "Are they students?"
+    },
+    {
+      "id": "src-0276",
+      "text": "Yes, they are."
+    },
+    {
+      "id": "src-0277",
+      "text": "No, they aren't."
+    },
+    {
+      "id": "src-0278",
+      "text": "Is he from Oman?"
+    },
+    {
+      "id": "src-0279",
+      "text": "Yes, he is."
+    },
+    {
+      "id": "src-0280",
+      "text": "No, he isn't."
+    },
+    {
+      "id": "src-0281",
+      "text": "Short Forms – الاختصارات"
+    },
+    {
+      "id": "src-0282",
+      "text": "Full form"
+    },
+    {
+      "id": "src-0283",
+      "text": "Short form"
+    },
+    {
+      "id": "src-0284",
+      "text": "I am"
+    },
+    {
+      "id": "src-0285",
+      "text": "I'm"
+    },
+    {
+      "id": "src-0286",
+      "text": "You are"
+    },
+    {
+      "id": "src-0287",
+      "text": "You're"
+    },
+    {
+      "id": "src-0288",
+      "text": "We are"
+    },
+    {
+      "id": "src-0289",
+      "text": "We're"
+    },
+    {
+      "id": "src-0290",
+      "text": "They are"
+    },
+    {
+      "id": "src-0291",
+      "text": "They're"
+    },
+    {
+      "id": "src-0292",
+      "text": "He is"
+    },
+    {
+      "id": "src-0293",
+      "text": "He's"
+    },
+    {
+      "id": "src-0294",
+      "text": "She is"
+    },
+    {
+      "id": "src-0295",
+      "text": "She's"
+    },
+    {
+      "id": "src-0296",
+      "text": "It is"
+    },
+    {
+      "id": "src-0297",
+      "text": "It's"
+    },
+    {
+      "id": "src-0298",
+      "text": "are not"
+    },
+    {
+      "id": "src-0299",
+      "text": "aren't"
+    },
+    {
+      "id": "src-0300",
+      "text": "is not"
+    },
+    {
+      "id": "src-0301",
+      "text": "isn't"
+    },
+    {
+      "id": "src-0302",
+      "text": "خطأ شائع: لا تجب Yes, I do عن سؤال Are you ...? لأن السؤال يستخدم فعل be، والإجابة تكون Yes, I am."
+    },
+    {
+      "id": "src-0303",
+      "text": "2) Talking about age – التحدث عن العمر"
+    },
+    {
+      "id": "src-0304",
+      "text": "السؤال: How old are you? = كم عمرك؟"
+    },
+    {
+      "id": "src-0305",
+      "text": "الإجابة: I'm 20 years old. أو I'm 20. = عمري 20 سنة."
+    },
+    {
+      "id": "src-0306",
+      "text": "خطأ شائع: لا تقل I have 20 years. الصحيح I'm 20 years old."
+    },
+    {
+      "id": "src-0307",
+      "text": "3) Numbers – الأرقام"
+    },
+    {
+      "id": "src-0308",
+      "text": "الرقم"
+    },
+    {
+      "id": "src-0309",
+      "text": "بالإنجليزية"
+    },
+    {
+      "id": "src-0310",
+      "text": "الرقم"
+    },
+    {
+      "id": "src-0311",
+      "text": "بالإنجليزية"
+    },
+    {
+      "id": "src-0312",
+      "text": "15"
+    },
+    {
+      "id": "src-0313",
+      "text": "fifteen"
+    },
+    {
+      "id": "src-0314",
+      "text": "16"
+    },
+    {
+      "id": "src-0315",
+      "text": "sixteen"
+    },
+    {
+      "id": "src-0316",
+      "text": "17"
+    },
+    {
+      "id": "src-0317",
+      "text": "seventeen"
+    },
+    {
+      "id": "src-0318",
+      "text": "18"
+    },
+    {
+      "id": "src-0319",
+      "text": "eighteen"
+    },
+    {
+      "id": "src-0320",
+      "text": "19"
+    },
+    {
+      "id": "src-0321",
+      "text": "nineteen"
+    },
+    {
+      "id": "src-0322",
+      "text": "20"
+    },
+    {
+      "id": "src-0323",
+      "text": "twenty"
+    },
+    {
+      "id": "src-0324",
+      "text": "21"
+    },
+    {
+      "id": "src-0325",
+      "text": "twenty-one"
+    },
+    {
+      "id": "src-0326",
+      "text": "22"
+    },
+    {
+      "id": "src-0327",
+      "text": "twenty-two"
+    },
+    {
+      "id": "src-0328",
+      "text": "23"
+    },
+    {
+      "id": "src-0329",
+      "text": "twenty-three"
+    },
+    {
+      "id": "src-0330",
+      "text": "24"
+    },
+    {
+      "id": "src-0331",
+      "text": "twenty-four"
+    },
+    {
+      "id": "src-0332",
+      "text": "25"
+    },
+    {
+      "id": "src-0333",
+      "text": "twenty-five"
+    },
+    {
+      "id": "src-0334",
+      "text": "ملاحظة للحفظ: كثير من الأعداد من 13 إلى 19 تنتهي بـ -teen، بينما 20 وما بعدها في العشرات تنتهي بـ -ty."
+    },
+    {
+      "id": "src-0335",
+      "text": "4) حل تمارين الصفحات 17–19"
+    },
+    {
+      "id": "src-0336",
+      "text": "الصفحة/التمرين"
+    },
+    {
+      "id": "src-0337",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-0338",
+      "text": "الإجابة أو طريقة الحل"
+    },
+    {
+      "id": "src-0339",
+      "text": "17 – Ex.1"
+    },
+    {
+      "id": "src-0340",
+      "text": "ترتيب حوار والاستماع للتحقق"
+    },
+    {
+      "id": "src-0341",
+      "text": "الحوار عن Rashid وMark: التعارف، السؤال عن الأصل، ثم Muscat وSalalah. راجع التسجيل لتأكيد ترتيب الأسطر حرفياً."
+    },
+    {
+      "id": "src-0342",
+      "text": "17 – Ex.2"
+    },
+    {
+      "id": "src-0343",
+      "text": "ممارسة الحوار وتغيير الاسم والمدينة"
+    },
+    {
+      "id": "src-0344",
+      "text": "نشاط أزواج؛ استخدم Where are you from? وI'm from ..."
+    },
+    {
+      "id": "src-0345",
+      "text": "18 – Ex.3"
+    },
+    {
+      "id": "src-0346",
+      "text": "اختيار الكلمات الصحيحة"
+    },
+    {
+      "id": "src-0347",
+      "text": "a are; b I'm; c Are (إذا كان السؤال موجهاً إلى you); d I'm not / is; e am; f isn't; g is."
+    },
+    {
+      "id": "src-0348",
+      "text": "18 – Ex.4"
+    },
+    {
+      "id": "src-0349",
+      "text": "كتابة الاختصارات"
+    },
+    {
+      "id": "src-0350",
+      "text": "I'm not; They're; You're; You aren't; We're; We aren't."
+    },
+    {
+      "id": "src-0351",
+      "text": "18 – Ex.5"
+    },
+    {
+      "id": "src-0352",
+      "text": "اختيار الأعمار المسموعة"
+    },
+    {
+      "id": "src-0353",
+      "text": "الأرقام في الصندوق: 19, 16, 22, 23, 18, 20, 25, 17, 24, 21. الإجابات تحتاج Audio."
+    },
+    {
+      "id": "src-0354",
+      "text": "18 – Ex.6"
+    },
+    {
+      "id": "src-0355",
+      "text": "سؤال الزملاء عن أعمارهم"
+    },
+    {
+      "id": "src-0356",
+      "text": "How old are you? – I'm 17."
+    },
+    {
+      "id": "src-0357",
+      "text": "19 – Ex.7"
+    },
+    {
+      "id": "src-0358",
+      "text": "كتابة أسئلة للمحادثات"
+    },
+    {
+      "id": "src-0359",
+      "text": "استخدم كلمات الصندوق: Colombia, friends, Japanese, university, 19. بعض الفراغات تحتاج الرجوع للتسجيل/نسخة أوضح."
+    },
+    {
+      "id": "src-0360",
+      "text": "19 – Ex.8"
+    },
+    {
+      "id": "src-0361",
+      "text": "الإجابة عن أسئلة التمرين 7"
+    },
+    {
+      "id": "src-0362",
+      "text": "إجابات شخصية أو مرتبطة بالحوار."
+    },
+    {
+      "id": "src-0363",
+      "text": "19 – Ex.9"
+    },
+    {
+      "id": "src-0364",
+      "text": "إكمال نموذج وكتابة أربع جمل"
+    },
+    {
+      "id": "src-0365",
+      "text": "Name; Country/City; Nationality; Age ثم اكتب أربع جمل عن نفسك."
+    },
+    {
+      "id": "src-0366",
+      "text": "19 – Ex.10"
+    },
+    {
+      "id": "src-0367",
+      "text": "تقديم نفسك للمجموعة"
+    },
+    {
+      "id": "src-0368",
+      "text": "استخدم الاسم والعمر والدراسة والجامعة."
+    },
+    {
+      "id": "src-0369",
+      "text": "UNIT 1C — PERSONAL INFORMATION"
+    },
+    {
+      "id": "src-0370",
+      "text": "الصفحات المطبوعة: 20–21"
+    },
+    {
+      "id": "src-0371",
+      "text": "1) Vocabulary – البيانات الشخصية"
+    },
+    {
+      "id": "src-0372",
+      "text": "English"
+    },
+    {
+      "id": "src-0373",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-0374",
+      "text": "Personal information"
+    },
+    {
+      "id": "src-0375",
+      "text": "معلومات شخصية"
+    },
+    {
+      "id": "src-0376",
+      "text": "Full name"
+    },
+    {
+      "id": "src-0377",
+      "text": "الاسم بالكامل"
+    },
+    {
+      "id": "src-0378",
+      "text": "First name"
+    },
+    {
+      "id": "src-0379",
+      "text": "الاسم الأول"
+    },
+    {
+      "id": "src-0380",
+      "text": "Family name"
+    },
+    {
+      "id": "src-0381",
+      "text": "اسم العائلة"
+    },
+    {
+      "id": "src-0382",
+      "text": "Date of birth"
+    },
+    {
+      "id": "src-0383",
+      "text": "تاريخ الميلاد"
+    },
+    {
+      "id": "src-0384",
+      "text": "Current country"
+    },
+    {
+      "id": "src-0385",
+      "text": "الدولة الحالية"
+    },
+    {
+      "id": "src-0386",
+      "text": "Home country"
+    },
+    {
+      "id": "src-0387",
+      "text": "دولة الأصل"
+    },
+    {
+      "id": "src-0388",
+      "text": "Nationality"
+    },
+    {
+      "id": "src-0389",
+      "text": "الجنسية"
+    },
+    {
+      "id": "src-0390",
+      "text": "Current city"
+    },
+    {
+      "id": "src-0391",
+      "text": "المدينة الحالية"
+    },
+    {
+      "id": "src-0392",
+      "text": "Age"
+    },
+    {
+      "id": "src-0393",
+      "text": "العمر"
+    },
+    {
+      "id": "src-0394",
+      "text": "Education status"
+    },
+    {
+      "id": "src-0395",
+      "text": "الحالة التعليمية"
+    },
+    {
+      "id": "src-0396",
+      "text": "Interests"
+    },
+    {
+      "id": "src-0397",
+      "text": "الاهتمامات"
+    },
+    {
+      "id": "src-0398",
+      "text": "Online form"
+    },
+    {
+      "id": "src-0399",
+      "text": "نموذج إلكتروني"
+    },
+    {
+      "id": "src-0400",
+      "text": "Registration form"
+    },
+    {
+      "id": "src-0401",
+      "text": "نموذج تسجيل"
+    },
+    {
+      "id": "src-0402",
+      "text": "Username"
+    },
+    {
+      "id": "src-0403",
+      "text": "اسم المستخدم"
+    },
+    {
+      "id": "src-0404",
+      "text": "Password"
+    },
+    {
+      "id": "src-0405",
+      "text": "كلمة المرور"
+    },
+    {
+      "id": "src-0406",
+      "text": "Submit"
+    },
+    {
+      "id": "src-0407",
+      "text": "إرسال"
+    },
+    {
+      "id": "src-0408",
+      "text": "School"
+    },
+    {
+      "id": "src-0409",
+      "text": "مدرسة"
+    },
+    {
+      "id": "src-0410",
+      "text": "College"
+    },
+    {
+      "id": "src-0411",
+      "text": "كلية"
+    },
+    {
+      "id": "src-0412",
+      "text": "University"
+    },
+    {
+      "id": "src-0413",
+      "text": "جامعة"
+    },
+    {
+      "id": "src-0414",
+      "text": "Community"
+    },
+    {
+      "id": "src-0415",
+      "text": "مجتمع"
+    },
+    {
+      "id": "src-0416",
+      "text": "Culture"
+    },
+    {
+      "id": "src-0417",
+      "text": "ثقافة"
+    },
+    {
+      "id": "src-0418",
+      "text": "Football"
+    },
+    {
+      "id": "src-0419",
+      "text": "كرة القدم"
+    },
+    {
+      "id": "src-0420",
+      "text": "Art"
+    },
+    {
+      "id": "src-0421",
+      "text": "الفن"
+    },
+    {
+      "id": "src-0422",
+      "text": "2) الاسم الأول واسم العائلة"
+    },
+    {
+      "id": "src-0423",
+      "text": "مثال الكتاب David Beckham: First name = David، Family name = Beckham، Full name = David Beckham. وقد يختلف ترتيب الأسماء في بعض الثقافات؛ والنص يذكر مثال الطالبة الكورية Lee Min-Jung."
+    },
+    {
+      "id": "src-0424",
+      "text": "3) Spelling & Alphabet – التهجئة والأبجدية"
+    },
+    {
+      "id": "src-0425",
+      "text": "عندما يطلب منك شخص تهجئة اسمك، انطق أسماء الحروف منفصلة: O-M-A-R. الكتاب يوضح أن الأبجدية الإنجليزية تتكون من 26 حرفاً، ويجمع الحروف وفق أصوات أسمائها:"
+    },
+    {
+      "id": "src-0426",
+      "text": "مثال الصوت"
+    },
+    {
+      "id": "src-0427",
+      "text": "الحروف"
+    },
+    {
+      "id": "src-0428",
+      "text": "say /eɪ/"
+    },
+    {
+      "id": "src-0429",
+      "text": "A, H, J, K"
+    },
+    {
+      "id": "src-0430",
+      "text": "she /iː/"
+    },
+    {
+      "id": "src-0431",
+      "text": "B, C, D, E, G, P, T, V"
+    },
+    {
+      "id": "src-0432",
+      "text": "ten /e/"
+    },
+    {
+      "id": "src-0433",
+      "text": "F, L, M, N, S, X, Z"
+    },
+    {
+      "id": "src-0434",
+      "text": "my /aɪ/"
+    },
+    {
+      "id": "src-0435",
+      "text": "I, Y"
+    },
+    {
+      "id": "src-0436",
+      "text": "go /əʊ/"
+    },
+    {
+      "id": "src-0437",
+      "text": "O"
+    },
+    {
+      "id": "src-0438",
+      "text": "you /uː/"
+    },
+    {
+      "id": "src-0439",
+      "text": "Q, U, W"
+    },
+    {
+      "id": "src-0440",
+      "text": "car /ɑː/"
+    },
+    {
+      "id": "src-0441",
+      "text": "R"
+    },
+    {
+      "id": "src-0442",
+      "text": "4) Expressions – تعبيرات التحقق"
+    },
+    {
+      "id": "src-0443",
+      "text": "• Can you spell your name, please? = هل يمكنك تهجئة اسمك من فضلك؟"
+    },
+    {
+      "id": "src-0444",
+      "text": "• Can you repeat that, please? = هل يمكنك إعادة ذلك من فضلك؟"
+    },
+    {
+      "id": "src-0445",
+      "text": "• Can you say that again, please? = هل يمكنك قول ذلك مرة أخرى من فضلك؟"
+    },
+    {
+      "id": "src-0446",
+      "text": "• Is that with an S or a Z? = هل هذا بحرف S أم Z؟"
+    },
+    {
+      "id": "src-0447",
+      "text": "5) Reading – Lee Min-Jung"
+    },
+    {
+      "id": "src-0448",
+      "text": "النص يتحدث عن طالبة كورية. يوضح أن اسم العائلة في كوريا يأتي أولاً، وأنها من Seoul عاصمة South Korea، لكنها تعيش حالياً في New York وتدرس Business في Columbia University. تاريخ ميلادها 14 June 1998 واهتماماتها Football and art."
+    },
+    {
+      "id": "src-0449",
+      "text": "المعلومة"
+    },
+    {
+      "id": "src-0450",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-0451",
+      "text": "First name"
+    },
+    {
+      "id": "src-0452",
+      "text": "Min-Jung"
+    },
+    {
+      "id": "src-0453",
+      "text": "Family name"
+    },
+    {
+      "id": "src-0454",
+      "text": "Lee"
+    },
+    {
+      "id": "src-0455",
+      "text": "Home country"
+    },
+    {
+      "id": "src-0456",
+      "text": "South Korea"
+    },
+    {
+      "id": "src-0457",
+      "text": "City of origin"
+    },
+    {
+      "id": "src-0458",
+      "text": "Seoul"
+    },
+    {
+      "id": "src-0459",
+      "text": "Current city"
+    },
+    {
+      "id": "src-0460",
+      "text": "New York"
+    },
+    {
+      "id": "src-0461",
+      "text": "University"
+    },
+    {
+      "id": "src-0462",
+      "text": "Columbia University"
+    },
+    {
+      "id": "src-0463",
+      "text": "Course"
+    },
+    {
+      "id": "src-0464",
+      "text": "Business"
+    },
+    {
+      "id": "src-0465",
+      "text": "Date of birth"
+    },
+    {
+      "id": "src-0466",
+      "text": "14 June 1998"
+    },
+    {
+      "id": "src-0467",
+      "text": "Interests"
+    },
+    {
+      "id": "src-0468",
+      "text": "Football and art"
+    },
+    {
+      "id": "src-0469",
+      "text": "6) حل تمارين الصفحات 20–21"
+    },
+    {
+      "id": "src-0470",
+      "text": "الصفحة/التمرين"
+    },
+    {
+      "id": "src-0471",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-0472",
+      "text": "الإجابة أو طريقة الحل"
+    },
+    {
+      "id": "src-0473",
+      "text": "20 – Ex.1"
+    },
+    {
+      "id": "src-0474",
+      "text": "متى تهجئ اسمك؟"
+    },
+    {
+      "id": "src-0475",
+      "text": "مثال: I spell my name when I register at university."
+    },
+    {
+      "id": "src-0476",
+      "text": "20 – Ex.2"
+    },
+    {
+      "id": "src-0477",
+      "text": "مطابقة أجزاء الاسم"
+    },
+    {
+      "id": "src-0478",
+      "text": "David = First name; Beckham = Family name; David Beckham = Full name."
+    },
+    {
+      "id": "src-0479",
+      "text": "20 – Ex.3"
+    },
+    {
+      "id": "src-0480",
+      "text": "تحديد حروف اسمك وتهجئته"
+    },
+    {
+      "id": "src-0481",
+      "text": "مثال: O-M-A-R."
+    },
+    {
+      "id": "src-0482",
+      "text": "20 – Ex.4"
+    },
+    {
+      "id": "src-0483",
+      "text": "كتابة اسمي صديقين وتهجئتهما"
+    },
+    {
+      "id": "src-0484",
+      "text": "نشاط شخصي؛ مثال: Ahmed: A-H-M-E-D."
+    },
+    {
+      "id": "src-0485",
+      "text": "20 – Ex.5"
+    },
+    {
+      "id": "src-0486",
+      "text": "مناقشة صورة التسجيل"
+    },
+    {
+      "id": "src-0487",
+      "text": "مثال: They are registering for a conference."
+    },
+    {
+      "id": "src-0488",
+      "text": "20 – Ex.6"
+    },
+    {
+      "id": "src-0489",
+      "text": "الاستماع ومقارنة الأفكار"
+    },
+    {
+      "id": "src-0490",
+      "text": "يحتاج Audio 1.8."
+    },
+    {
+      "id": "src-0491",
+      "text": "20 – Ex.7"
+    },
+    {
+      "id": "src-0492",
+      "text": "إكمال المحادثة"
+    },
+    {
+      "id": "src-0493",
+      "text": "الفراغات تتضمن الاسم الكامل والتهجئة وطلب الإعادة؛ يلزم Audio 1.8."
+    },
+    {
+      "id": "src-0494",
+      "text": "20 – Ex.8"
+    },
+    {
+      "id": "src-0495",
+      "text": "ممارسة المحادثة"
+    },
+    {
+      "id": "src-0496",
+      "text": "نشاط أزواج مع تغيير الأسماء."
+    },
+    {
+      "id": "src-0497",
+      "text": "21 – Ex.1"
+    },
+    {
+      "id": "src-0498",
+      "text": "إكمال جمل عن الطالبة الكورية"
+    },
+    {
+      "id": "src-0499",
+      "text": "Min-Jung; South Korea; New York; Columbia University; تاريخ الميلاد 14 June 1998; football and art."
+    },
+    {
+      "id": "src-0500",
+      "text": "21 – Ex.2"
+    },
+    {
+      "id": "src-0501",
+      "text": "مراجعة نموذج التسجيل"
+    },
+    {
+      "id": "src-0502",
+      "text": "تاريخ الميلاد في النموذج غير مطابق؛ الصحيح 14/6/1998. Home country يجب أن يكون South Korea، وEducation status هي University."
+    },
+    {
+      "id": "src-0503",
+      "text": "21 – Ex.3"
+    },
+    {
+      "id": "src-0504",
+      "text": "ملء نموذج صفحة 167"
+    },
+    {
+      "id": "src-0505",
+      "text": "بيانات شخصية للطالب."
+    },
+    {
+      "id": "src-0506",
+      "text": "21 – Ex.4"
+    },
+    {
+      "id": "src-0507",
+      "text": "مراجعة نماذج الزملاء"
+    },
+    {
+      "id": "src-0508",
+      "text": "تحقق من وضوح المعلومات والكتابة وصحة التهجئة."
+    },
+    {
+      "id": "src-0509",
+      "text": "ملاحظة دقيقة: لا نحسب عمر Lee Min-Jung في إجابة ثابتة من النص دون تحديد سنة مرجعية. تاريخ الميلاد الوارد هو 14 June 1998."
+    },
+    {
+      "id": "src-0510",
+      "text": "WRITING SKILLS — مهارات الكتابة"
+    },
+    {
+      "id": "src-0511",
+      "text": "الصفحات المطبوعة: 22–23"
+    },
+    {
+      "id": "src-0512",
+      "text": "1) Punctuation – علامات الترقيم"
+    },
+    {
+      "id": "src-0513",
+      "text": "العلامة"
+    },
+    {
+      "id": "src-0514",
+      "text": "اسمها"
+    },
+    {
+      "id": "src-0515",
+      "text": "الاستخدام"
+    },
+    {
+      "id": "src-0516",
+      "text": "A, B, C"
+    },
+    {
+      "id": "src-0517",
+      "text": "Capital letters"
+    },
+    {
+      "id": "src-0518",
+      "text": "بداية الجمل وأسماء الأشخاص والدول والمدن والجنسيات، والضمير I."
+    },
+    {
+      "id": "src-0519",
+      "text": "."
+    },
+    {
+      "id": "src-0520",
+      "text": "Full stop"
+    },
+    {
+      "id": "src-0521",
+      "text": "نهاية الجملة الخبرية."
+    },
+    {
+      "id": "src-0522",
+      "text": "?"
+    },
+    {
+      "id": "src-0523",
+      "text": "Question mark"
+    },
+    {
+      "id": "src-0524",
+      "text": "نهاية السؤال."
+    },
+    {
+      "id": "src-0525",
+      "text": "!"
+    },
+    {
+      "id": "src-0526",
+      "text": "Exclamation mark"
+    },
+    {
+      "id": "src-0527",
+      "text": "التعجب أو المشاعر القوية أو التحذير."
+    },
+    {
+      "id": "src-0528",
+      "text": "2) حل تدريبات صفحة 22"
+    },
+    {
+      "id": "src-0529",
+      "text": "التمرين"
+    },
+    {
+      "id": "src-0530",
+      "text": "الحل"
+    },
+    {
+      "id": "src-0531",
+      "text": "Ex.1 – مطابقة العلامات"
+    },
+    {
+      "id": "src-0532",
+      "text": "الحروف الكبيرة = Capital letters؛ النقطة = Full stop؛ ? = Question mark؛ ! = Exclamation mark."
+    },
+    {
+      "id": "src-0533",
+      "text": "Ex.2 – إكمال القواعد"
+    },
+    {
+      "id": "src-0534",
+      "text": "a names start with a capital letter; b a new sentence starts with a capital letter; c I with a capital letter; d a full stop; e a question mark; f an exclamation mark."
+    },
+    {
+      "id": "src-0535",
+      "text": "Ex.3 – تصحيح الجمل"
+    },
+    {
+      "id": "src-0536",
+      "text": "My name is Ahmed. / Stop running! / I'm from Amman in Jordan. / Are you Kuwaiti? / I really love that singer! / My name is Eman and I'm from Cairo in Egypt. / Quiet, please."
+    },
+    {
+      "id": "src-0537",
+      "text": "3) Personal Profile – الملف الشخصي"
+    },
+    {
+      "id": "src-0538",
+      "text": "الملف الشخصي فقرة قصيرة تقدم فيها بياناتك. قد تشمل الاسم والجنسية ومكان الأصل ومكان الإقامة وتاريخ الميلاد والتعليم والاهتمامات."
+    },
+    {
+      "id": "src-0539",
+      "text": "نموذج خالد الدوسري"
+    },
+    {
+      "id": "src-0540",
+      "text": "My name is Khalid Al Dosari, and I'm from Jeddah in Saudi Arabia. I'm Saudi Arabian. My date of birth is 27th July 2001. I now live in Dubai and I study at a technical college. It's a great place to live and there is a lot to do here. In my free time I like reading, playing football and meeting my friends."
+    },
+    {
+      "id": "src-0541",
+      "text": "الترجمة: اسمي خالد الدوسري، وأنا من جدة في السعودية. أنا سعودي. تاريخ ميلادي 27 يوليو 2001. أعيش الآن في دبي وأدرس في كلية تقنية. إنها مكان رائع للعيش وهناك الكثير مما يمكن فعله هنا. في وقت فراغي أحب القراءة ولعب كرة القدم ومقابلة أصدقائي."
+    },
+    {
+      "id": "src-0542",
+      "text": "Field"
+    },
+    {
+      "id": "src-0543",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-0544",
+      "text": "First name"
+    },
+    {
+      "id": "src-0545",
+      "text": "Khalid"
+    },
+    {
+      "id": "src-0546",
+      "text": "Family name"
+    },
+    {
+      "id": "src-0547",
+      "text": "Al Dosari"
+    },
+    {
+      "id": "src-0548",
+      "text": "Nationality"
+    },
+    {
+      "id": "src-0549",
+      "text": "Saudi Arabian"
+    },
+    {
+      "id": "src-0550",
+      "text": "Home city"
+    },
+    {
+      "id": "src-0551",
+      "text": "Jeddah"
+    },
+    {
+      "id": "src-0552",
+      "text": "Current city"
+    },
+    {
+      "id": "src-0553",
+      "text": "Dubai"
+    },
+    {
+      "id": "src-0554",
+      "text": "Date of birth"
+    },
+    {
+      "id": "src-0555",
+      "text": "27th July 2001"
+    },
+    {
+      "id": "src-0556",
+      "text": "Education status"
+    },
+    {
+      "id": "src-0557",
+      "text": "College"
+    },
+    {
+      "id": "src-0558",
+      "text": "Interests"
+    },
+    {
+      "id": "src-0559",
+      "text": "Reading, playing football, meeting friends"
+    },
+    {
+      "id": "src-0560",
+      "text": "4) نموذج كتابة شخصي"
+    },
+    {
+      "id": "src-0561",
+      "text": "My name is Omar Shalaby. I'm Egyptian and I'm from Egypt. I live in Cairo. My date of birth is 15 August 2005. I'm a university student. My interests are programming, technology and learning English."
+    },
+    {
+      "id": "src-0562",
+      "text": "الترجمة: اسمي عمر شلبي. أنا مصري ومن مصر. أعيش في القاهرة. تاريخ ميلادي 15 أغسطس 2005. أنا طالب جامعي. اهتماماتي البرمجة والتكنولوجيا وتعلم الإنجليزية."
+    },
+    {
+      "id": "src-0563",
+      "text": "5) خطوات كتابة Personal Profile"
+    },
+    {
+      "id": "src-0564",
+      "text": "• ابدأ بالاسم: My name is ..."
+    },
+    {
+      "id": "src-0565",
+      "text": "• اذكر الجنسية والأصل: I'm Egyptian. / I'm from Egypt."
+    },
+    {
+      "id": "src-0566",
+      "text": "• اذكر مكان الإقامة: I live in ..."
+    },
+    {
+      "id": "src-0567",
+      "text": "• اذكر تاريخ الميلاد: My date of birth is ..."
+    },
+    {
+      "id": "src-0568",
+      "text": "• اذكر الدراسة: I'm a university student."
+    },
+    {
+      "id": "src-0569",
+      "text": "• اختم بالاهتمامات: My interests are ..."
+    },
+    {
+      "id": "src-0570",
+      "text": "C21 SKILLS — المهارات الإضافية"
+    },
+    {
+      "id": "src-0571",
+      "text": "الصفحات المطبوعة: 24–27"
+    },
+    {
+      "id": "src-0572",
+      "text": "A) Study Skills – Recording Vocabulary (ص 24)"
+    },
+    {
+      "id": "src-0573",
+      "text": "المقصود تسجيل المفردات وتنظيمها في مجموعات حسب الموضوع بدلاً من حفظ الكلمات عشوائياً."
+    },
+    {
+      "id": "src-0574",
+      "text": "المجموعة"
+    },
+    {
+      "id": "src-0575",
+      "text": "الكلمات"
+    },
+    {
+      "id": "src-0576",
+      "text": "Accommodation"
+    },
+    {
+      "id": "src-0577",
+      "text": "house, flat, apartment"
+    },
+    {
+      "id": "src-0578",
+      "text": "Rooms"
+    },
+    {
+      "id": "src-0579",
+      "text": "kitchen, living room, bedroom"
+    },
+    {
+      "id": "src-0580",
+      "text": "Furniture"
+    },
+    {
+      "id": "src-0581",
+      "text": "bed, table, chair"
+    },
+    {
+      "id": "src-0582",
+      "text": "حل التمارين:"
+    },
+    {
+      "id": "src-0583",
+      "text": "• Ex.1: الكلمات الرئيسية الظاهرة: accommodation, rooms, furniture."
+    },
+    {
+      "id": "src-0584",
+      "text": "• Ex.2: الموضوع العام الذي يجمع المجموعات هو Homes."
+    },
+    {
+      "id": "src-0585",
+      "text": "• Ex.3: ضع الكلمات تحت العناوين الصحيحة، ثم أضف كلمتين من عندك لكل مجموعة."
+    },
+    {
+      "id": "src-0586",
+      "text": "• Ex.4: أنشئ جدولاً مماثلاً عن موضوع تهتم به."
+    },
+    {
+      "id": "src-0587",
+      "text": "طريقة تطبيق المهارة: اكتب الكلمة ومعناها ومثالاً، ثم صنفها في مجموعة موضوعية مثل المنزل أو الدراسة أو التكنولوجيا."
+    },
+    {
+      "id": "src-0588",
+      "text": "B) Communication – Talking to Classmates (ص 25)"
+    },
+    {
+      "id": "src-0589",
+      "text": "الهدف هو المشاركة في التحدث داخل الفصل، وعدم التوقف بسبب الخوف من الأخطاء أو نقص المفردات."
+    },
+    {
+      "id": "src-0590",
+      "text": "تجارب الطلاب الثلاثة"
+    },
+    {
+      "id": "src-0591",
+      "text": "Kai: لا يعرف أحياناً الكلمة المناسبة فيتوقف عن الكلام. الحل الذي يستخدمه: يقول الكلمة بلغته ويطلب من زميل أو مدرس المقابل الإنجليزي."
+    },
+    {
+      "id": "src-0592",
+      "text": "Amy: تخاف من ارتكاب الأخطاء أمام زملائها وتحتاج إلى وقت للتفكير. تستخدم عبارة Just a minute, I'm thinking."
+    },
+    {
+      "id": "src-0593",
+      "text": "Ali: يعرف أنه يرتكب أخطاء لكنه يحب التحدث ويتدرب يومياً مع أخيه."
+    },
+    {
+      "id": "src-0594",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-0595",
+      "text": "الإجابة النموذجية"
+    },
+    {
+      "id": "src-0596",
+      "text": "ما مشكلة Kai؟"
+    },
+    {
+      "id": "src-0597",
+      "text": "لا يعرف الكلمات المناسبة."
+    },
+    {
+      "id": "src-0598",
+      "text": "ما مشكلة Amy؟"
+    },
+    {
+      "id": "src-0599",
+      "text": "الخوف من الأخطاء أمام الزملاء."
+    },
+    {
+      "id": "src-0600",
+      "text": "ما مشكلة Ali؟"
+    },
+    {
+      "id": "src-0601",
+      "text": "يرتكب أخطاء كثيرة لكنه يستمر في التدريب."
+    },
+    {
+      "id": "src-0602",
+      "text": "كيف تتعاملون؟"
+    },
+    {
+      "id": "src-0603",
+      "text": "طلب المساعدة، أخذ وقت للتفكير، والتدريب اليومي."
+    },
+    {
+      "id": "src-0604",
+      "text": "Ex.2: قدّم نفسك بشخصية أو وظيفة أو هواية تختارها. مثال: Hello. My name is Adam. I'm a teacher and I like reading."
+    },
+    {
+      "id": "src-0605",
+      "text": "C) Communication – Checking Information (ص 26)"
+    },
+    {
+      "id": "src-0606",
+      "text": "معناها التأكد من المعلومات، خاصة الأسماء وأرقام الهاتف. لا تفترض أنك سمعت المعلومة بشكل صحيح؛ اطلب الإعادة أو التهجئة."
+    },
+    {
+      "id": "src-0607",
+      "text": "• Can you repeat that, please? = هل يمكنك إعادة ذلك؟"
+    },
+    {
+      "id": "src-0608",
+      "text": "• Can you say that again, please? = هل يمكنك قول ذلك مرة أخرى؟"
+    },
+    {
+      "id": "src-0609",
+      "text": "• Sorry, is that with an S or a Z? = هل هو بحرف S أم Z؟"
+    },
+    {
+      "id": "src-0610",
+      "text": "Ex.1 – ترتيب الكلمات:"
+    },
+    {
+      "id": "src-0611",
+      "text": "• Can you repeat that, please?"
+    },
+    {
+      "id": "src-0612",
+      "text": "• Can you say that again, please?"
+    },
+    {
+      "id": "src-0613",
+      "text": "• Sorry, is that with an S or a Z?"
+    },
+    {
+      "id": "src-0614",
+      "text": "Ex.2–6: أنشطة الاستماع والمحادثة عن تسجيل Mariam في film society. إكمال اسم العائلة ورقم الهاتف والتحقق منهما يحتاج إلى Audio 1.9 وAudio 1.10."
+    },
+    {
+      "id": "src-0615",
+      "text": "D) Planning Ahead (ص 27)"
+    },
+    {
+      "id": "src-0616",
+      "text": "التخطيط للمستقبل يعني تقييم ما تعلمته، وتحديد ما تحتاج إلى التدريب عليه، ووضع خطة قابلة للتنفيذ."
+    },
+    {
+      "id": "src-0617",
+      "text": "ما أستطيع فعله"
+    },
+    {
+      "id": "src-0618",
+      "text": "ما أحتاج إلى التدريب عليه"
+    },
+    {
+      "id": "src-0619",
+      "text": "I can introduce myself."
+    },
+    {
+      "id": "src-0620",
+      "text": "I need to practise spelling."
+    },
+    {
+      "id": "src-0621",
+      "text": "I can say my nationality."
+    },
+    {
+      "id": "src-0622",
+      "text": "I need to practise questions."
+    },
+    {
+      "id": "src-0623",
+      "text": "I can complete a form."
+    },
+    {
+      "id": "src-0624",
+      "text": "I need to practise pronunciation."
+    },
+    {
+      "id": "src-0625",
+      "text": "مثال لخطة أسبوع:"
+    },
+    {
+      "id": "src-0626",
+      "text": "الخطة"
+    },
+    {
+      "id": "src-0627",
+      "text": "الوقت"
+    },
+    {
+      "id": "src-0628",
+      "text": "التقييم"
+    },
+    {
+      "id": "src-0629",
+      "text": "Learn five new words."
+    },
+    {
+      "id": "src-0630",
+      "text": "10 minutes"
+    },
+    {
+      "id": "src-0631",
+      "text": "Done / Not done"
+    },
+    {
+      "id": "src-0632",
+      "text": "Practise spelling names."
+    },
+    {
+      "id": "src-0633",
+      "text": "10 minutes"
+    },
+    {
+      "id": "src-0634",
+      "text": "Done / More practice"
+    },
+    {
+      "id": "src-0635",
+      "text": "Read a short English text."
+    },
+    {
+      "id": "src-0636",
+      "text": "15 minutes"
+    },
+    {
+      "id": "src-0637",
+      "text": "Done / More practice"
+    },
+    {
+      "id": "src-0638",
+      "text": "Practise speaking."
+    },
+    {
+      "id": "src-0639",
+      "text": "15 minutes"
+    },
+    {
+      "id": "src-0640",
+      "text": "Done / More practice"
+    },
+    {
+      "id": "src-0641",
+      "text": "تتضمن الصفحة أيضاً تقييم المشاركة في الفصل: السؤال عند عدم الفهم، مساعدة الزملاء، المشاركة في العمل الجماعي، والإجابة عندما تعرف الإجابة."
+    },
+    {
+      "id": "src-0642",
+      "text": "UNIT 1 — المراجعة الشاملة"
+    },
+    {
+      "id": "src-0643",
+      "text": "1) أهم المفردات"
+    },
+    {
+      "id": "src-0644",
+      "text": "English"
+    },
+    {
+      "id": "src-0645",
+      "text": "العربية"
+    },
+    {
+      "id": "src-0646",
+      "text": "Country"
+    },
+    {
+      "id": "src-0647",
+      "text": "دولة"
+    },
+    {
+      "id": "src-0648",
+      "text": "Nationality"
+    },
+    {
+      "id": "src-0649",
+      "text": "جنسية"
+    },
+    {
+      "id": "src-0650",
+      "text": "Capital city"
+    },
+    {
+      "id": "src-0651",
+      "text": "عاصمة"
+    },
+    {
+      "id": "src-0652",
+      "text": "First name"
+    },
+    {
+      "id": "src-0653",
+      "text": "الاسم الأول"
+    },
+    {
+      "id": "src-0654",
+      "text": "Family name"
+    },
+    {
+      "id": "src-0655",
+      "text": "اسم العائلة"
+    },
+    {
+      "id": "src-0656",
+      "text": "Full name"
+    },
+    {
+      "id": "src-0657",
+      "text": "الاسم بالكامل"
+    },
+    {
+      "id": "src-0658",
+      "text": "Age"
+    },
+    {
+      "id": "src-0659",
+      "text": "العمر"
+    },
+    {
+      "id": "src-0660",
+      "text": "Date of birth"
+    },
+    {
+      "id": "src-0661",
+      "text": "تاريخ الميلاد"
+    },
+    {
+      "id": "src-0662",
+      "text": "Current city"
+    },
+    {
+      "id": "src-0663",
+      "text": "المدينة الحالية"
+    },
+    {
+      "id": "src-0664",
+      "text": "Home country"
+    },
+    {
+      "id": "src-0665",
+      "text": "دولة الأصل"
+    },
+    {
+      "id": "src-0666",
+      "text": "Interests"
+    },
+    {
+      "id": "src-0667",
+      "text": "الاهتمامات"
+    },
+    {
+      "id": "src-0668",
+      "text": "Education status"
+    },
+    {
+      "id": "src-0669",
+      "text": "الحالة التعليمية"
+    },
+    {
+      "id": "src-0670",
+      "text": "Registration form"
+    },
+    {
+      "id": "src-0671",
+      "text": "استمارة تسجيل"
+    },
+    {
+      "id": "src-0672",
+      "text": "Username"
+    },
+    {
+      "id": "src-0673",
+      "text": "اسم المستخدم"
+    },
+    {
+      "id": "src-0674",
+      "text": "Password"
+    },
+    {
+      "id": "src-0675",
+      "text": "كلمة المرور"
+    },
+    {
+      "id": "src-0676",
+      "text": "Spell"
+    },
+    {
+      "id": "src-0677",
+      "text": "يتهجى"
+    },
+    {
+      "id": "src-0678",
+      "text": "Repeat"
+    },
+    {
+      "id": "src-0679",
+      "text": "يكرر"
+    },
+    {
+      "id": "src-0680",
+      "text": "Accommodation"
+    },
+    {
+      "id": "src-0681",
+      "text": "سكن"
+    },
+    {
+      "id": "src-0682",
+      "text": "Furniture"
+    },
+    {
+      "id": "src-0683",
+      "text": "أثاث"
+    },
+    {
+      "id": "src-0684",
+      "text": "Conference"
+    },
+    {
+      "id": "src-0685",
+      "text": "مؤتمر"
+    },
+    {
+      "id": "src-0686",
+      "text": "Classmate"
+    },
+    {
+      "id": "src-0687",
+      "text": "زميل دراسة"
+    },
+    {
+      "id": "src-0688",
+      "text": "2) ملخص القواعد"
+    },
+    {
+      "id": "src-0689",
+      "text": "التركيب"
+    },
+    {
+      "id": "src-0690",
+      "text": "الاستخدام"
+    },
+    {
+      "id": "src-0691",
+      "text": "مثال"
+    },
+    {
+      "id": "src-0692",
+      "text": "I + am"
+    },
+    {
+      "id": "src-0693",
+      "text": "أنا"
+    },
+    {
+      "id": "src-0694",
+      "text": "I am Egyptian."
+    },
+    {
+      "id": "src-0695",
+      "text": "You/We/They + are"
+    },
+    {
+      "id": "src-0696",
+      "text": "أنت/نحن/هم"
+    },
+    {
+      "id": "src-0697",
+      "text": "They are students."
+    },
+    {
+      "id": "src-0698",
+      "text": "He/She/It + is"
+    },
+    {
+      "id": "src-0699",
+      "text": "هو/هي/لغير العاقل"
+    },
+    {
+      "id": "src-0700",
+      "text": "She is Japanese."
+    },
+    {
+      "id": "src-0701",
+      "text": "Subject + be + not"
+    },
+    {
+      "id": "src-0702",
+      "text": "النفي"
+    },
+    {
+      "id": "src-0703",
+      "text": "I am not from Japan."
+    },
+    {
+      "id": "src-0704",
+      "text": "Be + subject + ...?"
+    },
+    {
+      "id": "src-0705",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-0706",
+      "text": "Are you a student?"
+    },
+    {
+      "id": "src-0707",
+      "text": "Yes/No + subject + be"
+    },
+    {
+      "id": "src-0708",
+      "text": "إجابة قصيرة"
+    },
+    {
+      "id": "src-0709",
+      "text": "Yes, I am. / No, I'm not."
+    },
+    {
+      "id": "src-0710",
+      "text": "3) أهم الأسئلة"
+    },
+    {
+      "id": "src-0711",
+      "text": "• What's your name? – ما اسمك؟"
+    },
+    {
+      "id": "src-0712",
+      "text": "• What's your first name? – ما اسمك الأول؟"
+    },
+    {
+      "id": "src-0713",
+      "text": "• What's your family name? – ما اسم عائلتك؟"
+    },
+    {
+      "id": "src-0714",
+      "text": "• Where are you from? – من أين أنت؟"
+    },
+    {
+      "id": "src-0715",
+      "text": "• What nationality are you? – ما جنسيتك؟"
+    },
+    {
+      "id": "src-0716",
+      "text": "• How old are you? – كم عمرك؟"
+    },
+    {
+      "id": "src-0717",
+      "text": "• Where do you live? – أين تعيش؟"
+    },
+    {
+      "id": "src-0718",
+      "text": "• What's your date of birth? – ما تاريخ ميلادك؟"
+    },
+    {
+      "id": "src-0719",
+      "text": "• What are your interests? – ما اهتماماتك؟"
+    },
+    {
+      "id": "src-0720",
+      "text": "• Can you spell your name? – هل يمكنك تهجئة اسمك؟"
+    },
+    {
+      "id": "src-0721",
+      "text": "4) أخطاء شائعة"
+    },
+    {
+      "id": "src-0722",
+      "text": "خطأ"
+    },
+    {
+      "id": "src-0723",
+      "text": "الصحيح"
+    },
+    {
+      "id": "src-0724",
+      "text": "السبب"
+    },
+    {
+      "id": "src-0725",
+      "text": "I is Egyptian."
+    },
+    {
+      "id": "src-0726",
+      "text": "I am Egyptian."
+    },
+    {
+      "id": "src-0727",
+      "text": "I تأخذ am."
+    },
+    {
+      "id": "src-0728",
+      "text": "You is a student."
+    },
+    {
+      "id": "src-0729",
+      "text": "You are a student."
+    },
+    {
+      "id": "src-0730",
+      "text": "You تأخذ are."
+    },
+    {
+      "id": "src-0731",
+      "text": "I have 20 years."
+    },
+    {
+      "id": "src-0732",
+      "text": "I'm 20 years old."
+    },
+    {
+      "id": "src-0733",
+      "text": "العمر يستخدم be."
+    },
+    {
+      "id": "src-0734",
+      "text": "Are you from Egypt."
+    },
+    {
+      "id": "src-0735",
+      "text": "Are you from Egypt?"
+    },
+    {
+      "id": "src-0736",
+      "text": "السؤال ينتهي بعلامة استفهام."
+    },
+    {
+      "id": "src-0737",
+      "text": "I'm from egypt."
+    },
+    {
+      "id": "src-0738",
+      "text": "I'm from Egypt."
+    },
+    {
+      "id": "src-0739",
+      "text": "اسم الدولة بحرف كبير."
+    },
+    {
+      "id": "src-0740",
+      "text": "My name is omar."
+    },
+    {
+      "id": "src-0741",
+      "text": "My name is Omar."
+    },
+    {
+      "id": "src-0742",
+      "text": "الأسماء تبدأ بحرف كبير."
+    },
+    {
+      "id": "src-0743",
+      "text": "5) قائمة مراجعة قبل الامتحان"
+    },
+    {
+      "id": "src-0744",
+      "text": "□ أحفظ الدول والجنسيات والعواصم الواردة في الدرس."
+    },
+    {
+      "id": "src-0745",
+      "text": "□ أميز بين Country وNationality وCapital City."
+    },
+    {
+      "id": "src-0746",
+      "text": "□ أستخدم am / is / are في الإثبات والنفي والسؤال."
+    },
+    {
+      "id": "src-0747",
+      "text": "□ أستخدم الاختصارات والإجابات القصيرة."
+    },
+    {
+      "id": "src-0748",
+      "text": "□ أسأل عن العمر وأجيب عنه."
+    },
+    {
+      "id": "src-0749",
+      "text": "□ أتهجى اسمي وأطلب إعادة المعلومة."
+    },
+    {
+      "id": "src-0750",
+      "text": "□ أفهم نموذج التسجيل والملف الشخصي."
+    },
+    {
+      "id": "src-0751",
+      "text": "□ أستخدم الحروف الكبيرة وعلامات الترقيم."
+    },
+    {
+      "id": "src-0752",
+      "text": "□ أنظم المفردات وأضع خطة للمذاكرة."
+    },
+    {
+      "id": "src-0753",
+      "text": "UNIT 1 — اختبار تدريبي شامل"
+    },
+    {
+      "id": "src-0754",
+      "text": "اختبار تدريبي من إعداد المذكرة مبني على موضوعات الوحدة، ليس اختباراً رسمياً."
+    },
+    {
+      "id": "src-0755",
+      "text": "Part 1 – Multiple Choice"
+    },
+    {
+      "id": "src-0756",
+      "text": "1. Brazil → (Brazilian / Brazilish / Chinese)."
+    },
+    {
+      "id": "src-0757",
+      "text": "2. What is the capital of Japan? (Beijing / Tokyo / Madrid)."
+    },
+    {
+      "id": "src-0758",
+      "text": "3. Choose: (I is / I are / I am) Egyptian."
+    },
+    {
+      "id": "src-0759",
+      "text": "4. Short form of They are: (They're / They's / They is)."
+    },
+    {
+      "id": "src-0760",
+      "text": "5. Family name means: (الاسم الأول / اسم العائلة / الجنسية)."
+    },
+    {
+      "id": "src-0761",
+      "text": "6. Choose the correct question: (Are you a student? / Is you a student?)."
+    },
+    {
+      "id": "src-0762",
+      "text": "7. Which is a capital city? (Japanese / Muscat / Egyptian)."
+    },
+    {
+      "id": "src-0763",
+      "text": "8. Choose: (How old are you? / How age are you?)."
+    },
+    {
+      "id": "src-0764",
+      "text": "Part 2 – Complete the sentences"
+    },
+    {
+      "id": "src-0765",
+      "text": "1. I ____ Egyptian."
+    },
+    {
+      "id": "src-0766",
+      "text": "2. She ____ from Japan."
+    },
+    {
+      "id": "src-0767",
+      "text": "3. They ____ students."
+    },
+    {
+      "id": "src-0768",
+      "text": "4. I am ____ years old."
+    },
+    {
+      "id": "src-0769",
+      "text": "5. Baghdad is the capital of ____."
+    },
+    {
+      "id": "src-0770",
+      "text": "6. My ____ name is Ahmed."
+    },
+    {
+      "id": "src-0771",
+      "text": "7. Can you ____ your name?"
+    },
+    {
+      "id": "src-0772",
+      "text": "8. My interests ____ football and art."
+    },
+    {
+      "id": "src-0773",
+      "text": "Part 3 – Choose the correct answer"
+    },
+    {
+      "id": "src-0774",
+      "text": "1. (Where / What) are you from?"
+    },
+    {
+      "id": "src-0775",
+      "text": "2. (Are / Is) you a student?"
+    },
+    {
+      "id": "src-0776",
+      "text": "3. She (am / is / are) Egyptian."
+    },
+    {
+      "id": "src-0777",
+      "text": "4. My name (am / is / are) Omar."
+    },
+    {
+      "id": "src-0778",
+      "text": "5. I (am not / isn't / aren't) from Japan."
+    },
+    {
+      "id": "src-0779",
+      "text": "Part 4 – Correct the mistakes"
+    },
+    {
+      "id": "src-0780",
+      "text": "1. I is from Egypt."
+    },
+    {
+      "id": "src-0781",
+      "text": "2. Are you Egyptian."
+    },
+    {
+      "id": "src-0782",
+      "text": "3. My name is ahmed."
+    },
+    {
+      "id": "src-0783",
+      "text": "4. I have 21 years."
+    },
+    {
+      "id": "src-0784",
+      "text": "5. They is students."
+    },
+    {
+      "id": "src-0785",
+      "text": "Part 5 – Rearrange the words"
+    },
+    {
+      "id": "src-0786",
+      "text": "1. from / I / Egypt / am"
+    },
+    {
+      "id": "src-0787",
+      "text": "2. you / old / How / are?"
+    },
+    {
+      "id": "src-0788",
+      "text": "3. nationality / What / your / is?"
+    },
+    {
+      "id": "src-0789",
+      "text": "4. name / My / Omar / is"
+    },
+    {
+      "id": "src-0790",
+      "text": "5. you / spell / Can / name / your?"
+    },
+    {
+      "id": "src-0791",
+      "text": "Part 6 – Complete the conversations"
+    },
+    {
+      "id": "src-0792",
+      "text": "A: Hello! What's your name?"
+    },
+    {
+      "id": "src-0793",
+      "text": "B: My name is ______."
+    },
+    {
+      "id": "src-0794",
+      "text": "A: Where are you from?"
+    },
+    {
+      "id": "src-0795",
+      "text": "B: I'm from ______."
+    },
+    {
+      "id": "src-0796",
+      "text": "A: What's your nationality?"
+    },
+    {
+      "id": "src-0797",
+      "text": "B: I'm ______."
+    },
+    {
+      "id": "src-0798",
+      "text": "A: Can I have your full name, please?"
+    },
+    {
+      "id": "src-0799",
+      "text": "B: It's Ahmed Hassan."
+    },
+    {
+      "id": "src-0800",
+      "text": "A: Can you _____ your family name?"
+    },
+    {
+      "id": "src-0801",
+      "text": "B: H-A-S-S-A-N."
+    },
+    {
+      "id": "src-0802",
+      "text": "Part 7 – Reading Comprehension"
+    },
+    {
+      "id": "src-0803",
+      "text": "My name is Sara. I'm from Egypt and I'm Egyptian. I live in Cairo. I'm 20 years old. I'm a university student. My interests are reading and football."
+    },
+    {
+      "id": "src-0804",
+      "text": "1. What's her name?"
+    },
+    {
+      "id": "src-0805",
+      "text": "2. Where is she from?"
+    },
+    {
+      "id": "src-0806",
+      "text": "3. What is her nationality?"
+    },
+    {
+      "id": "src-0807",
+      "text": "4. Where does she live?"
+    },
+    {
+      "id": "src-0808",
+      "text": "5. How old is she?"
+    },
+    {
+      "id": "src-0809",
+      "text": "6. What are her interests?"
+    },
+    {
+      "id": "src-0810",
+      "text": "Part 8 – Writing"
+    },
+    {
+      "id": "src-0811",
+      "text": "اكتب فقرة من 5 إلى 7 جمل عن نفسك، تشمل الاسم والجنسية والدولة أو المدينة والعمر والحالة التعليمية والاهتمامات."
+    },
+    {
+      "id": "src-0812",
+      "text": "نموذج الإجابة"
+    },
+    {
+      "id": "src-0813",
+      "text": "القسم"
+    },
+    {
+      "id": "src-0814",
+      "text": "الإجابات"
+    },
+    {
+      "id": "src-0815",
+      "text": "Part 1"
+    },
+    {
+      "id": "src-0816",
+      "text": "1 Brazilian; 2 Tokyo; 3 I am; 4 They're; 5 اسم العائلة; 6 Are you a student?; 7 Muscat; 8 How old are you?"
+    },
+    {
+      "id": "src-0817",
+      "text": "Part 2"
+    },
+    {
+      "id": "src-0818",
+      "text": "1 am; 2 is; 3 are; 4 20 (مثال); 5 Iraq; 6 first; 7 spell; 8 are."
+    },
+    {
+      "id": "src-0819",
+      "text": "Part 3"
+    },
+    {
+      "id": "src-0820",
+      "text": "1 Where; 2 Are; 3 is; 4 is; 5 am not."
+    },
+    {
+      "id": "src-0821",
+      "text": "Part 4"
+    },
+    {
+      "id": "src-0822",
+      "text": "1 I am from Egypt. 2 Are you Egyptian? 3 My name is Ahmed. 4 I am 21 years old. 5 They are students."
+    },
+    {
+      "id": "src-0823",
+      "text": "Part 5"
+    },
+    {
+      "id": "src-0824",
+      "text": "1 I am from Egypt. 2 How old are you? 3 What is your nationality? 4 My name is Omar. 5 Can you spell your name?"
+    },
+    {
+      "id": "src-0825",
+      "text": "Part 6"
+    },
+    {
+      "id": "src-0826",
+      "text": "إجابات شخصية في الفراغات؛ spell في السؤال الأخير."
+    },
+    {
+      "id": "src-0827",
+      "text": "Part 7"
+    },
+    {
+      "id": "src-0828",
+      "text": "1 Sara; 2 Egypt; 3 Egyptian; 4 Cairo; 5 20; 6 reading and football."
+    },
+    {
+      "id": "src-0829",
+      "text": "نموذج كتابة:"
+    },
+    {
+      "id": "src-0830",
+      "text": "My name is Omar Shalaby. I'm Egyptian. I'm from Egypt and I live in Cairo. I'm a university student. My interests are programming, technology and reading."
+    },
+    {
+      "id": "src-0831",
+      "text": "ملاحظة ختامية"
+    },
+    {
+      "id": "src-0832",
+      "text": "هذه المذكرة تغطي موضوعات صفحات 14–27 المتاحة من Unit 1، مع توضيح الأنشطة التي تحتاج إلى التسجيل الصوتي. راجع الكتاب والتسجيلات الأصلية عند توفرها للتحقق من الإجابات الصوتية والتفاصيل غير المقروءة بوضوح."
+    },
+    {
+      "id": "src-0833",
+      "text": "02"
+    },
+    {
+      "id": "src-0834",
+      "text": "UNIT 2 — INTRODUCTIONS & CONVERSATIONS"
+    },
+    {
+      "id": "src-0835",
+      "text": "ENGLISH FOR THE 21st CENTURY"
+    },
+    {
+      "id": "src-0836",
+      "text": "LEVEL 1 – C21"
+    },
+    {
+      "id": "src-0837",
+      "text": "مذكرة شرح وتدريب – الوحدة الثانية"
+    },
+    {
+      "id": "src-0838",
+      "text": "شرح بالعربية المصرية المبسطة"
+    },
+    {
+      "id": "src-0839",
+      "text": "مع المفردات والقواعد والمحادثات والقراءة والكتابة والمهارات والاختبارات"
+    },
+    {
+      "id": "src-0840",
+      "text": "مبنية على صفحات الكتاب المطبوعة 30–41"
+    },
+    {
+      "id": "src-0841",
+      "text": "Introductions & Conversations • English for the 21st Century"
+    },
+    {
+      "id": "src-0842",
+      "text": "ENGLISH FOR THE 21st CENTURY"
+    },
+    {
+      "id": "src-0843",
+      "text": "مقدمة وحدود المذكرة"
+    },
+    {
+      "id": "src-0844",
+      "text": "هذه المذكرة تشرح Unit 2 من كتاب English for the 21st Century – Level 1 (C21)، وفق ترتيب الكتاب: 2A Talking about other people، ثم 2B Introductions، ثم 2C Cool beauty، ثم Writing Skills وC21 Skills."
+    },
+    {
+      "id": "src-0845",
+      "text": "ملاحظة مصدرية مهمة: اعتمد الشرح على صفحات الكتاب المطبوعة 30–41 (صفحات PDF من 19 إلى 30). ملفات الصوت/الفيديو المستقلة غير مرفقة، لذلك تم شرح المهارة والمعلومات الظاهرة فقط، ولم يتم اختراع إجابات التسجيلات."
+    },
+    {
+      "id": "src-0846",
+      "text": "فهرس المحتويات الأصلي"
+    },
+    {
+      "id": "src-0847",
+      "text": "1. Unit 2A – Talking about other people (ص 30–35)"
+    },
+    {
+      "id": "src-0848",
+      "text": "2. Unit 2B – Introductions (ص 36–37)"
+    },
+    {
+      "id": "src-0849",
+      "text": "3. Unit 2C – Cool beauty (ص 38)"
+    },
+    {
+      "id": "src-0850",
+      "text": "4. Writing Skills (ص 39–40)"
+    },
+    {
+      "id": "src-0851",
+      "text": "5. C21 Skills (ص 41)"
+    },
+    {
+      "id": "src-0852",
+      "text": "6. مراجعة شاملة وجداول القواعد"
+    },
+    {
+      "id": "src-0853",
+      "text": "7. اختبار تدريبي ونموذج الإجابة"
+    },
+    {
+      "id": "src-0854",
+      "text": "UNIT 2A — TALKING ABOUT OTHER PEOPLE"
+    },
+    {
+      "id": "src-0855",
+      "text": "صفحات الكتاب المطبوعة: 30–35"
+    },
+    {
+      "id": "src-0856",
+      "text": "هدف الدرس إنك تتكلم عن أشخاص آخرين: اسمهم، وظيفتهم، جنسيتهم أو بلدهم، وتوصف معلومات عنهم باستخدام he / she / it / they مع فعل be."
+    },
+    {
+      "id": "src-0857",
+      "text": "1) Vocabulary – المفردات"
+    },
+    {
+      "id": "src-0858",
+      "text": "الكلمة / التعبير"
+    },
+    {
+      "id": "src-0859",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-0860",
+      "text": "مثال وترجمته"
+    },
+    {
+      "id": "src-0861",
+      "text": "writer"
+    },
+    {
+      "id": "src-0862",
+      "text": "كاتب / مؤلف"
+    },
+    {
+      "id": "src-0863",
+      "text": "J. K. Rowling is a writer. = ج. ك. رولينج كاتبة."
+    },
+    {
+      "id": "src-0864",
+      "text": "football manager"
+    },
+    {
+      "id": "src-0865",
+      "text": "مدير / مدرب كرة قدم"
+    },
+    {
+      "id": "src-0866",
+      "text": "José Mourinho is a football manager. = جوزيه مورينيو مدير كرة قدم."
+    },
+    {
+      "id": "src-0867",
+      "text": "professor"
+    },
+    {
+      "id": "src-0868",
+      "text": "أستاذ جامعي"
+    },
+    {
+      "id": "src-0869",
+      "text": "Dr Mehmet Oz is a professor. = الدكتور محمد أوز أستاذ."
+    },
+    {
+      "id": "src-0870",
+      "text": "surgery"
+    },
+    {
+      "id": "src-0871",
+      "text": "الجراحة"
+    },
+    {
+      "id": "src-0872",
+      "text": "He is a professor of surgery. = هو أستاذ في الجراحة."
+    },
+    {
+      "id": "src-0873",
+      "text": "university"
+    },
+    {
+      "id": "src-0874",
+      "text": "جامعة"
+    },
+    {
+      "id": "src-0875",
+      "text": "She works at a university. = هي تعمل في جامعة."
+    },
+    {
+      "id": "src-0876",
+      "text": "job"
+    },
+    {
+      "id": "src-0877",
+      "text": "وظيفة"
+    },
+    {
+      "id": "src-0878",
+      "text": "What is his job? = ما وظيفته؟"
+    },
+    {
+      "id": "src-0879",
+      "text": "talk-show host"
+    },
+    {
+      "id": "src-0880",
+      "text": "مقدم برنامج حواري"
+    },
+    {
+      "id": "src-0881",
+      "text": "She is a talk-show host. = هي مقدمة برنامج حواري."
+    },
+    {
+      "id": "src-0882",
+      "text": "author"
+    },
+    {
+      "id": "src-0883",
+      "text": "مؤلف"
+    },
+    {
+      "id": "src-0884",
+      "text": "She is an author. = هي مؤلفة."
+    },
+    {
+      "id": "src-0885",
+      "text": "bestselling books"
+    },
+    {
+      "id": "src-0886",
+      "text": "كتب الأكثر مبيعاً"
+    },
+    {
+      "id": "src-0887",
+      "text": "He writes bestselling books. = هو يكتب كتباً الأكثر مبيعاً."
+    },
+    {
+      "id": "src-0888",
+      "text": "health"
+    },
+    {
+      "id": "src-0889",
+      "text": "الصحة"
+    },
+    {
+      "id": "src-0890",
+      "text": "The show is about health. = البرنامج عن الصحة."
+    },
+    {
+      "id": "src-0891",
+      "text": "lifestyle"
+    },
+    {
+      "id": "src-0892",
+      "text": "نمط الحياة"
+    },
+    {
+      "id": "src-0893",
+      "text": "The books are about lifestyles. = الكتب عن أنماط الحياة."
+    },
+    {
+      "id": "src-0894",
+      "text": "famous"
+    },
+    {
+      "id": "src-0895",
+      "text": "مشهور"
+    },
+    {
+      "id": "src-0896",
+      "text": "They are famous. = هم مشهورون."
+    },
+    {
+      "id": "src-0897",
+      "text": "television personality"
+    },
+    {
+      "id": "src-0898",
+      "text": "شخصية تلفزيونية"
+    },
+    {
+      "id": "src-0899",
+      "text": "He is a television personality. = هو شخصية تلفزيونية."
+    },
+    {
+      "id": "src-0900",
+      "text": "footballer"
+    },
+    {
+      "id": "src-0901",
+      "text": "لاعب كرة قدم"
+    },
+    {
+      "id": "src-0902",
+      "text": "Messi is a footballer. = ميسي لاعب كرة قدم."
+    },
+    {
+      "id": "src-0903",
+      "text": "businessman"
+    },
+    {
+      "id": "src-0904",
+      "text": "رجل أعمال"
+    },
+    {
+      "id": "src-0905",
+      "text": "Lakshmi Mittal is a businessman. = لاكشمي ميتال رجل أعمال."
+    },
+    {
+      "id": "src-0906",
+      "text": "musician"
+    },
+    {
+      "id": "src-0907",
+      "text": "موسيقي"
+    },
+    {
+      "id": "src-0908",
+      "text": "Amr Diab is a musician. = عمرو دياب موسيقي."
+    },
+    {
+      "id": "src-0909",
+      "text": "tennis player"
+    },
+    {
+      "id": "src-0910",
+      "text": "لاعب تنس"
+    },
+    {
+      "id": "src-0911",
+      "text": "Rafael Nadal is a tennis player. = رافائيل نادال لاعب تنس."
+    },
+    {
+      "id": "src-0912",
+      "text": "politician"
+    },
+    {
+      "id": "src-0913",
+      "text": "سياسي"
+    },
+    {
+      "id": "src-0914",
+      "text": "Kamala Harris is a politician. = كامالا هاريس سياسية."
+    },
+    {
+      "id": "src-0915",
+      "text": "car company"
+    },
+    {
+      "id": "src-0916",
+      "text": "شركة سيارات"
+    },
+    {
+      "id": "src-0917",
+      "text": "Mercedes is a car company. = مرسيدس شركة سيارات."
+    },
+    {
+      "id": "src-0918",
+      "text": "capital"
+    },
+    {
+      "id": "src-0919",
+      "text": "عاصمة"
+    },
+    {
+      "id": "src-0920",
+      "text": "Islamabad is a capital city. = إسلام آباد عاصمة."
+    },
+    {
+      "id": "src-0921",
+      "text": "أسماء وأوصاف الشخصيات الواردة"
+    },
+    {
+      "id": "src-0922",
+      "text": "الشخص"
+    },
+    {
+      "id": "src-0923",
+      "text": "الوظيفة"
+    },
+    {
+      "id": "src-0924",
+      "text": "البلد / الجنسية في الصفحة"
+    },
+    {
+      "id": "src-0925",
+      "text": "J. K. Rowling"
+    },
+    {
+      "id": "src-0926",
+      "text": "Writer"
+    },
+    {
+      "id": "src-0927",
+      "text": "UK"
+    },
+    {
+      "id": "src-0928",
+      "text": "José Mourinho"
+    },
+    {
+      "id": "src-0929",
+      "text": "Football manager"
+    },
+    {
+      "id": "src-0930",
+      "text": "Portuguese"
+    },
+    {
+      "id": "src-0931",
+      "text": "Dr Mehmet Oz"
+    },
+    {
+      "id": "src-0932",
+      "text": "Professor of surgery; TV talk-show host; author"
+    },
+    {
+      "id": "src-0933",
+      "text": "Turkish-American"
+    },
+    {
+      "id": "src-0934",
+      "text": "Amr Diab"
+    },
+    {
+      "id": "src-0935",
+      "text": "Musician"
+    },
+    {
+      "id": "src-0936",
+      "text": "Egypt"
+    },
+    {
+      "id": "src-0937",
+      "text": "Zainab Salbi"
+    },
+    {
+      "id": "src-0938",
+      "text": "Talk-show host"
+    },
+    {
+      "id": "src-0939",
+      "text": "Iraq"
+    },
+    {
+      "id": "src-0940",
+      "text": "Rafael Nadal"
+    },
+    {
+      "id": "src-0941",
+      "text": "Tennis player"
+    },
+    {
+      "id": "src-0942",
+      "text": "Spain"
+    },
+    {
+      "id": "src-0943",
+      "text": "Lakshmi Mittal"
+    },
+    {
+      "id": "src-0944",
+      "text": "Businessman"
+    },
+    {
+      "id": "src-0945",
+      "text": "India"
+    },
+    {
+      "id": "src-0946",
+      "text": "Lionel Messi"
+    },
+    {
+      "id": "src-0947",
+      "text": "Footballer"
+    },
+    {
+      "id": "src-0948",
+      "text": "Argentina"
+    },
+    {
+      "id": "src-0949",
+      "text": "Elissa"
+    },
+    {
+      "id": "src-0950",
+      "text": "Female singer"
+    },
+    {
+      "id": "src-0951",
+      "text": "Lebanese"
+    },
+    {
+      "id": "src-0952",
+      "text": "Kei Nishikori"
+    },
+    {
+      "id": "src-0953",
+      "text": "Tennis player"
+    },
+    {
+      "id": "src-0954",
+      "text": "Japan"
+    },
+    {
+      "id": "src-0955",
+      "text": "Kamala Harris"
+    },
+    {
+      "id": "src-0956",
+      "text": "Politician"
+    },
+    {
+      "id": "src-0957",
+      "text": "American"
+    },
+    {
+      "id": "src-0958",
+      "text": "2) Grammar – Be with he, she, it and they"
+    },
+    {
+      "id": "src-0959",
+      "text": "في Unit 1 اتعلمنا I am وyou/we/they are. هنا بنركز على استخدام فعل be مع he وshe وit وthey لما نتكلم عن شخص أو شيء أو مجموعة."
+    },
+    {
+      "id": "src-0960",
+      "text": "الفاعل"
+    },
+    {
+      "id": "src-0961",
+      "text": "فعل be"
+    },
+    {
+      "id": "src-0962",
+      "text": "المثال"
+    },
+    {
+      "id": "src-0963",
+      "text": "الترجمة"
+    },
+    {
+      "id": "src-0964",
+      "text": "He"
+    },
+    {
+      "id": "src-0965",
+      "text": "is"
+    },
+    {
+      "id": "src-0966",
+      "text": "He's a football manager."
+    },
+    {
+      "id": "src-0967",
+      "text": "هو مدير كرة قدم."
+    },
+    {
+      "id": "src-0968",
+      "text": "She"
+    },
+    {
+      "id": "src-0969",
+      "text": "is"
+    },
+    {
+      "id": "src-0970",
+      "text": "She's from the UK."
+    },
+    {
+      "id": "src-0971",
+      "text": "هي من المملكة المتحدة."
+    },
+    {
+      "id": "src-0972",
+      "text": "It"
+    },
+    {
+      "id": "src-0973",
+      "text": "is"
+    },
+    {
+      "id": "src-0974",
+      "text": "It's a big city."
+    },
+    {
+      "id": "src-0975",
+      "text": "إنها مدينة كبيرة."
+    },
+    {
+      "id": "src-0976",
+      "text": "They"
+    },
+    {
+      "id": "src-0977",
+      "text": "are"
+    },
+    {
+      "id": "src-0978",
+      "text": "They're Brazilian."
+    },
+    {
+      "id": "src-0979",
+      "text": "هم برازيليون."
+    },
+    {
+      "id": "src-0980",
+      "text": "Positive – الإثبات"
+    },
+    {
+      "id": "src-0981",
+      "text": "التركيب: Subject + is/are + complement. نستخدم is مع he/she/it، ونستخدم are مع they."
+    },
+    {
+      "id": "src-0982",
+      "text": "• He is famous. = هو مشهور."
+    },
+    {
+      "id": "src-0983",
+      "text": "• She is a writer. = هي كاتبة."
+    },
+    {
+      "id": "src-0984",
+      "text": "• It is the capital. = إنها العاصمة."
+    },
+    {
+      "id": "src-0985",
+      "text": "• They are Italian. = هم إيطاليون."
+    },
+    {
+      "id": "src-0986",
+      "text": "Negative – النفي"
+    },
+    {
+      "id": "src-0987",
+      "text": "التركيب: Subject + is/are + not + complement."
+    },
+    {
+      "id": "src-0988",
+      "text": "• He isn't a football player. = هو ليس لاعب كرة قدم."
+    },
+    {
+      "id": "src-0989",
+      "text": "• She isn't a presenter. = هي ليست مقدمة برامج."
+    },
+    {
+      "id": "src-0990",
+      "text": "• It isn't the capital. = إنها ليست العاصمة."
+    },
+    {
+      "id": "src-0991",
+      "text": "• They aren't Italian. = هم ليسوا إيطاليين."
+    },
+    {
+      "id": "src-0992",
+      "text": "Questions – الأسئلة"
+    },
+    {
+      "id": "src-0993",
+      "text": "لعمل سؤال نعم/لا، نضع Is أو Are في بداية الجملة: Is + he/she/it ...? / Are + they ...?"
+    },
+    {
+      "id": "src-0994",
+      "text": "• Is he Brazilian? = هل هو برازيلي؟"
+    },
+    {
+      "id": "src-0995",
+      "text": "• Is she a writer? = هل هي كاتبة؟"
+    },
+    {
+      "id": "src-0996",
+      "text": "• Are they writers? = هل هم كُتّاب؟"
+    },
+    {
+      "id": "src-0997",
+      "text": "Short answers – الإجابات القصيرة"
+    },
+    {
+      "id": "src-0998",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-0999",
+      "text": "Yes"
+    },
+    {
+      "id": "src-1000",
+      "text": "No"
+    },
+    {
+      "id": "src-1001",
+      "text": "Is he Brazilian?"
+    },
+    {
+      "id": "src-1002",
+      "text": "Yes, he is."
+    },
+    {
+      "id": "src-1003",
+      "text": "No, he isn't."
+    },
+    {
+      "id": "src-1004",
+      "text": "Is she a writer?"
+    },
+    {
+      "id": "src-1005",
+      "text": "Yes, she is."
+    },
+    {
+      "id": "src-1006",
+      "text": "No, she isn't."
+    },
+    {
+      "id": "src-1007",
+      "text": "Is it the capital?"
+    },
+    {
+      "id": "src-1008",
+      "text": "Yes, it is."
+    },
+    {
+      "id": "src-1009",
+      "text": "No, it isn't."
+    },
+    {
+      "id": "src-1010",
+      "text": "Are they writers?"
+    },
+    {
+      "id": "src-1011",
+      "text": "Yes, they are."
+    },
+    {
+      "id": "src-1012",
+      "text": "No, they aren't."
+    },
+    {
+      "id": "src-1013",
+      "text": "Wh- questions – أسئلة المعلومات"
+    },
+    {
+      "id": "src-1014",
+      "text": "نستخدم كلمات السؤال للحصول على معلومة محددة، ثم يأتي فعل be ثم الفاعل."
+    },
+    {
+      "id": "src-1015",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-1016",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1017",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-1018",
+      "text": "Where's she from?"
+    },
+    {
+      "id": "src-1019",
+      "text": "هي من أين؟"
+    },
+    {
+      "id": "src-1020",
+      "text": "She's from the UK."
+    },
+    {
+      "id": "src-1021",
+      "text": "What's her name?"
+    },
+    {
+      "id": "src-1022",
+      "text": "ما اسمها؟"
+    },
+    {
+      "id": "src-1023",
+      "text": "Her name's J. K. Rowling."
+    },
+    {
+      "id": "src-1024",
+      "text": "What's his name?"
+    },
+    {
+      "id": "src-1025",
+      "text": "ما اسمه؟"
+    },
+    {
+      "id": "src-1026",
+      "text": "His name's José Mourinho."
+    },
+    {
+      "id": "src-1027",
+      "text": "ملاحظة: What's = What is، وWhere's = Where is. وher تُستخدم مع she، وhis تُستخدم مع he."
+    },
+    {
+      "id": "src-1028",
+      "text": "3) Short forms – الاختصارات"
+    },
+    {
+      "id": "src-1029",
+      "text": "الصيغة الكاملة"
+    },
+    {
+      "id": "src-1030",
+      "text": "الاختصار"
+    },
+    {
+      "id": "src-1031",
+      "text": "he is"
+    },
+    {
+      "id": "src-1032",
+      "text": "he's"
+    },
+    {
+      "id": "src-1033",
+      "text": "she is"
+    },
+    {
+      "id": "src-1034",
+      "text": "she's"
+    },
+    {
+      "id": "src-1035",
+      "text": "it is"
+    },
+    {
+      "id": "src-1036",
+      "text": "it's"
+    },
+    {
+      "id": "src-1037",
+      "text": "they are"
+    },
+    {
+      "id": "src-1038",
+      "text": "they're"
+    },
+    {
+      "id": "src-1039",
+      "text": "he is not"
+    },
+    {
+      "id": "src-1040",
+      "text": "he isn't / he's not"
+    },
+    {
+      "id": "src-1041",
+      "text": "she is not"
+    },
+    {
+      "id": "src-1042",
+      "text": "she isn't / she's not"
+    },
+    {
+      "id": "src-1043",
+      "text": "it is not"
+    },
+    {
+      "id": "src-1044",
+      "text": "it isn't / it's not"
+    },
+    {
+      "id": "src-1045",
+      "text": "they are not"
+    },
+    {
+      "id": "src-1046",
+      "text": "they aren't / they're not"
+    },
+    {
+      "id": "src-1047",
+      "text": "خطأ شائع: لا تستخدم are مع he أو she أو it. الصحيح She is famous، وليس She are famous."
+    },
+    {
+      "id": "src-1048",
+      "text": "4) Reading – ملف Dr Mehmet Oz"
+    },
+    {
+      "id": "src-1049",
+      "text": "في صفحة 31 يطلب الكتاب قراءة فقرة عن Dr Mehmet Oz وتصحيح الاختيارات وإضافة الحروف الكبيرة. مضمون الفقرة: هو أستاذ جراحة في Columbia University، وهذه ليست وظيفته الوحيدة؛ فهو أيضاً مقدم برنامج حواري تلفزيوني. وهو تركي-أمريكي ومتزوج من Lisa Lemole، وهي أيضاً مقدمة برامج ومؤلفة كتب الأكثر مبيعاً. البرامج والكتب تتناول الصحة وأنماط الحياة، وهما شخصيتان تلفزيونيتان مشهورتان."
+    },
+    {
+      "id": "src-1050",
+      "text": "المعلومة"
+    },
+    {
+      "id": "src-1051",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-1052",
+      "text": "Job"
+    },
+    {
+      "id": "src-1053",
+      "text": "Professor of surgery; television talk-show host"
+    },
+    {
+      "id": "src-1054",
+      "text": "University"
+    },
+    {
+      "id": "src-1055",
+      "text": "Columbia University"
+    },
+    {
+      "id": "src-1056",
+      "text": "Nationality"
+    },
+    {
+      "id": "src-1057",
+      "text": "Turkish-American"
+    },
+    {
+      "id": "src-1058",
+      "text": "Wife"
+    },
+    {
+      "id": "src-1059",
+      "text": "Lisa Lemole"
+    },
+    {
+      "id": "src-1060",
+      "text": "Wife's jobs"
+    },
+    {
+      "id": "src-1061",
+      "text": "Talk-show host and author"
+    },
+    {
+      "id": "src-1062",
+      "text": "Topics"
+    },
+    {
+      "id": "src-1063",
+      "text": "Health and lifestyles"
+    },
+    {
+      "id": "src-1064",
+      "text": "5) حل تمارين Unit 2A – الصفحات 30–35"
+    },
+    {
+      "id": "src-1065",
+      "text": "الصفحة / التمرين"
+    },
+    {
+      "id": "src-1066",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-1067",
+      "text": "الحل / طريقة الحل"
+    },
+    {
+      "id": "src-1068",
+      "text": "30 – Ex.1"
+    },
+    {
+      "id": "src-1069",
+      "text": "التحدث عن الصور"
+    },
+    {
+      "id": "src-1070",
+      "text": "نشاط شفهي؛ وصف الأشخاص أو تخمين من هم وما وظائفهم."
+    },
+    {
+      "id": "src-1071",
+      "text": "30 – Ex.2a"
+    },
+    {
+      "id": "src-1072",
+      "text": "إكمال حوار J. K. Rowling"
+    },
+    {
+      "id": "src-1073",
+      "text": "A: What's her name? B: J. K. Rowling. She's a writer. A: Where's she from? B: She's from the UK."
+    },
+    {
+      "id": "src-1074",
+      "text": "30 – Ex.2b"
+    },
+    {
+      "id": "src-1075",
+      "text": "إكمال حوار José Mourinho"
+    },
+    {
+      "id": "src-1076",
+      "text": "A: What's his name? B: José Mourinho. He's a football manager. A: Is he Brazilian? B: No, he isn't. He's Portuguese."
+    },
+    {
+      "id": "src-1077",
+      "text": "30 – Ex.3"
+    },
+    {
+      "id": "src-1078",
+      "text": "الاستماع والتحقق وإكمال ملفات الشخصيات"
+    },
+    {
+      "id": "src-1079",
+      "text": "المعلومات الظاهرة: J. K. Rowling / writer / UK؛ José Mourinho / football manager / Portuguese. استمع للتحقق من التسجيل 2.1."
+    },
+    {
+      "id": "src-1080",
+      "text": "31 – Ex.4"
+    },
+    {
+      "id": "src-1081",
+      "text": "اختيار is/are وإضافة الحروف الكبيرة"
+    },
+    {
+      "id": "src-1082",
+      "text": "Dr Mehmet Oz is a professor of surgery at Columbia University. It isn't his only job. He is also a television talk-show host. He is Turkish-American. He is married to Lisa Lemole. She is also a talk-show host and an author of bestselling books. Their television shows and books are about health and lifestyles. They are both famous television personalities."
+    },
+    {
+      "id": "src-1083",
+      "text": "31 – Ex.5"
+    },
+    {
+      "id": "src-1084",
+      "text": "كتابة الاختصارات"
+    },
+    {
+      "id": "src-1085",
+      "text": "a He's; b She's not / She isn't; c It's; d He isn't / He's not; e They're; f They aren't / They're not; g Where's; h What's."
+    },
+    {
+      "id": "src-1086",
+      "text": "31 – Ex.6"
+    },
+    {
+      "id": "src-1087",
+      "text": "الاستماع والتحقق ونطق الجمل"
+    },
+    {
+      "id": "src-1088",
+      "text": "يحتاج Audio 2.3."
+    },
+    {
+      "id": "src-1089",
+      "text": "31 – Ex.7"
+    },
+    {
+      "id": "src-1090",
+      "text": "التحدث عن أربع شخصيات"
+    },
+    {
+      "id": "src-1091",
+      "text": "Amr Diab: musician/Egypt؛ Zainab Salbi: talk-show host/Iraq؛ Rafael Nadal: tennis player/Spain؛ Lakshmi Mittal: businessman/India."
+    },
+    {
+      "id": "src-1092",
+      "text": "32 – Ex.8"
+    },
+    {
+      "id": "src-1093",
+      "text": "اختيار الإجابات الصحيحة في Quiz"
+    },
+    {
+      "id": "src-1094",
+      "text": "a Argentina; b German; c Pakistan; d Lebanese; e Japan; f American."
+    },
+    {
+      "id": "src-1095",
+      "text": "32 – Ex.9"
+    },
+    {
+      "id": "src-1096",
+      "text": "تكوين أسئلة للتحقق من الإجابات"
+    },
+    {
+      "id": "src-1097",
+      "text": "Is Lionel Messi a footballer? / Is Mercedes a car company? / Is Islamabad the capital of Pakistan? / Is Elissa Lebanese? / Is Kei Nishikori from Japan? / Is Angela Merkel German?"
+    },
+    {
+      "id": "src-1098",
+      "text": "32 – Ex.10"
+    },
+    {
+      "id": "src-1099",
+      "text": "إعداد Quiz في مجموعات"
+    },
+    {
+      "id": "src-1100",
+      "text": "اكتب أسئلة، اختر صوراً، ثم تبادل الاختبار مع مجموعة أخرى. نشاط مفتوح."
+    },
+    {
+      "id": "src-1101",
+      "text": "التسجيلات المطلوبة: Audio 2.1 للتحقق من ملفات الشخصيات، وAudio 2.3 للتحقق من الجمل؛ لا يمكن تحديد أي تفاصيل صوتية إضافية دون الملفات."
+    },
+    {
+      "id": "src-1102",
+      "text": "Unit 2A — تكملة Reading student profiles"
+    },
+    {
+      "id": "src-1103",
+      "text": "الصفحات المطبوعة: 33–35"
+    },
+    {
+      "id": "src-1104",
+      "text": "1) Vocabulary – الاهتمامات والهوايات"
+    },
+    {
+      "id": "src-1105",
+      "text": "الكلمة / التعبير"
+    },
+    {
+      "id": "src-1106",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1107",
+      "text": "مثال"
+    },
+    {
+      "id": "src-1108",
+      "text": "plays"
+    },
+    {
+      "id": "src-1109",
+      "text": "يمارس / يلعب"
+    },
+    {
+      "id": "src-1110",
+      "text": "He plays football. = هو يلعب كرة القدم."
+    },
+    {
+      "id": "src-1111",
+      "text": "sport"
+    },
+    {
+      "id": "src-1112",
+      "text": "رياضة"
+    },
+    {
+      "id": "src-1113",
+      "text": "Sport is important. = الرياضة مهمة."
+    },
+    {
+      "id": "src-1114",
+      "text": "art"
+    },
+    {
+      "id": "src-1115",
+      "text": "الفن"
+    },
+    {
+      "id": "src-1116",
+      "text": "She is interested in art. = هي مهتمة بالفن."
+    },
+    {
+      "id": "src-1117",
+      "text": "painting"
+    },
+    {
+      "id": "src-1118",
+      "text": "الرسم / اللوحات"
+    },
+    {
+      "id": "src-1119",
+      "text": "I like painting. = أحب الرسم."
+    },
+    {
+      "id": "src-1120",
+      "text": "football"
+    },
+    {
+      "id": "src-1121",
+      "text": "كرة القدم"
+    },
+    {
+      "id": "src-1122",
+      "text": "He likes football. = هو يحب كرة القدم."
+    },
+    {
+      "id": "src-1123",
+      "text": "family"
+    },
+    {
+      "id": "src-1124",
+      "text": "العائلة"
+    },
+    {
+      "id": "src-1125",
+      "text": "Her family lives in Vancouver. = عائلتها تعيش في فانكوفر."
+    },
+    {
+      "id": "src-1126",
+      "text": "going to the cinema"
+    },
+    {
+      "id": "src-1127",
+      "text": "الذهاب إلى السينما"
+    },
+    {
+      "id": "src-1128",
+      "text": "They like going to the cinema. = يحبون الذهاب للسينما."
+    },
+    {
+      "id": "src-1129",
+      "text": "social networking"
+    },
+    {
+      "id": "src-1130",
+      "text": "التواصل الاجتماعي عبر الشبكات"
+    },
+    {
+      "id": "src-1131",
+      "text": "Social networking connects people. = التواصل الاجتماعي يربط الناس."
+    },
+    {
+      "id": "src-1132",
+      "text": "course"
+    },
+    {
+      "id": "src-1133",
+      "text": "مقرر / برنامج دراسي"
+    },
+    {
+      "id": "src-1134",
+      "text": "She is on an International Business course. = هي تدرس برنامج الأعمال الدولية."
+    },
+    {
+      "id": "src-1135",
+      "text": "first time away from home"
+    },
+    {
+      "id": "src-1136",
+      "text": "أول مرة بعيداً عن المنزل"
+    },
+    {
+      "id": "src-1137",
+      "text": "It's his first time away from home. = هذه أول مرة له بعيداً عن المنزل."
+    },
+    {
+      "id": "src-1138",
+      "text": "friendly"
+    },
+    {
+      "id": "src-1139",
+      "text": "ودود / لطيف"
+    },
+    {
+      "id": "src-1140",
+      "text": "People are friendly. = الناس ودودون."
+    },
+    {
+      "id": "src-1141",
+      "text": "shy"
+    },
+    {
+      "id": "src-1142",
+      "text": "خجول"
+    },
+    {
+      "id": "src-1143",
+      "text": "She's shy. = هي خجولة."
+    },
+    {
+      "id": "src-1144",
+      "text": "member"
+    },
+    {
+      "id": "src-1145",
+      "text": "عضو"
+    },
+    {
+      "id": "src-1146",
+      "text": "She is a member of a club. = هي عضو في نادٍ."
+    },
+    {
+      "id": "src-1147",
+      "text": "drama club"
+    },
+    {
+      "id": "src-1148",
+      "text": "نادي المسرح"
+    },
+    {
+      "id": "src-1149",
+      "text": "She is in the university drama club. = هي في نادي المسرح بالجامعة."
+    },
+    {
+      "id": "src-1150",
+      "text": "four-year course"
+    },
+    {
+      "id": "src-1151",
+      "text": "برنامج مدته أربع سنوات"
+    },
+    {
+      "id": "src-1152",
+      "text": "He's doing a four-year course. = يدرس برنامجاً مدته أربع سنوات."
+    },
+    {
+      "id": "src-1153",
+      "text": "marketing"
+    },
+    {
+      "id": "src-1154",
+      "text": "التسويق"
+    },
+    {
+      "id": "src-1155",
+      "text": "Sales and Marketing = المبيعات والتسويق."
+    },
+    {
+      "id": "src-1156",
+      "text": "team"
+    },
+    {
+      "id": "src-1157",
+      "text": "فريق"
+    },
+    {
+      "id": "src-1158",
+      "text": "His favourite team is Manchester United. = فريقه المفضل مانشستر يونايتد."
+    },
+    {
+      "id": "src-1159",
+      "text": "part-time student"
+    },
+    {
+      "id": "src-1160",
+      "text": "طالب بدوام جزئي"
+    },
+    {
+      "id": "src-1161",
+      "text": "Fawzia is a part-time student. = فوزية طالبة بدوام جزئي."
+    },
+    {
+      "id": "src-1162",
+      "text": "married"
+    },
+    {
+      "id": "src-1163",
+      "text": "متزوج"
+    },
+    {
+      "id": "src-1164",
+      "text": "She is married. = هي متزوجة."
+    },
+    {
+      "id": "src-1165",
+      "text": "children"
+    },
+    {
+      "id": "src-1166",
+      "text": "أطفال"
+    },
+    {
+      "id": "src-1167",
+      "text": "She has two children. = لديها طفلان."
+    },
+    {
+      "id": "src-1168",
+      "text": "gallery"
+    },
+    {
+      "id": "src-1169",
+      "text": "معرض فني"
+    },
+    {
+      "id": "src-1170",
+      "text": "Her favourite gallery is Vancouver Art Gallery. = معرضها المفضل هو معرض فانكوفر للفنون."
+    },
+    {
+      "id": "src-1171",
+      "text": "a big fan of"
+    },
+    {
+      "id": "src-1172",
+      "text": "من أشد المعجبين بـ"
+    },
+    {
+      "id": "src-1173",
+      "text": "She's a big fan of art galleries. = هي من أشد المعجبين بالمعارض الفنية."
+    },
+    {
+      "id": "src-1174",
+      "text": "2) Reading – New faces at the Vancouver School of Business"
+    },
+    {
+      "id": "src-1175",
+      "text": "النص يعرض ثلاثة طلاب جدد: Funda وAbdul وFawzia. الهدف استخراج بياناتهم واهتماماتهم وآرائهم عن الدراسة."
+    },
+    {
+      "id": "src-1176",
+      "text": "Funda"
+    },
+    {
+      "id": "src-1177",
+      "text": "Funda is from Izmir in Turkey. It's her birthday today. She's 18. Funda is a student on the International Business course and it's her first time away from home. Everything is very different here, but I'm very happy. People are very friendly, she says. Funda is interested in plays. She's a fan of French plays and is a member of the university drama club."
+    },
+    {
+      "id": "src-1178",
+      "text": "الترجمة: فوندا من إزمير في تركيا، واليوم عيد ميلادها، وعمرها 18 سنة. تدرس الأعمال الدولية، وهذه أول مرة تعيش فيها بعيداً عن المنزل. كل شيء مختلف جداً هنا، لكنها سعيدة جداً. تقول إن الناس ودودون جداً. فوندا مهتمة بالمسرحيات، وهي من محبي المسرحيات الفرنسية وعضوة في نادي المسرح بالجامعة."
+    },
+    {
+      "id": "src-1179",
+      "text": "Abdul"
+    },
+    {
+      "id": "src-1180",
+      "text": "Abdul is from Khartoum in Sudan. He's doing a four-year Sales and Marketing course. He's interested in all sports, especially football. His favourite team is Manchester United and he plays on the university football team. His other big interest is using social media. He says it's a great way to talk to my family and friends in Sudan and at university."
+    },
+    {
+      "id": "src-1181",
+      "text": "الترجمة: عبدول من الخرطوم في السودان. يدرس برنامجاً مدته أربع سنوات في المبيعات والتسويق. يهتم بكل الرياضات، وخاصة كرة القدم. فريقه المفضل مانشستر يونايتد، ويلعب في فريق كرة القدم بالجامعة. ومن اهتماماته الكبيرة أيضاً استخدام وسائل التواصل الاجتماعي؛ فهو يراها طريقة رائعة للتحدث مع عائلته وأصدقائه في السودان والجامعة."
+    },
+    {
+      "id": "src-1182",
+      "text": "Fawzia"
+    },
+    {
+      "id": "src-1183",
+      "text": "Fawzia is from Manama in Bahrain, but Vancouver is her home now. She's a part-time student on the International Business course. 'It's an interesting course,' says Fawzia. She is married and has two children. Her family live with her in Vancouver. When she's not busy with her studies and her family, her interests are shopping and art. She's a big fan of art galleries. Her favourite gallery is Vancouver Art Gallery."
+    },
+    {
+      "id": "src-1184",
+      "text": "الترجمة: فوزية من المنامة في البحرين، لكن فانكوفر هي مكان إقامتها الآن. هي طالبة بدوام جزئي في برنامج الأعمال الدولية. تقول إن البرنامج ممتع. هي متزوجة ولديها طفلان، وتعيش عائلتها معها في فانكوفر. عندما لا تكون مشغولة بالدراسة والعائلة، تهتم بالتسوق والفن. وهي من محبي المعارض الفنية، ومعرضها المفضل هو Vancouver Art Gallery."
+    },
+    {
+      "id": "src-1185",
+      "text": "3) أسئلة الفهم – صفحة 34"
+    },
+    {
+      "id": "src-1186",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-1187",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-1188",
+      "text": "السبب"
+    },
+    {
+      "id": "src-1189",
+      "text": "Is Funda 19 years old?"
+    },
+    {
+      "id": "src-1190",
+      "text": "No, she isn't. She's 18."
+    },
+    {
+      "id": "src-1191",
+      "text": "النص يقول إنها في عيد ميلادها الثامن عشر."
+    },
+    {
+      "id": "src-1192",
+      "text": "Is she happy at university?"
+    },
+    {
+      "id": "src-1193",
+      "text": "Yes, she is."
+    },
+    {
+      "id": "src-1194",
+      "text": "تقول إنها سعيدة جداً."
+    },
+    {
+      "id": "src-1195",
+      "text": "Is Abdul from Ethiopia?"
+    },
+    {
+      "id": "src-1196",
+      "text": "No, he isn't. He's from Sudan."
+    },
+    {
+      "id": "src-1197",
+      "text": "النص يذكر Khartoum in Sudan."
+    },
+    {
+      "id": "src-1198",
+      "text": "Is he interested in sports?"
+    },
+    {
+      "id": "src-1199",
+      "text": "Yes, he is."
+    },
+    {
+      "id": "src-1200",
+      "text": "مهتم بكل الرياضات وخاصة كرة القدم."
+    },
+    {
+      "id": "src-1201",
+      "text": "Is Fawzia from Vancouver?"
+    },
+    {
+      "id": "src-1202",
+      "text": "No, she isn't. She's from Manama in Bahrain."
+    },
+    {
+      "id": "src-1203",
+      "text": "فانكوفر هي منزلها الحالي وليست بلد/مدينة الأصل."
+    },
+    {
+      "id": "src-1204",
+      "text": "Is she married?"
+    },
+    {
+      "id": "src-1205",
+      "text": "Yes, she is."
+    },
+    {
+      "id": "src-1206",
+      "text": "النص يقول إنها متزوجة ولديها طفلان."
+    },
+    {
+      "id": "src-1207",
+      "text": "4) حل تمارين الصفحات 33–35"
+    },
+    {
+      "id": "src-1208",
+      "text": "الصفحة / التمرين"
+    },
+    {
+      "id": "src-1209",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-1210",
+      "text": "الحل / التوضيح"
+    },
+    {
+      "id": "src-1211",
+      "text": "33 – Ex.1"
+    },
+    {
+      "id": "src-1212",
+      "text": "مطابقة الاهتمامات بالصور"
+    },
+    {
+      "id": "src-1213",
+      "text": "1 football/plays football; 2 going to the cinema; 3 family; 4 social networking; 5 art/painting. بعض الصور تقبل أكثر من اهتمام."
+    },
+    {
+      "id": "src-1214",
+      "text": "33 – Ex.2"
+    },
+    {
+      "id": "src-1215",
+      "text": "هل لدى الكلية مجلة أو صفحة ويب؟"
+    },
+    {
+      "id": "src-1216",
+      "text": "إجابة شخصية. مثال: Yes, my college has a website for students."
+    },
+    {
+      "id": "src-1217",
+      "text": "33 – Ex.3"
+    },
+    {
+      "id": "src-1218",
+      "text": "تحديد المهم والممكن في مقال عن الطلاب الجدد"
+    },
+    {
+      "id": "src-1219",
+      "text": "نشاط تقديري. غالباً course, country/city, interests معلومات مهمة؛ age, marital status, family details, opinions قد تكون ممكنة حسب هدف المقال."
+    },
+    {
+      "id": "src-1220",
+      "text": "33 – Ex.4"
+    },
+    {
+      "id": "src-1221",
+      "text": "قراءة الملفات وتحديد المعلومات الموجودة"
+    },
+    {
+      "id": "src-1222",
+      "text": "Funda: العمر، الأصل، البرنامج، الاهتمامات، رأيها في الناس. Abdul: الأصل، البرنامج، الرياضة، الفريق، التواصل الاجتماعي. Fawzia: الأصل والحالي، البرنامج، الحالة الاجتماعية، الأطفال، الاهتمامات، المعرض المفضل."
+    },
+    {
+      "id": "src-1223",
+      "text": "33 – Ex.5"
+    },
+    {
+      "id": "src-1224",
+      "text": "الإجابة عن أسئلة الملفات"
+    },
+    {
+      "id": "src-1225",
+      "text": "الإجابات موضحة في جدول الفهم أعلاه."
+    },
+    {
+      "id": "src-1226",
+      "text": "34 – Ex.6"
+    },
+    {
+      "id": "src-1227",
+      "text": "وضع علامة أمام اسم الطالب المناسب"
+    },
+    {
+      "id": "src-1228",
+      "text": "a Funda & Fawzia; b Fawzia; c Fawzia; d Funda; e Fawzia; f Abdul; g Funda."
+    },
+    {
+      "id": "src-1229",
+      "text": "34 – Ex.7"
+    },
+    {
+      "id": "src-1230",
+      "text": "مطابقة صور الاهتمامات للطلاب"
+    },
+    {
+      "id": "src-1231",
+      "text": "Funda: صورة المسرح/السينما المناسبة في مجموعة الصور؛ Abdul: الرياضة/كرة القدم والتواصل؛ Fawzia: الفن والمعارض. الأرقام تعتمد على صور التمرين الأصلية؛ الصورة 5 هي معرض الفن."
+    },
+    {
+      "id": "src-1232",
+      "text": "34 – Ex.8"
+    },
+    {
+      "id": "src-1233",
+      "text": "إكمال جمل من ملف Fawzia"
+    },
+    {
+      "id": "src-1234",
+      "text": "a interests; b fan; c favourite art."
+    },
+    {
+      "id": "src-1235",
+      "text": "34 – Ex.9"
+    },
+    {
+      "id": "src-1236",
+      "text": "إكمال جمل عن اهتماماتك"
+    },
+    {
+      "id": "src-1237",
+      "text": "نشاط شخصي: My interests are ... and ... / I'm a big fan of ... / My favourite ... is ..."
+    },
+    {
+      "id": "src-1238",
+      "text": "35 – Ex.10"
+    },
+    {
+      "id": "src-1239",
+      "text": "السؤال عن اهتمامات الزميل"
+    },
+    {
+      "id": "src-1240",
+      "text": "What are your interests? / What's your favourite ...? / Who's your favourite ...?"
+    },
+    {
+      "id": "src-1241",
+      "text": "ملاحظة حول Ex.7: الكتاب يطلب أرقام الصور 1–5 من صفحة 33. الصورة رقم 5 هي معرض فني، والصور الأخرى توضح كرة القدم والسينما والعائلة والتواصل الاجتماعي. طابقها مع بيانات كل طالب وفق النص، ولا تعتمد على الصور الإضافية الموجودة بجوار السؤال في صفحة 34."
+    },
+    {
+      "id": "src-1242",
+      "text": "UNIT 2B — INTRODUCTIONS"
+    },
+    {
+      "id": "src-1243",
+      "text": "الصفحات المطبوعة: 36–37"
+    },
+    {
+      "id": "src-1244",
+      "text": "الدرس يعلمك إزاي تقدم شخصاً لشخص آخر، وترد على التعارف بطريقة مهذبة، وتسأل عن الدراسة والسنة الدراسية."
+    },
+    {
+      "id": "src-1245",
+      "text": "1) Vocabulary & expressions"
+    },
+    {
+      "id": "src-1246",
+      "text": "التعبير"
+    },
+    {
+      "id": "src-1247",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1248",
+      "text": "الاستخدام"
+    },
+    {
+      "id": "src-1249",
+      "text": "This is ..."
+    },
+    {
+      "id": "src-1250",
+      "text": "هذا / هذه ..."
+    },
+    {
+      "id": "src-1251",
+      "text": "تقديم شخص لشخص آخر."
+    },
+    {
+      "id": "src-1252",
+      "text": "my friend"
+    },
+    {
+      "id": "src-1253",
+      "text": "صديقي / صديقتي"
+    },
+    {
+      "id": "src-1254",
+      "text": "توضيح العلاقة بالشخص."
+    },
+    {
+      "id": "src-1255",
+      "text": "tutor"
+    },
+    {
+      "id": "src-1256",
+      "text": "مدرس / مشرف أكاديمي"
+    },
+    {
+      "id": "src-1257",
+      "text": "الشخص الذي يتابع الطالب أكاديمياً."
+    },
+    {
+      "id": "src-1258",
+      "text": "Nice to meet you."
+    },
+    {
+      "id": "src-1259",
+      "text": "سعيد بلقائك."
+    },
+    {
+      "id": "src-1260",
+      "text": "عند مقابلة شخص لأول مرة."
+    },
+    {
+      "id": "src-1261",
+      "text": "Are you a student here?"
+    },
+    {
+      "id": "src-1262",
+      "text": "هل أنت طالب هنا؟"
+    },
+    {
+      "id": "src-1263",
+      "text": "السؤال عن الانتماء للمكان."
+    },
+    {
+      "id": "src-1264",
+      "text": "medical student"
+    },
+    {
+      "id": "src-1265",
+      "text": "طالب طب"
+    },
+    {
+      "id": "src-1266",
+      "text": "تخصص دراسي."
+    },
+    {
+      "id": "src-1267",
+      "text": "Which year are you in?"
+    },
+    {
+      "id": "src-1268",
+      "text": "في أي سنة دراسية أنت؟"
+    },
+    {
+      "id": "src-1269",
+      "text": "السؤال عن السنة في الدراسة."
+    },
+    {
+      "id": "src-1270",
+      "text": "course director"
+    },
+    {
+      "id": "src-1271",
+      "text": "مدير البرنامج / المقرر"
+    },
+    {
+      "id": "src-1272",
+      "text": "مسؤول عن البرنامج الدراسي."
+    },
+    {
+      "id": "src-1273",
+      "text": "hard work"
+    },
+    {
+      "id": "src-1274",
+      "text": "عمل شاق / دراسة مرهقة"
+    },
+    {
+      "id": "src-1275",
+      "text": "وصف صعوبة الدراسة."
+    },
+    {
+      "id": "src-1276",
+      "text": "introduce"
+    },
+    {
+      "id": "src-1277",
+      "text": "يقدم / يعرّف"
+    },
+    {
+      "id": "src-1278",
+      "text": "Introduce a friend = قدّم صديقاً."
+    },
+    {
+      "id": "src-1279",
+      "text": "2) نموذج الحوار – Audio 2.4"
+    },
+    {
+      "id": "src-1280",
+      "text": "Kay: Dr Marlin, this is my friend, Jane. Dr Marlin is my tutor."
+    },
+    {
+      "id": "src-1281",
+      "text": "كاي: دكتور مارلين، هذه صديقتي جين. الدكتور مارلين هو المشرف الأكاديمي الخاص بي."
+    },
+    {
+      "id": "src-1282",
+      "text": "Dr Marlin: Hello. Nice to meet you, Jane."
+    },
+    {
+      "id": "src-1283",
+      "text": "الدكتور مارلين: مرحباً. سعيد بلقائك يا جين."
+    },
+    {
+      "id": "src-1284",
+      "text": "Jane: Nice to meet you, Dr Marlin."
+    },
+    {
+      "id": "src-1285",
+      "text": "جين: سعيدة بلقائك يا دكتور مارلين."
+    },
+    {
+      "id": "src-1286",
+      "text": "Dr Marlin: Are you a student here?"
+    },
+    {
+      "id": "src-1287",
+      "text": "الدكتور مارلين: هل أنت طالبة هنا؟"
+    },
+    {
+      "id": "src-1288",
+      "text": "Jane: Yes, I'm a medical student."
+    },
+    {
+      "id": "src-1289",
+      "text": "جين: نعم، أنا طالبة طب."
+    },
+    {
+      "id": "src-1290",
+      "text": "Dr Marlin: A medical student? Which year are you in?"
+    },
+    {
+      "id": "src-1291",
+      "text": "الدكتور مارلين: طالبة طب؟ في أي سنة دراسية أنت؟"
+    },
+    {
+      "id": "src-1292",
+      "text": "Jane: I'm in the ____ year. It's hard work."
+    },
+    {
+      "id": "src-1293",
+      "text": "جين: أنا في السنة ____. والدراسة شاقة."
+    },
+    {
+      "id": "src-1294",
+      "text": "Dr Marlin: I know. I am the course director."
+    },
+    {
+      "id": "src-1295",
+      "text": "الدكتور مارلين: أعلم ذلك. أنا مدير البرنامج الدراسي."
+    },
+    {
+      "id": "src-1296",
+      "text": "جزء غير متاح: رقم السنة في إجابة Jane يحتاج إلى Audio 2.4، ولم يتم تخمينه."
+    },
+    {
+      "id": "src-1297",
+      "text": "3) Useful patterns – تراكيب تقديم الأشخاص"
+    },
+    {
+      "id": "src-1298",
+      "text": "• This is my friend, Jane. = هذه صديقتي جين."
+    },
+    {
+      "id": "src-1299",
+      "text": "• This is Stefan Kowalski. = هذا ستيفان كوالسكي."
+    },
+    {
+      "id": "src-1300",
+      "text": "• He's from Poland. = هو من بولندا."
+    },
+    {
+      "id": "src-1301",
+      "text": "• Nice to meet you. = سعيد بلقائك."
+    },
+    {
+      "id": "src-1302",
+      "text": "• Nice to meet you, too. = وأنا أيضاً سعيد بلقائك."
+    },
+    {
+      "id": "src-1303",
+      "text": "• She is my friend, Sun-Hi. = هي صديقتي سون-هي."
+    },
+    {
+      "id": "src-1304",
+      "text": "4) Connected Speech – الكلام المتصل والنطق"
+    },
+    {
+      "id": "src-1305",
+      "text": "في الكلام الطبيعي، الكلمات لا تُنطق دائماً منفصلة؛ أحياناً تتصل نهاية كلمة ببداية الكلمة التالية، فيصعب سماع حدود الكلمات. الكتاب يسمي هذا Connected Speech."
+    },
+    {
+      "id": "src-1306",
+      "text": "المثال في الكتاب"
+    },
+    {
+      "id": "src-1307",
+      "text": "الفكرة"
+    },
+    {
+      "id": "src-1308",
+      "text": "This is"
+    },
+    {
+      "id": "src-1309",
+      "text": "قد تُسمع كأنها وحدة صوتية متصلة."
+    },
+    {
+      "id": "src-1310",
+      "text": "Are you"
+    },
+    {
+      "id": "src-1311",
+      "text": "يقل وضوح الفصل بين الكلمتين في الكلام السريع."
+    },
+    {
+      "id": "src-1312",
+      "text": "I am"
+    },
+    {
+      "id": "src-1313",
+      "text": "قد يتصل صوت الكلمتين أثناء النطق."
+    },
+    {
+      "id": "src-1314",
+      "text": "طريقة التدريب: استمع إلى الجملة كاملة، ثم كررها بنفس الإيقاع، ولا تحاول فصل كل كلمة بتوقف طويل."
+    },
+    {
+      "id": "src-1315",
+      "text": "5) حل تمارين الصفحات 36–37"
+    },
+    {
+      "id": "src-1316",
+      "text": "الصفحة / التمرين"
+    },
+    {
+      "id": "src-1317",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-1318",
+      "text": "الإجابة / طريقة الحل"
+    },
+    {
+      "id": "src-1319",
+      "text": "36 – Ex.1"
+    },
+    {
+      "id": "src-1320",
+      "text": "الاستماع وإكمال الحوار"
+    },
+    {
+      "id": "src-1321",
+      "text": "النص أعلاه؛ Jane تقول إنها medical student. سؤال السنة الدراسية يحتاج Audio 2.4."
+    },
+    {
+      "id": "src-1322",
+      "text": "36 – Ex.2a"
+    },
+    {
+      "id": "src-1323",
+      "text": "إكمال حوار Stefan Kowalski"
+    },
+    {
+      "id": "src-1324",
+      "text": "A: This is Stefan Kowalski. He's from Poland. B: Nice to meet you, Mr Kowalski. C: Nice to meet you, too."
+    },
+    {
+      "id": "src-1325",
+      "text": "36 – Ex.2b"
+    },
+    {
+      "id": "src-1326",
+      "text": "إكمال حوار Cristina وSun-Hi"
+    },
+    {
+      "id": "src-1327",
+      "text": "A: This is Cristina. She is my friend. Sun-Hi. B: Hi, Sun-Hi. C: Nice to meet you, Cristina. B: Nice to meet you, too."
+    },
+    {
+      "id": "src-1328",
+      "text": "36 – Ex.3"
+    },
+    {
+      "id": "src-1329",
+      "text": "تقديم زميلين لبعضهما في مجموعة من ثلاثة"
+    },
+    {
+      "id": "src-1330",
+      "text": "جهز اسم الشخص وبلده وعلاقته بك، ثم قدمه: This is my friend ... He's/She's from ..."
+    },
+    {
+      "id": "src-1331",
+      "text": "37 – Ex.4"
+    },
+    {
+      "id": "src-1332",
+      "text": "الاستماع إلى Marcus عن استخدام الأسماء في بلده"
+    },
+    {
+      "id": "src-1333",
+      "text": "ضع علامة على First names أو Title and family name لكل موقف. الإجابات تعتمد على Audio 2.5."
+    },
+    {
+      "id": "src-1334",
+      "text": "37 – Ex.5"
+    },
+    {
+      "id": "src-1335",
+      "text": "إعداد جدول مشابه لبلدك وكتابة نصائح للحوار"
+    },
+    {
+      "id": "src-1336",
+      "text": "نشاط مفتوح؛ راجع نموذج الجمل أدناه."
+    },
+    {
+      "id": "src-1337",
+      "text": "6) Names and titles – الأسماء والألقاب"
+    },
+    {
+      "id": "src-1338",
+      "text": "اللقب"
+    },
+    {
+      "id": "src-1339",
+      "text": "الاستخدام العام"
+    },
+    {
+      "id": "src-1340",
+      "text": "Mr"
+    },
+    {
+      "id": "src-1341",
+      "text": "لرجل، غالباً دون توضيح الحالة الاجتماعية."
+    },
+    {
+      "id": "src-1342",
+      "text": "Mrs"
+    },
+    {
+      "id": "src-1343",
+      "text": "لسيدة متزوجة."
+    },
+    {
+      "id": "src-1344",
+      "text": "Ms"
+    },
+    {
+      "id": "src-1345",
+      "text": "لسيدة دون تحديد الحالة الاجتماعية."
+    },
+    {
+      "id": "src-1346",
+      "text": "Dr"
+    },
+    {
+      "id": "src-1347",
+      "text": "للطبيب أو حامل درجة الدكتوراه بحسب السياق."
+    },
+    {
+      "id": "src-1348",
+      "text": "الكتاب يركز على اختيار الاسم الأول First name أو اللقب واسم العائلة Title and family name حسب الموقف والعلاقة."
+    },
+    {
+      "id": "src-1349",
+      "text": "مثال الكتاب: With friends it's OK to use first names. = مع الأصدقاء من المقبول استخدام الأسماء الأولى."
+    },
+    {
+      "id": "src-1350",
+      "text": "مثال الكتاب: With colleagues at work it's polite to use titles and family names. = مع زملاء العمل من الأدب استخدام الألقاب وأسماء العائلة."
+    },
+    {
+      "id": "src-1351",
+      "text": "تنبيه ثقافي: درجة الرسمية تختلف بين البلدان والمؤسسات. في النشاط اكتب ما يناسب ثقافة بلدك وسياق التعامل، ولا تعتبر المثال قاعدة عالمية ثابتة."
+    },
+    {
+      "id": "src-1352",
+      "text": "UNIT 2C — COOL BEAUTY"
+    },
+    {
+      "id": "src-1353",
+      "text": "الصفحة المطبوعة: 38"
+    },
+    {
+      "id": "src-1354",
+      "text": "هذا الدرس قائم على Slideshow عن شخصية مشهورة اسمها Shizuka. الصور تشير إلى أجواء مدينة/بلد، ومنافسة تزلج فني في الألعاب الأولمبية، ومقابلة إعلامية. لا يوجد نص كامل للتسجيل أو عرض الشرائح داخل الصفحات المتاحة."
+    },
+    {
+      "id": "src-1355",
+      "text": "1) Vocabulary – كلمات مفيدة لملف شخصية مشهورة"
+    },
+    {
+      "id": "src-1356",
+      "text": "الكلمة / التعبير"
+    },
+    {
+      "id": "src-1357",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1358",
+      "text": "مثال"
+    },
+    {
+      "id": "src-1359",
+      "text": "famous"
+    },
+    {
+      "id": "src-1360",
+      "text": "مشهور"
+    },
+    {
+      "id": "src-1361",
+      "text": "She is famous. = هي مشهورة."
+    },
+    {
+      "id": "src-1362",
+      "text": "job title"
+    },
+    {
+      "id": "src-1363",
+      "text": "المسمى الوظيفي"
+    },
+    {
+      "id": "src-1364",
+      "text": "She is a figure skater. = هي متزلجة فنية."
+    },
+    {
+      "id": "src-1365",
+      "text": "prize"
+    },
+    {
+      "id": "src-1366",
+      "text": "جائزة"
+    },
+    {
+      "id": "src-1367",
+      "text": "She has won prizes. = فازت بجوائز."
+    },
+    {
+      "id": "src-1368",
+      "text": "nickname"
+    },
+    {
+      "id": "src-1369",
+      "text": "اسم شهرة / لقب"
+    },
+    {
+      "id": "src-1370",
+      "text": "Her nickname is ... = لقبها هو ..."
+    },
+    {
+      "id": "src-1371",
+      "text": "interest"
+    },
+    {
+      "id": "src-1372",
+      "text": "اهتمام"
+    },
+    {
+      "id": "src-1373",
+      "text": "Her interests are ... = اهتماماتها هي ..."
+    },
+    {
+      "id": "src-1374",
+      "text": "a fan of"
+    },
+    {
+      "id": "src-1375",
+      "text": "من محبي"
+    },
+    {
+      "id": "src-1376",
+      "text": "She's a fan of music. = هي من محبي الموسيقى."
+    },
+    {
+      "id": "src-1377",
+      "text": "pet"
+    },
+    {
+      "id": "src-1378",
+      "text": "حيوان أليف"
+    },
+    {
+      "id": "src-1379",
+      "text": "She has a pet. = لديها حيوان أليف."
+    },
+    {
+      "id": "src-1380",
+      "text": "research"
+    },
+    {
+      "id": "src-1381",
+      "text": "يبحث / يجري بحثاً"
+    },
+    {
+      "id": "src-1382",
+      "text": "Research a famous person. = ابحث عن شخصية مشهورة."
+    },
+    {
+      "id": "src-1383",
+      "text": "mind map"
+    },
+    {
+      "id": "src-1384",
+      "text": "خريطة ذهنية"
+    },
+    {
+      "id": "src-1385",
+      "text": "Make a mind map. = أنشئ خريطة ذهنية."
+    },
+    {
+      "id": "src-1386",
+      "text": "slideshow"
+    },
+    {
+      "id": "src-1387",
+      "text": "عرض شرائح"
+    },
+    {
+      "id": "src-1388",
+      "text": "Watch the slideshow. = شاهد عرض الشرائح."
+    },
+    {
+      "id": "src-1389",
+      "text": "2) Useful expressions – التعبيرات الموجودة في الصندوق"
+    },
+    {
+      "id": "src-1390",
+      "text": "التركيب"
+    },
+    {
+      "id": "src-1391",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1392",
+      "text": "He/She is famous for ..."
+    },
+    {
+      "id": "src-1393",
+      "text": "هو/هي مشهور بسبب ..."
+    },
+    {
+      "id": "src-1394",
+      "text": "She's/He's a (job title)."
+    },
+    {
+      "id": "src-1395",
+      "text": "هي/هو يعمل/تعمل بوظيفة ..."
+    },
+    {
+      "id": "src-1396",
+      "text": "He's/She's from ..."
+    },
+    {
+      "id": "src-1397",
+      "text": "هو/هي من ..."
+    },
+    {
+      "id": "src-1398",
+      "text": "His/Her nickname is ..."
+    },
+    {
+      "id": "src-1399",
+      "text": "لقبه/لقبها هو ..."
+    },
+    {
+      "id": "src-1400",
+      "text": "He's/She's a fan of ..."
+    },
+    {
+      "id": "src-1401",
+      "text": "هو/هي من محبي ..."
+    },
+    {
+      "id": "src-1402",
+      "text": "His/Her interests are ..."
+    },
+    {
+      "id": "src-1403",
+      "text": "اهتماماته/اهتماماتها هي ..."
+    },
+    {
+      "id": "src-1404",
+      "text": "He/She has a pet ..."
+    },
+    {
+      "id": "src-1405",
+      "text": "لديه/لديها حيوان أليف ..."
+    },
+    {
+      "id": "src-1406",
+      "text": "3) شرح الأنشطة – صفحة 38"
+    },
+    {
+      "id": "src-1407",
+      "text": "التمرين"
+    },
+    {
+      "id": "src-1408",
+      "text": "المطلوب"
+    },
+    {
+      "id": "src-1409",
+      "text": "طريقة الحل"
+    },
+    {
+      "id": "src-1410",
+      "text": "Ex.1"
+    },
+    {
+      "id": "src-1411",
+      "text": "توقع ما تعرضه صور Cool beauty ومناقشة الأفكار"
+    },
+    {
+      "id": "src-1412",
+      "text": "صف الصور: مدينة، رياضة تزلج فني، ومقابلة/ظهور إعلامي. لا تجزم بتفاصيل غير ظاهرة."
+    },
+    {
+      "id": "src-1413",
+      "text": "Ex.2"
+    },
+    {
+      "id": "src-1414",
+      "text": "توقع عشر كلمات ستسمعها وإنشاء Word map"
+    },
+    {
+      "id": "src-1415",
+      "text": "اكتب كلمات متوقعة مرتبطة بالرياضة والشهرة والجوائز والمقابلات والبلد."
+    },
+    {
+      "id": "src-1416",
+      "text": "Ex.3"
+    },
+    {
+      "id": "src-1417",
+      "text": "مشاهدة العرض وتدوين الملاحظات ومقارنة الكلمات"
+    },
+    {
+      "id": "src-1418",
+      "text": "يحتاج إلى ملف Slideshow/Video."
+    },
+    {
+      "id": "src-1419",
+      "text": "Ex.4"
+    },
+    {
+      "id": "src-1420",
+      "text": "مناقشة صحة الأفكار عن وظيفة Shizuka، وأكثر شيء مثير وإيجابيات وسلبيات الشهرة"
+    },
+    {
+      "id": "src-1421",
+      "text": "إجابة نقاشية تعتمد على العرض. لا توجد إجابة مؤكدة دون مشاهدته."
+    },
+    {
+      "id": "src-1422",
+      "text": "Ex.5"
+    },
+    {
+      "id": "src-1423",
+      "text": "البحث عن شخصية مشهورة والإجابة عن أسئلة"
+    },
+    {
+      "id": "src-1424",
+      "text": "Where are they from? Why are they famous? Have they won any prizes? Do they have a nickname? What are their interests?"
+    },
+    {
+      "id": "src-1425",
+      "text": "Ex.6"
+    },
+    {
+      "id": "src-1426",
+      "text": "كتابة Profile عن شخصية مشهورة"
+    },
+    {
+      "id": "src-1427",
+      "text": "Mind map، ثم تخطيط الفقرة ومسودتها، ومشاركتها مع طالب آخر، ثم إكمال النسخة النهائية."
+    },
+    {
+      "id": "src-1428",
+      "text": "نموذج كلمات متوقعة وليس تفريغاً للتسجيل: athlete, skater, Olympic, medal, competition, Japan, famous, prize, interview, champion. هذه اقتراحات للتنبؤ قبل المشاهدة وليست كلمات مؤكدة من العرض."
+    },
+    {
+      "id": "src-1429",
+      "text": "WRITING SKILLS — مهارات الكتابة"
+    },
+    {
+      "id": "src-1430",
+      "text": "الصفحات المطبوعة: 39–40"
+    },
+    {
+      "id": "src-1431",
+      "text": "1) Capital letters & punctuation"
+    },
+    {
+      "id": "src-1432",
+      "text": "الوحدة تعيد التدريب على الحروف الكبيرة وعلامات الترقيم، وتضيف الانتباه إلى أسماء الأيام والشهور والاختصارات والألقاب وأسماء المؤسسات والأحرف الأولى من الأسماء."
+    },
+    {
+      "id": "src-1433",
+      "text": "القاعدة"
+    },
+    {
+      "id": "src-1434",
+      "text": "مثال صحيح"
+    },
+    {
+      "id": "src-1435",
+      "text": "التوضيح"
+    },
+    {
+      "id": "src-1436",
+      "text": "بداية الجملة بحرف كبير"
+    },
+    {
+      "id": "src-1437",
+      "text": "Today is Monday."
+    },
+    {
+      "id": "src-1438",
+      "text": "أول كلمة في الجملة تبدأ بحرف كبير."
+    },
+    {
+      "id": "src-1439",
+      "text": "أيام الأسبوع بحرف كبير"
+    },
+    {
+      "id": "src-1440",
+      "text": "Monday, Tuesday"
+    },
+    {
+      "id": "src-1441",
+      "text": "أسماء الأيام Proper names."
+    },
+    {
+      "id": "src-1442",
+      "text": "الشهور بحرف كبير"
+    },
+    {
+      "id": "src-1443",
+      "text": "October, July"
+    },
+    {
+      "id": "src-1444",
+      "text": "أسماء الشهور تبدأ بحرف كبير."
+    },
+    {
+      "id": "src-1445",
+      "text": "أسماء الأشخاص"
+    },
+    {
+      "id": "src-1446",
+      "text": "J. K. Rowling"
+    },
+    {
+      "id": "src-1447",
+      "text": "الأسماء والأحرف الأولى بحروف كبيرة."
+    },
+    {
+      "id": "src-1448",
+      "text": "أسماء الدول والمدن"
+    },
+    {
+      "id": "src-1449",
+      "text": "Saudi Arabia, London"
+    },
+    {
+      "id": "src-1450",
+      "text": "أسماء الأماكن بحروف كبيرة."
+    },
+    {
+      "id": "src-1451",
+      "text": "أسماء المؤسسات المختصرة"
+    },
+    {
+      "id": "src-1452",
+      "text": "BBC, UN, UAE"
+    },
+    {
+      "id": "src-1453",
+      "text": "الأحرف المختصرة تُكتب Capital letters."
+    },
+    {
+      "id": "src-1454",
+      "text": "الألقاب"
+    },
+    {
+      "id": "src-1455",
+      "text": "Mr Harris, Dr Hamad"
+    },
+    {
+      "id": "src-1456",
+      "text": "تبدأ بحرف كبير؛ أسلوب النقطة بعد الاختصار قد يختلف حسب النظام التحريري."
+    },
+    {
+      "id": "src-1457",
+      "text": "2) حل تدريبات صفحة 39"
+    },
+    {
+      "id": "src-1458",
+      "text": "Ex.1 – صحح فقرة Khalid بإضافة الحروف الكبيرة وعلامات الترقيم:"
+    },
+    {
+      "id": "src-1459",
+      "text": "My name is Khalid Al Dosari, and I'm from Jeddah in Saudi Arabia. I'm Saudi Arabian. My date of birth is 27th July 2001. I now live in Dubai and I study at a technical college. It's a great place to live and there is a lot to do here. In my free time I like reading, playing football and meeting my friends."
+    },
+    {
+      "id": "src-1460",
+      "text": "Ex.2 – True or False:"
+    },
+    {
+      "id": "src-1461",
+      "text": "العبارة"
+    },
+    {
+      "id": "src-1462",
+      "text": "الإجابة المقترحة"
+    },
+    {
+      "id": "src-1463",
+      "text": "الشرح"
+    },
+    {
+      "id": "src-1464",
+      "text": "a. نستخدم الحروف الكبيرة لأيام الأسبوع والشهور."
+    },
+    {
+      "id": "src-1465",
+      "text": "True"
+    },
+    {
+      "id": "src-1466",
+      "text": "Monday وOctober أسماء تبدأ بحروف كبيرة."
+    },
+    {
+      "id": "src-1467",
+      "text": "b. لا نستخدم النقاط عند اختصار كلمة مثل Professor إلى Prof."
+    },
+    {
+      "id": "src-1468",
+      "text": "True في أسلوب بريطاني شائع"
+    },
+    {
+      "id": "src-1469",
+      "text": "توجد اختلافات تحريرية؛ كثير من الأساليب البريطانية تكتب Prof دون نقطة."
+    },
+    {
+      "id": "src-1470",
+      "text": "c. نستخدم النقاط بعد الألقاب مثل Mr وDr."
+    },
+    {
+      "id": "src-1471",
+      "text": "False في الأسلوب البريطاني المستخدم غالباً هنا"
+    },
+    {
+      "id": "src-1472",
+      "text": "تكتب عادة Mr وDr دون نقطة عندما لا يكون الحرف الأخير محذوفاً من شكل الاختصار وفق هذا الأسلوب."
+    },
+    {
+      "id": "src-1473",
+      "text": "d. نستخدم دائماً النقاط في أسماء المؤسسات مثل UN وUAE."
+    },
+    {
+      "id": "src-1474",
+      "text": "False"
+    },
+    {
+      "id": "src-1475",
+      "text": "الاختصارات بالحروف الكبيرة لا تحتاج عادة نقاطاً."
+    },
+    {
+      "id": "src-1476",
+      "text": "e. نستخدم نقطة بعد الحرف الأول من اسم شخص مثل A. A. Milne."
+    },
+    {
+      "id": "src-1477",
+      "text": "True"
+    },
+    {
+      "id": "src-1478",
+      "text": "تظهر النقطة بعد الحرف الأول للدلالة على initial."
+    },
+    {
+      "id": "src-1479",
+      "text": "ملاحظة تحريرية: قد تختلف كتابة النقاط في الاختصارات بين الإنجليزية البريطانية والأمريكية وأدلة التحرير. اتبع نمط الكتاب في الامتحان، ولا تخلط بين هذا وبين الحروف الكبيرة."
+    },
+    {
+      "id": "src-1480",
+      "text": "3) Ex.3 – تصحيح الجمل"
+    },
+    {
+      "id": "src-1481",
+      "text": "الجملة الأصلية"
+    },
+    {
+      "id": "src-1482",
+      "text": "التصحيح"
+    },
+    {
+      "id": "src-1483",
+      "text": "today is monday"
+    },
+    {
+      "id": "src-1484",
+      "text": "Today is Monday."
+    },
+    {
+      "id": "src-1485",
+      "text": "j k rowling is a famous author"
+    },
+    {
+      "id": "src-1486",
+      "text": "J. K. Rowling is a famous author."
+    },
+    {
+      "id": "src-1487",
+      "text": "my birthday is in october"
+    },
+    {
+      "id": "src-1488",
+      "text": "My birthday is in October."
+    },
+    {
+      "id": "src-1489",
+      "text": "this is dr hamad"
+    },
+    {
+      "id": "src-1490",
+      "text": "This is Dr Hamad."
+    },
+    {
+      "id": "src-1491",
+      "text": "my father works for the bbc in london"
+    },
+    {
+      "id": "src-1492",
+      "text": "My father works for the BBC in London."
+    },
+    {
+      "id": "src-1493",
+      "text": "the name of my english teacher is mr harris"
+    },
+    {
+      "id": "src-1494",
+      "text": "The name of my English teacher is Mr Harris."
+    },
+    {
+      "id": "src-1495",
+      "text": "4) Ex.4 – ما المعلومات التي نضعها في Personal Profile؟"
+    },
+    {
+      "id": "src-1496",
+      "text": "المعلومات الأساسية المناسبة وفق سياق الوحدة: Your name. Your nationality. Where you live now. Your interests. Your education. وقد تضيف معلومات أخرى إذا كانت مناسبة لغرض الملف؛ أما اللون المفضل أو الطعام المفضل أو المظهر أو معلومات الأصدقاء فليست عادة بيانات أساسية في هذا النوع من الملف."
+    },
+    {
+      "id": "src-1497",
+      "text": "5) صفحة 40 – ترتيب وكتابة Profile Hana"
+    },
+    {
+      "id": "src-1498",
+      "text": "Ex.5 – رتب الجمل لتكوين ملف شخصي متماسك:"
+    },
+    {
+      "id": "src-1499",
+      "text": "الترتيب"
+    },
+    {
+      "id": "src-1500",
+      "text": "الجملة"
+    },
+    {
+      "id": "src-1501",
+      "text": "1"
+    },
+    {
+      "id": "src-1502",
+      "text": "My first name is Hana."
+    },
+    {
+      "id": "src-1503",
+      "text": "2"
+    },
+    {
+      "id": "src-1504",
+      "text": "My family name is Aboud."
+    },
+    {
+      "id": "src-1505",
+      "text": "3"
+    },
+    {
+      "id": "src-1506",
+      "text": "I'm from Beirut in Lebanon."
+    },
+    {
+      "id": "src-1507",
+      "text": "4"
+    },
+    {
+      "id": "src-1508",
+      "text": "I'm Lebanese."
+    },
+    {
+      "id": "src-1509",
+      "text": "5"
+    },
+    {
+      "id": "src-1510",
+      "text": "My date of birth is 23rd September, 2003."
+    },
+    {
+      "id": "src-1511",
+      "text": "6"
+    },
+    {
+      "id": "src-1512",
+      "text": "Currently, I live in London."
+    },
+    {
+      "id": "src-1513",
+      "text": "7"
+    },
+    {
+      "id": "src-1514",
+      "text": "My interests are baking, drawing and horses."
+    },
+    {
+      "id": "src-1515",
+      "text": "Ex.6 – نموذج الفقرة"
+    },
+    {
+      "id": "src-1516",
+      "text": "My first name is Hana and my family name is Aboud. I'm from Beirut in Lebanon, and I'm Lebanese. My date of birth is 23rd September, 2003. Currently, I live in London. My interests are baking, drawing and horses."
+    },
+    {
+      "id": "src-1517",
+      "text": "الترجمة: اسمي الأول هناء واسم عائلتي عبود. أنا من بيروت في لبنان، وأنا لبنانية. تاريخ ميلادي 23 سبتمبر 2003. أعيش حالياً في لندن. اهتماماتي الخبز والرسم والخيول."
+    },
+    {
+      "id": "src-1518",
+      "text": "Ex.7 – حوار من 50 إلى 70 كلمة"
+    },
+    {
+      "id": "src-1519",
+      "text": "نموذج:"
+    },
+    {
+      "id": "src-1520",
+      "text": "Professor: Good morning. I'm Professor Adams. This is my student, Lina. Lina: Hello. Nice to meet you. Omar: Nice to meet you, Lina. Professor: Omar is a medical student from Egypt. Lina: That's interesting. Which year are you in, Omar? Omar: I'm in my second year. Lina: Great. I'm a business student."
+    },
+    {
+      "id": "src-1521",
+      "text": "الترجمة: الأستاذ: صباح الخير. أنا الأستاذ آدمز. هذه طالبتي لينا. لينا: مرحباً. سعيدة بلقائك. عمر: سعيد بلقائك يا لينا. الأستاذ: عمر طالب طب من مصر. لينا: هذا مثير للاهتمام. في أي سنة أنت يا عمر؟ عمر: أنا في سنتي الثانية. لينا: رائع. أنا طالبة أعمال."
+    },
+    {
+      "id": "src-1522",
+      "text": "C21 SKILLS — المهارات الإضافية"
+    },
+    {
+      "id": "src-1523",
+      "text": "الصفحة المطبوعة: 41"
+    },
+    {
+      "id": "src-1524",
+      "text": "A) Study Skills: Reading the question carefully"
+    },
+    {
+      "id": "src-1525",
+      "text": "بعض أسئلة القراءة تطلب معلومة محددة. السؤال نفسه يحتوي على كلمات مفتاحية Key words تساعدك تعرف ما الذي تبحث عنه. اقرأ السؤال بعناية، ثم ابحث بسرعة عن المعلومة في النص. ليس ضرورياً أن تقرأ كل كلمة بالتفصيل في البداية."
+    },
+    {
+      "id": "src-1526",
+      "text": "النص: Zayed University – A growing university for the 21st Century"
+    },
+    {
+      "id": "src-1527",
+      "text": "Zayed University is a growing university in the United Arab Emirates. It has two campuses, one in Dubai and one in Abu Dhabi. It started in 1998 as an all-female university. It started teaching men in 2009. It now has over 15,000 national and international students. In 2020, Zayed University had staff from over 60 different countries. Most courses are in English."
+    },
+    {
+      "id": "src-1528",
+      "text": "Hassan, 20, is from Oman. He is a first-year student studying a degree in Tourism. Hassan says, 'Zayed University is a very good university. I like the excellent IT facilities.'"
+    },
+    {
+      "id": "src-1529",
+      "text": "الترجمة: جامعة زايد جامعة نامية في الإمارات العربية المتحدة. لديها حرمان جامعيان، أحدهما في دبي والآخر في أبوظبي. بدأت عام 1998 كجامعة للإناث فقط، وبدأت تدريس الرجال عام 2009. لديها الآن أكثر من 15 ألف طالب محلي ودولي. وفي عام 2020 كان لديها موظفون من أكثر من 60 دولة مختلفة. معظم المقررات باللغة الإنجليزية. حسن، 20 عاماً، من عُمان، وهو طالب في السنة الأولى يدرس درجة في السياحة. يقول إن الجامعة جيدة جداً وإنه يحب مرافق تكنولوجيا المعلومات الممتازة."
+    },
+    {
+      "id": "src-1530",
+      "text": "طريقة استخراج الإجابة"
+    },
+    {
+      "id": "src-1531",
+      "text": "السؤال"
+    },
+    {
+      "id": "src-1532",
+      "text": "الكلمات المفتاحية"
+    },
+    {
+      "id": "src-1533",
+      "text": "الإجابة"
+    },
+    {
+      "id": "src-1534",
+      "text": "Are all the courses in English?"
+    },
+    {
+      "id": "src-1535",
+      "text": "all the courses / English"
+    },
+    {
+      "id": "src-1536",
+      "text": "No. Most courses are in English."
+    },
+    {
+      "id": "src-1537",
+      "text": "Where are the two campuses?"
+    },
+    {
+      "id": "src-1538",
+      "text": "where / two campuses"
+    },
+    {
+      "id": "src-1539",
+      "text": "In Dubai and Abu Dhabi."
+    },
+    {
+      "id": "src-1540",
+      "text": "When did the university start teaching men?"
+    },
+    {
+      "id": "src-1541",
+      "text": "when / teaching men"
+    },
+    {
+      "id": "src-1542",
+      "text": "In 2009."
+    },
+    {
+      "id": "src-1543",
+      "text": "What course is Hassan on?"
+    },
+    {
+      "id": "src-1544",
+      "text": "what course / Hassan"
+    },
+    {
+      "id": "src-1545",
+      "text": "Tourism."
+    },
+    {
+      "id": "src-1546",
+      "text": "Is Hassan in his first year at university?"
+    },
+    {
+      "id": "src-1547",
+      "text": "first year"
+    },
+    {
+      "id": "src-1548",
+      "text": "Yes, he is."
+    },
+    {
+      "id": "src-1549",
+      "text": "B) Communication: Using titles and names"
+    },
+    {
+      "id": "src-1550",
+      "text": "عندما يقدم الأشخاص أنفسهم، استمع جيداً للطريقة التي يقولون بها أسماءهم. من الأدب أن تستخدم اسم الشخص في ردك وفي المحادثات التالية. لا تفترض أن الاسم الأول أو اللقب هو المفضل؛ اتبع الطريقة التي قدم بها الشخص نفسه."
+    },
+    {
+      "id": "src-1551",
+      "text": "الاسم الكامل/اللقب"
+    },
+    {
+      "id": "src-1552",
+      "text": "الخيارات الظاهرة في الكتاب"
+    },
+    {
+      "id": "src-1553",
+      "text": "Richard"
+    },
+    {
+      "id": "src-1554",
+      "text": "Mr MacDonald / Mac"
+    },
+    {
+      "id": "src-1555",
+      "text": "Dolores Martinez"
+    },
+    {
+      "id": "src-1556",
+      "text": "Dolores / Lola"
+    },
+    {
+      "id": "src-1557",
+      "text": "Dr Masoud Hakim"
+    },
+    {
+      "id": "src-1558",
+      "text": "Hakim / Mr Masoud"
+    },
+    {
+      "id": "src-1559",
+      "text": "Mrs Searle"
+    },
+    {
+      "id": "src-1560",
+      "text": "Ms Searle / Ginny"
+    },
+    {
+      "id": "src-1561",
+      "text": "Ex.1 وEx.2: الاستماع إلى أربعة أشخاص في أول يوم تدريب Kim في شركة أسترالية، ثم اختيار الاسم الذي تستخدمه Kim في ردودها والتحقق. النشاط يعتمد على Audio 2.6، لذلك لا يمكن تحديد الاختيارات الصحيحة دون التسجيل."
+    },
+    {
+      "id": "src-1562",
+      "text": "قاعدة تواصل: استخدم الاسم أو اللقب الذي يفضله الشخص كما يظهر من تقديمه لنفسه، واطلب التوضيح بأدب إذا لم تكن متأكداً."
+    },
+    {
+      "id": "src-1563",
+      "text": "UNIT 2 — المراجعة الشاملة"
+    },
+    {
+      "id": "src-1564",
+      "text": "1) خلاصة القواعد"
+    },
+    {
+      "id": "src-1565",
+      "text": "القاعدة"
+    },
+    {
+      "id": "src-1566",
+      "text": "التركيب"
+    },
+    {
+      "id": "src-1567",
+      "text": "مثال"
+    },
+    {
+      "id": "src-1568",
+      "text": "He / She / It"
+    },
+    {
+      "id": "src-1569",
+      "text": "Subject + is"
+    },
+    {
+      "id": "src-1570",
+      "text": "She is a writer."
+    },
+    {
+      "id": "src-1571",
+      "text": "They"
+    },
+    {
+      "id": "src-1572",
+      "text": "Subject + are"
+    },
+    {
+      "id": "src-1573",
+      "text": "They are famous."
+    },
+    {
+      "id": "src-1574",
+      "text": "النفي"
+    },
+    {
+      "id": "src-1575",
+      "text": "is/are + not"
+    },
+    {
+      "id": "src-1576",
+      "text": "He isn't Brazilian."
+    },
+    {
+      "id": "src-1577",
+      "text": "سؤال نعم/لا"
+    },
+    {
+      "id": "src-1578",
+      "text": "Is/Are + subject ...?"
+    },
+    {
+      "id": "src-1579",
+      "text": "Is she from the UK?"
+    },
+    {
+      "id": "src-1580",
+      "text": "إجابة قصيرة"
+    },
+    {
+      "id": "src-1581",
+      "text": "Yes/No + subject + be"
+    },
+    {
+      "id": "src-1582",
+      "text": "Yes, she is. / No, she isn't."
+    },
+    {
+      "id": "src-1583",
+      "text": "Wh-question"
+    },
+    {
+      "id": "src-1584",
+      "text": "Where/What + is + subject?"
+    },
+    {
+      "id": "src-1585",
+      "text": "Where's she from?"
+    },
+    {
+      "id": "src-1586",
+      "text": "الملكية مع الاسم"
+    },
+    {
+      "id": "src-1587",
+      "text": "his / her"
+    },
+    {
+      "id": "src-1588",
+      "text": "His name is José. / Her name is Funda."
+    },
+    {
+      "id": "src-1589",
+      "text": "2) أهم التعبيرات"
+    },
+    {
+      "id": "src-1590",
+      "text": "• What's her name? – ما اسمها؟"
+    },
+    {
+      "id": "src-1591",
+      "text": "• What's his name? – ما اسمه؟"
+    },
+    {
+      "id": "src-1592",
+      "text": "• Where's she from? – هي من أين؟"
+    },
+    {
+      "id": "src-1593",
+      "text": "• Is he Brazilian? – هل هو برازيلي؟"
+    },
+    {
+      "id": "src-1594",
+      "text": "• This is my friend ... – هذا/هذه صديقي/صديقتي ..."
+    },
+    {
+      "id": "src-1595",
+      "text": "• Nice to meet you. – سعيد بلقائك."
+    },
+    {
+      "id": "src-1596",
+      "text": "• Nice to meet you, too. – وأنا أيضاً سعيد بلقائك."
+    },
+    {
+      "id": "src-1597",
+      "text": "• Which year are you in? – في أي سنة دراسية أنت؟"
+    },
+    {
+      "id": "src-1598",
+      "text": "• What are your interests? – ما اهتماماتك؟"
+    },
+    {
+      "id": "src-1599",
+      "text": "• She's a big fan of ... – هي من أشد المعجبين بـ ..."
+    },
+    {
+      "id": "src-1600",
+      "text": "• Can you repeat that, please? – هل يمكنك إعادة ذلك؟"
+    },
+    {
+      "id": "src-1601",
+      "text": "3) أخطاء شائعة"
+    },
+    {
+      "id": "src-1602",
+      "text": "الخطأ"
+    },
+    {
+      "id": "src-1603",
+      "text": "الصحيح"
+    },
+    {
+      "id": "src-1604",
+      "text": "She are famous."
+    },
+    {
+      "id": "src-1605",
+      "text": "She is famous."
+    },
+    {
+      "id": "src-1606",
+      "text": "They is Portuguese."
+    },
+    {
+      "id": "src-1607",
+      "text": "They are Portuguese."
+    },
+    {
+      "id": "src-1608",
+      "text": "Where she is from?"
+    },
+    {
+      "id": "src-1609",
+      "text": "Where is she from? / Where's she from?"
+    },
+    {
+      "id": "src-1610",
+      "text": "Is he from Brazil? Yes, he is not."
+    },
+    {
+      "id": "src-1611",
+      "text": "Yes, he is."
+    },
+    {
+      "id": "src-1612",
+      "text": "This is my friend Jane. Nice meet you."
+    },
+    {
+      "id": "src-1613",
+      "text": "This is my friend Jane. Nice to meet you."
+    },
+    {
+      "id": "src-1614",
+      "text": "He from Poland."
+    },
+    {
+      "id": "src-1615",
+      "text": "He's from Poland."
+    },
+    {
+      "id": "src-1616",
+      "text": "Her name is José."
+    },
+    {
+      "id": "src-1617",
+      "text": "His name is José."
+    },
+    {
+      "id": "src-1618",
+      "text": "4) قائمة استعداد"
+    },
+    {
+      "id": "src-1619",
+      "text": "□ أستخدم is مع he/she/it وare مع they."
+    },
+    {
+      "id": "src-1620",
+      "text": "□ أكون سؤالاً وإجابة قصيرة باستخدام be."
+    },
+    {
+      "id": "src-1621",
+      "text": "□ أصف وظيفة وجنسية شخص آخر."
+    },
+    {
+      "id": "src-1622",
+      "text": "□ أفهم ملفات Funda وAbdul وFawzia."
+    },
+    {
+      "id": "src-1623",
+      "text": "□ أسأل عن الاهتمامات والهوايات."
+    },
+    {
+      "id": "src-1624",
+      "text": "□ أقدم شخصاً لشخص آخر وأرد على التعارف."
+    },
+    {
+      "id": "src-1625",
+      "text": "□ أفهم Connected Speech بصورة مبدئية."
+    },
+    {
+      "id": "src-1626",
+      "text": "□ أكتب Profile عن شخص مشهور أو عن نفسي."
+    },
+    {
+      "id": "src-1627",
+      "text": "□ أصحح Capital letters وpunctuation."
+    },
+    {
+      "id": "src-1628",
+      "text": "□ أقرأ السؤال وأحدد الكلمات المفتاحية قبل البحث عن الإجابة."
+    },
+    {
+      "id": "src-1629",
+      "text": "UNIT 2 — اختبار تدريبي شامل"
+    },
+    {
+      "id": "src-1630",
+      "text": "اختبار تدريبي من إعداد المذكرة مبني على موضوعات الوحدة، وليس اختباراً رسمياً."
+    },
+    {
+      "id": "src-1631",
+      "text": "Part 1 – Multiple Choice"
+    },
+    {
+      "id": "src-1632",
+      "text": "1. J. K. Rowling is a (writer / football manager / tennis player)."
+    },
+    {
+      "id": "src-1633",
+      "text": "2. José Mourinho is (Portuguese / Brazilian / Japanese)."
+    },
+    {
+      "id": "src-1634",
+      "text": "3. (He is / He are) a famous footballer."
+    },
+    {
+      "id": "src-1635",
+      "text": "4. They (isn't / aren't) Italian."
+    },
+    {
+      "id": "src-1636",
+      "text": "5. (Where's / Where are) she from?"
+    },
+    {
+      "id": "src-1637",
+      "text": "6. Funda is from (Turkey / Sudan / Bahrain)."
+    },
+    {
+      "id": "src-1638",
+      "text": "7. Abdul is interested especially in (football / art galleries / baking)."
+    },
+    {
+      "id": "src-1639",
+      "text": "8. Fawzia is a (part-time / full-time) student."
+    },
+    {
+      "id": "src-1640",
+      "text": "9. The correct reply to Nice to meet you is (Nice to meet you, too / How old are you)."
+    },
+    {
+      "id": "src-1641",
+      "text": "10. Zayed University started teaching men in (1998 / 2009 / 2020)."
+    },
+    {
+      "id": "src-1642",
+      "text": "Part 2 – Complete the sentences"
+    },
+    {
+      "id": "src-1643",
+      "text": "1. She ____ a writer."
+    },
+    {
+      "id": "src-1644",
+      "text": "2. They ____ famous."
+    },
+    {
+      "id": "src-1645",
+      "text": "3. He ____ from Poland."
+    },
+    {
+      "id": "src-1646",
+      "text": "4. It ____ the capital."
+    },
+    {
+      "id": "src-1647",
+      "text": "5. Fawzia is a big ____ of art galleries."
+    },
+    {
+      "id": "src-1648",
+      "text": "6. Her favourite ____ is Vancouver Art Gallery."
+    },
+    {
+      "id": "src-1649",
+      "text": "7. This is my ____ Jane."
+    },
+    {
+      "id": "src-1650",
+      "text": "8. Nice to ____ you."
+    },
+    {
+      "id": "src-1651",
+      "text": "9. Hassan is a first-year student studying ____."
+    },
+    {
+      "id": "src-1652",
+      "text": "10. Most courses are in ____."
+    },
+    {
+      "id": "src-1653",
+      "text": "Part 3 – Choose the correct answer"
+    },
+    {
+      "id": "src-1654",
+      "text": "1. (Is / Are) he Brazilian?"
+    },
+    {
+      "id": "src-1655",
+      "text": "2. (What's / Where's) her name?"
+    },
+    {
+      "id": "src-1656",
+      "text": "3. (His / Her) name is José Mourinho."
+    },
+    {
+      "id": "src-1657",
+      "text": "4. (He / She) is from Bahrain. (Fawzia)"
+    },
+    {
+      "id": "src-1658",
+      "text": "5. (They are / They're) from Germany. اختر الصيغة المختصرة."
+    },
+    {
+      "id": "src-1659",
+      "text": "6. She (isn't / aren't) Japanese."
+    },
+    {
+      "id": "src-1660",
+      "text": "Part 4 – Correct the mistakes"
+    },
+    {
+      "id": "src-1661",
+      "text": "1. She are a teacher."
+    },
+    {
+      "id": "src-1662",
+      "text": "2. They is famous."
+    },
+    {
+      "id": "src-1663",
+      "text": "3. Where she is from?"
+    },
+    {
+      "id": "src-1664",
+      "text": "4. He are Portuguese."
+    },
+    {
+      "id": "src-1665",
+      "text": "5. Nice meet you."
+    },
+    {
+      "id": "src-1666",
+      "text": "6. My birthday is in october."
+    },
+    {
+      "id": "src-1667",
+      "text": "7. my father works for the bbc in london."
+    },
+    {
+      "id": "src-1668",
+      "text": "Part 5 – Rearrange the words"
+    },
+    {
+      "id": "src-1669",
+      "text": "1. from / she / Where / is?"
+    },
+    {
+      "id": "src-1670",
+      "text": "2. is / This / friend / my / Jane."
+    },
+    {
+      "id": "src-1671",
+      "text": "3. meet / Nice / you / to."
+    },
+    {
+      "id": "src-1672",
+      "text": "4. they / Are / writers?"
+    },
+    {
+      "id": "src-1673",
+      "text": "5. interests / are / Her / shopping / art / and."
+    },
+    {
+      "id": "src-1674",
+      "text": "Part 6 – Complete the conversations"
+    },
+    {
+      "id": "src-1675",
+      "text": "A: What's ____ name?"
+    },
+    {
+      "id": "src-1676",
+      "text": "B: Her name is Funda."
+    },
+    {
+      "id": "src-1677",
+      "text": "A: Where's she ____?"
+    },
+    {
+      "id": "src-1678",
+      "text": "B: She's from Turkey."
+    },
+    {
+      "id": "src-1679",
+      "text": "A: This is my friend, Omar."
+    },
+    {
+      "id": "src-1680",
+      "text": "B: Hello, Omar. Nice to ____ you."
+    },
+    {
+      "id": "src-1681",
+      "text": "C: Nice to meet you, ____."
+    },
+    {
+      "id": "src-1682",
+      "text": "Part 7 – Reading Comprehension"
+    },
+    {
+      "id": "src-1683",
+      "text": "Abdul is from Khartoum in Sudan. He is studying a four-year Sales and Marketing course. He is interested in sports, especially football. His favourite team is Manchester United. He also likes social media because it helps him talk to his family and friends."
+    },
+    {
+      "id": "src-1684",
+      "text": "1. Where is Abdul from?"
+    },
+    {
+      "id": "src-1685",
+      "text": "2. What is he studying?"
+    },
+    {
+      "id": "src-1686",
+      "text": "3. What sport is he especially interested in?"
+    },
+    {
+      "id": "src-1687",
+      "text": "4. What is his favourite team?"
+    },
+    {
+      "id": "src-1688",
+      "text": "5. Why does he like social media?"
+    },
+    {
+      "id": "src-1689",
+      "text": "Part 8 – Writing"
+    },
+    {
+      "id": "src-1690",
+      "text": "اكتب Profile من 6–8 جمل عن شخصية مشهورة. اذكر الاسم والبلد والوظيفة وسبب الشهرة والجوائز أو الألقاب والاهتمامات إذا كانت المعلومات متاحة."
+    },
+    {
+      "id": "src-1691",
+      "text": "نموذج الإجابة"
+    },
+    {
+      "id": "src-1692",
+      "text": "القسم"
+    },
+    {
+      "id": "src-1693",
+      "text": "الإجابات"
+    },
+    {
+      "id": "src-1694",
+      "text": "Part 1"
+    },
+    {
+      "id": "src-1695",
+      "text": "1 writer; 2 Portuguese; 3 He is; 4 aren't; 5 Where's; 6 Turkey; 7 football; 8 part-time; 9 Nice to meet you, too; 10 2009."
+    },
+    {
+      "id": "src-1696",
+      "text": "Part 2"
+    },
+    {
+      "id": "src-1697",
+      "text": "1 is; 2 are; 3 is; 4 is; 5 fan; 6 gallery; 7 friend; 8 meet; 9 Tourism; 10 English."
+    },
+    {
+      "id": "src-1698",
+      "text": "Part 3"
+    },
+    {
+      "id": "src-1699",
+      "text": "1 Is; 2 What's; 3 His; 4 She; 5 They're; 6 isn't."
+    },
+    {
+      "id": "src-1700",
+      "text": "Part 4"
+    },
+    {
+      "id": "src-1701",
+      "text": "1 She is a teacher. 2 They are famous. 3 Where is she from? 4 He is Portuguese. 5 Nice to meet you. 6 My birthday is in October. 7 My father works for the BBC in London."
+    },
+    {
+      "id": "src-1702",
+      "text": "Part 5"
+    },
+    {
+      "id": "src-1703",
+      "text": "1 Where is she from? 2 This is my friend Jane. 3 Nice to meet you. 4 Are they writers? 5 Her interests are shopping and art."
+    },
+    {
+      "id": "src-1704",
+      "text": "Part 6"
+    },
+    {
+      "id": "src-1705",
+      "text": "her; from; meet; too."
+    },
+    {
+      "id": "src-1706",
+      "text": "Part 7"
+    },
+    {
+      "id": "src-1707",
+      "text": "1 Khartoum, Sudan. 2 A four-year Sales and Marketing course. 3 Football. 4 Manchester United. 5 It helps him talk to his family and friends."
+    },
+    {
+      "id": "src-1708",
+      "text": "ملاحظة ختامية"
+    },
+    {
+      "id": "src-1709",
+      "text": "تم إعداد هذه المذكرة بالاعتماد على صفحات Unit 2 المطبوعة 30–41. أنشطة Audio 2.1 و2.3 و2.4 و2.5 و2.6 وعرض Cool beauty تحتاج ملفات الصوت/الفيديو لتحديد الإجابات التي لا تظهر في الكتاب. لم يتم إدراج Progress Test في الصفحات التالية لأنه اختبار مشترك للوحدتين 1 و2 وليس جزءاً من شرح Unit 2 وحدها."
+    },
+    {
+      "id": "src-1710",
+      "text": "03"
+    },
+    {
+      "id": "src-1711",
+      "text": "UNIT 3 — FRIENDS & FAMILY"
+    },
+    {
+      "id": "src-1712",
+      "text": "English for the 21st Century – Level 1"
+    },
+    {
+      "id": "src-1713",
+      "text": "مذكرة شرح ومراجعة باللغة العربية المصرية"
+    },
+    {
+      "id": "src-1714",
+      "text": "شرح القواعد • ترجمة المفردات • تدريبات محلولة • مراجعة • اختبار"
+    },
+    {
+      "id": "src-1715",
+      "text": "ENGLISH FOR THE 21st CENTURY"
+    },
+    {
+      "id": "src-1716",
+      "text": "مقدمة الوحدة"
+    },
+    {
+      "id": "src-1717",
+      "text": "عنوان الوحدة"
+    },
+    {
+      "id": "src-1718",
+      "text": "Unit 3: Friends & Family — الأصدقاء والعائلة. الوحدة بتعلّمك تتكلم عن أفراد العيلة والأشخاص المهمين في حياتك، وتوصف شكل الناس ولبسهم، وتكتب نبذة قصيرة عن شخص أو عيلة."
+    },
+    {
+      "id": "src-1719",
+      "text": "خريطة الوحدة من الكتاب"
+    },
+    {
+      "id": "src-1720",
+      "text": "3A Happy families: أفراد العائلة والعلاقات. 3B Hometown: وصف العائلة والمدينة واستخدام صفات الملكية وملكية الاسم. 3C First impressions: وصف الشكل والملابس باستخدام in وwith. ثم Writing Skills، Study Skills، Communication، وPlanning Ahead."
+    },
+    {
+      "id": "src-1721",
+      "text": "1) Unit 3A — Happy families: أفراد العائلة"
+    },
+    {
+      "id": "src-1722",
+      "text": "مفردات أفراد العائلة"
+    },
+    {
+      "id": "src-1723",
+      "text": "English"
+    },
+    {
+      "id": "src-1724",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1725",
+      "text": "family"
+    },
+    {
+      "id": "src-1726",
+      "text": "عائلة"
+    },
+    {
+      "id": "src-1727",
+      "text": "parents"
+    },
+    {
+      "id": "src-1728",
+      "text": "الوالدان"
+    },
+    {
+      "id": "src-1729",
+      "text": "mother"
+    },
+    {
+      "id": "src-1730",
+      "text": "أم"
+    },
+    {
+      "id": "src-1731",
+      "text": "father"
+    },
+    {
+      "id": "src-1732",
+      "text": "أب"
+    },
+    {
+      "id": "src-1733",
+      "text": "son"
+    },
+    {
+      "id": "src-1734",
+      "text": "ابن"
+    },
+    {
+      "id": "src-1735",
+      "text": "daughter"
+    },
+    {
+      "id": "src-1736",
+      "text": "ابنة"
+    },
+    {
+      "id": "src-1737",
+      "text": "brother"
+    },
+    {
+      "id": "src-1738",
+      "text": "أخ"
+    },
+    {
+      "id": "src-1739",
+      "text": "sister"
+    },
+    {
+      "id": "src-1740",
+      "text": "أخت"
+    },
+    {
+      "id": "src-1741",
+      "text": "husband"
+    },
+    {
+      "id": "src-1742",
+      "text": "زوج"
+    },
+    {
+      "id": "src-1743",
+      "text": "wife"
+    },
+    {
+      "id": "src-1744",
+      "text": "زوجة"
+    },
+    {
+      "id": "src-1745",
+      "text": "children"
+    },
+    {
+      "id": "src-1746",
+      "text": "أطفال/أبناء"
+    },
+    {
+      "id": "src-1747",
+      "text": "grandparent"
+    },
+    {
+      "id": "src-1748",
+      "text": "جد أو جدة"
+    },
+    {
+      "id": "src-1749",
+      "text": "grandfather"
+    },
+    {
+      "id": "src-1750",
+      "text": "جد"
+    },
+    {
+      "id": "src-1751",
+      "text": "grandmother"
+    },
+    {
+      "id": "src-1752",
+      "text": "جدة"
+    },
+    {
+      "id": "src-1753",
+      "text": "grandson"
+    },
+    {
+      "id": "src-1754",
+      "text": "حفيد"
+    },
+    {
+      "id": "src-1755",
+      "text": "granddaughter"
+    },
+    {
+      "id": "src-1756",
+      "text": "حفيدة"
+    },
+    {
+      "id": "src-1757",
+      "text": "uncle"
+    },
+    {
+      "id": "src-1758",
+      "text": "عم/خال"
+    },
+    {
+      "id": "src-1759",
+      "text": "aunt"
+    },
+    {
+      "id": "src-1760",
+      "text": "عمة/خالة"
+    },
+    {
+      "id": "src-1761",
+      "text": "cousin"
+    },
+    {
+      "id": "src-1762",
+      "text": "ابن/ابنة العم أو الخال"
+    },
+    {
+      "id": "src-1763",
+      "text": "family friend"
+    },
+    {
+      "id": "src-1764",
+      "text": "صديق للعائلة"
+    },
+    {
+      "id": "src-1765",
+      "text": "كلمات بتوصف علاقة شخصين"
+    },
+    {
+      "id": "src-1766",
+      "text": "التعبير"
+    },
+    {
+      "id": "src-1767",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1768",
+      "text": "brother and sister"
+    },
+    {
+      "id": "src-1769",
+      "text": "أخ وأخت"
+    },
+    {
+      "id": "src-1770",
+      "text": "parents and children"
+    },
+    {
+      "id": "src-1771",
+      "text": "والدان وأطفال"
+    },
+    {
+      "id": "src-1772",
+      "text": "grandparents and grandchildren"
+    },
+    {
+      "id": "src-1773",
+      "text": "أجداد وأحفاد"
+    },
+    {
+      "id": "src-1774",
+      "text": "mother and father"
+    },
+    {
+      "id": "src-1775",
+      "text": "أم وأب"
+    },
+    {
+      "id": "src-1776",
+      "text": "grandfather and grandson"
+    },
+    {
+      "id": "src-1777",
+      "text": "جد وحفيد"
+    },
+    {
+      "id": "src-1778",
+      "text": "son and daughter"
+    },
+    {
+      "id": "src-1779",
+      "text": "ابن وابنة"
+    },
+    {
+      "id": "src-1780",
+      "text": "father and son"
+    },
+    {
+      "id": "src-1781",
+      "text": "أب وابن"
+    },
+    {
+      "id": "src-1782",
+      "text": "grandmother and granddaughter"
+    },
+    {
+      "id": "src-1783",
+      "text": "جدة وحفيدة"
+    },
+    {
+      "id": "src-1784",
+      "text": "husband and wife"
+    },
+    {
+      "id": "src-1785",
+      "text": "زوج وزوجة"
+    },
+    {
+      "id": "src-1786",
+      "text": "Male / Female / Both"
+    },
+    {
+      "id": "src-1787",
+      "text": "Male (مذكر): husband, father, grandfather, grandson, son, brother, uncle."
+    },
+    {
+      "id": "src-1788",
+      "text": "Female (مؤنث): wife, mother, grandmother, granddaughter, daughter, sister, aunt."
+    },
+    {
+      "id": "src-1789",
+      "text": "Both (للنوعين): parent, child, grandparent, grandchild, cousin, family friend."
+    },
+    {
+      "id": "src-1790",
+      "text": "ملاحظة: كلمة cousin تنفع لولد أو بنت."
+    },
+    {
+      "id": "src-1791",
+      "text": "النطق والمقاطع Syllables"
+    },
+    {
+      "id": "src-1792",
+      "text": "الكلمة ممكن يكون فيها مقطع صوتي واحد أو اتنين أو تلاتة. One syllable: son, wife. Two syllables: daughter, husband, children. Three syllables: grandmother, grandfather, granddaughter. في الكلمات متعددة المقاطع بننطق مقطع واحد بقوة أكتر من الباقي؛ وده اسمه stress."
+    },
+    {
+      "id": "src-1793",
+      "text": "تعبير عن علاقة شخص بيك"
+    },
+    {
+      "id": "src-1794",
+      "text": "My cousin = ابن/بنت عمي أو خالي. My family friend = صديق العائلة. My brother = أخويا. My grandparents = جدي وجدتي."
+    },
+    {
+      "id": "src-1795",
+      "text": "مثال: Hamid is my cousin. = حامد ابن عمي/خالي. Dr Hayek is a family friend. = دكتور حايك صديق للعائلة."
+    },
+    {
+      "id": "src-1796",
+      "text": "Network of friends and family"
+    },
+    {
+      "id": "src-1797",
+      "text": "المقصود شبكة الأشخاص المهمين في حياتك من العيلة والأصدقاء. الكتاب بيطلب تختار ستة أشخاص وتكتب أسماءهم وعلاقتهم بيك، ثم تحط كل اسم في مكانه في الرسم وتشرح لزمايلك. مثال: Sara is my sister. / Ali is my uncle. / Mona is my family friend."
+    },
+    {
+      "id": "src-1798",
+      "text": "2) Unit 3B — Hometown: العائلة والمدينة"
+    },
+    {
+      "id": "src-1799",
+      "text": "قراءة My hometown"
+    },
+    {
+      "id": "src-1800",
+      "text": "النص بيتكلم عن Kamal وأسرته: عنده أخ أصغر اسمه Yousef عمره 15 سنة، وأخ أكبر اسمه Jamal وهو صحفي، وأخت اسمها Lihana وهي من مشجعي برشلونة. والداهم Lela وMario عندهم مطعم في Beirut، واسم المطعم Malek وهو نفس اسم العائلة، والمطعم مشهور عند السكان المحليين والزوار."
+    },
+    {
+      "id": "src-1801",
+      "text": "حل True / False من النص"
+    },
+    {
+      "id": "src-1802",
+      "text": "a) Kamal has a brother and a sister. = False؛ عنده أخوين وأخت."
+    },
+    {
+      "id": "src-1803",
+      "text": "b) Kamal’s younger brother is called Jamal. = False؛ اسمه Yousef."
+    },
+    {
+      "id": "src-1804",
+      "text": "c) Lihana’s favourite team is Barcelona. = True."
+    },
+    {
+      "id": "src-1805",
+      "text": "d) Kamal’s older brother has a restaurant business. = False؛ الأخ الأكبر صحفي، والوالدان عندهما المطعم."
+    },
+    {
+      "id": "src-1806",
+      "text": "e) The restaurant’s name is Malek. = True."
+    },
+    {
+      "id": "src-1807",
+      "text": "f) The family’s hometown is Beirut. = True. بحسب النص."
+    },
+    {
+      "id": "src-1808",
+      "text": "Possessive adjectives — صفات الملكية"
+    },
+    {
+      "id": "src-1809",
+      "text": "بتحط قبل الاسم عشان تقول الحاجة بتاعة مين."
+    },
+    {
+      "id": "src-1810",
+      "text": "الضمير"
+    },
+    {
+      "id": "src-1811",
+      "text": "صفة الملكية"
+    },
+    {
+      "id": "src-1812",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1813",
+      "text": "I"
+    },
+    {
+      "id": "src-1814",
+      "text": "my"
+    },
+    {
+      "id": "src-1815",
+      "text": "أنا → بتاعي"
+    },
+    {
+      "id": "src-1816",
+      "text": "you"
+    },
+    {
+      "id": "src-1817",
+      "text": "your"
+    },
+    {
+      "id": "src-1818",
+      "text": "أنت → بتاعك"
+    },
+    {
+      "id": "src-1819",
+      "text": "he"
+    },
+    {
+      "id": "src-1820",
+      "text": "his"
+    },
+    {
+      "id": "src-1821",
+      "text": "هو → بتاعه"
+    },
+    {
+      "id": "src-1822",
+      "text": "she"
+    },
+    {
+      "id": "src-1823",
+      "text": "her"
+    },
+    {
+      "id": "src-1824",
+      "text": "هي → بتاعها"
+    },
+    {
+      "id": "src-1825",
+      "text": "it"
+    },
+    {
+      "id": "src-1826",
+      "text": "its"
+    },
+    {
+      "id": "src-1827",
+      "text": "لغير العاقل/الحيوان → بتاعه"
+    },
+    {
+      "id": "src-1828",
+      "text": "we"
+    },
+    {
+      "id": "src-1829",
+      "text": "our"
+    },
+    {
+      "id": "src-1830",
+      "text": "إحنا → بتاعنا"
+    },
+    {
+      "id": "src-1831",
+      "text": "they"
+    },
+    {
+      "id": "src-1832",
+      "text": "their"
+    },
+    {
+      "id": "src-1833",
+      "text": "هم → بتاعهم"
+    },
+    {
+      "id": "src-1834",
+      "text": "أمثلة على صفات الملكية"
+    },
+    {
+      "id": "src-1835",
+      "text": "My name is Omar. = اسمي عمر."
+    },
+    {
+      "id": "src-1836",
+      "text": "Your father is kind. = والدك طيب."
+    },
+    {
+      "id": "src-1837",
+      "text": "His name is Frank. = اسمه فرانك."
+    },
+    {
+      "id": "src-1838",
+      "text": "Her sister is a student. = أختها طالبة."
+    },
+    {
+      "id": "src-1839",
+      "text": "Its name is Rufus. = اسمه روفَس."
+    },
+    {
+      "id": "src-1840",
+      "text": "Our house is old. = بيتنا قديم."
+    },
+    {
+      "id": "src-1841",
+      "text": "Their children are students. = أولادهم طلاب."
+    },
+    {
+      "id": "src-1842",
+      "text": "مهم: its وit’s"
+    },
+    {
+      "id": "src-1843",
+      "text": "its من غير apostrophe = صفة ملكية، بمعنى بتاعه/بتاعتها. it’s بعلامة apostrophe = اختصار it is أو it has."
+    },
+    {
+      "id": "src-1844",
+      "text": "مثال: The dog is happy. Its name is Max. / It’s a nice dog. متخلطش بينهم."
+    },
+    {
+      "id": "src-1845",
+      "text": "Possessive ’s — الملكية بالـ apostrophe s"
+    },
+    {
+      "id": "src-1846",
+      "text": "لما الحاجة تخص شخصًا مفردًا، نضيف ’s بعد اسمه: Kamal’s sister = أخت كمال؛ my father’s car = عربية والدي؛ the teacher’s name = اسم المدرس. لو الاسم جمع وينتهي بحرف s، نحط apostrophe بعد الـ s فقط: my parents’ house = بيت والديّ؛ my friends’ names = أسماء أصدقائي. لو جمع شاذ مش بينتهي بـ s، نضيف ’s: children’s school = مدرسة الأطفال؛ men’s clothes = ملابس الرجال."
+    },
+    {
+      "id": "src-1847",
+      "text": "تصحيح أمثلة الملكية"
+    },
+    {
+      "id": "src-1848",
+      "text": "My mothers name → My mother’s name."
+    },
+    {
+      "id": "src-1849",
+      "text": "Omar sister → Omar’s sister."
+    },
+    {
+      "id": "src-1850",
+      "text": "Faris brother → Faris’s brother (أو Faris’ brother حسب دليل الأسلوب)."
+    },
+    {
+      "id": "src-1851",
+      "text": "My friends names → My friends’ names."
+    },
+    {
+      "id": "src-1852",
+      "text": "My grandparents house → My grandparents’ house."
+    },
+    {
+      "id": "src-1853",
+      "text": "My fathers car → My father’s car."
+    },
+    {
+      "id": "src-1854",
+      "text": "Have / Has"
+    },
+    {
+      "id": "src-1855",
+      "text": "بنستخدم have/has للتعبير عن الامتلاك أو وجود أفراد في العيلة. I/you/we/they + have. He/she/it + has."
+    },
+    {
+      "id": "src-1856",
+      "text": "أمثلة من فكرة النص:"
+    },
+    {
+      "id": "src-1857",
+      "text": "They have four children. = عندهم أربعة أطفال."
+    },
+    {
+      "id": "src-1858",
+      "text": "My family has a restaurant. = عيلتي عندها مطعم."
+    },
+    {
+      "id": "src-1859",
+      "text": "Kamal has two brothers and a sister. = كمال عنده أخوين وأخت."
+    },
+    {
+      "id": "src-1860",
+      "text": "Family tree — شجرة العائلة"
+    },
+    {
+      "id": "src-1861",
+      "text": "الشجرة بتوضح صلة القرابة. ابدأ بالوالدين في الأعلى، ثم الأبناء تحتهم. استخدم معلومات النص: parents: Lela and Mario؛ children: Kamal, Yousef, Jamal, Lihana. راجع تهجئة الأسماء من النص نفسه عند نقلها."
+    },
+    {
+      "id": "src-1862",
+      "text": "3) Unit 3C — First impressions: الانطباع الأول ووصف الناس"
+    },
+    {
+      "id": "src-1863",
+      "text": "مفردات الشكل والملابس"
+    },
+    {
+      "id": "src-1864",
+      "text": "English"
+    },
+    {
+      "id": "src-1865",
+      "text": "المعنى"
+    },
+    {
+      "id": "src-1866",
+      "text": "blonde hair"
+    },
+    {
+      "id": "src-1867",
+      "text": "شعر أشقر"
+    },
+    {
+      "id": "src-1868",
+      "text": "long hair"
+    },
+    {
+      "id": "src-1869",
+      "text": "شعر طويل"
+    },
+    {
+      "id": "src-1870",
+      "text": "short hair"
+    },
+    {
+      "id": "src-1871",
+      "text": "شعر قصير"
+    },
+    {
+      "id": "src-1872",
+      "text": "beard"
+    },
+    {
+      "id": "src-1873",
+      "text": "دقن/لحية"
+    },
+    {
+      "id": "src-1874",
+      "text": "glasses"
+    },
+    {
+      "id": "src-1875",
+      "text": "نظارة"
+    },
+    {
+      "id": "src-1876",
+      "text": "headscarf"
+    },
+    {
+      "id": "src-1877",
+      "text": "غطاء رأس"
+    },
+    {
+      "id": "src-1878",
+      "text": "shirt"
+    },
+    {
+      "id": "src-1879",
+      "text": "قميص"
+    },
+    {
+      "id": "src-1880",
+      "text": "T-shirt"
+    },
+    {
+      "id": "src-1881",
+      "text": "تيشيرت"
+    },
+    {
+      "id": "src-1882",
+      "text": "jeans"
+    },
+    {
+      "id": "src-1883",
+      "text": "جينز"
+    },
+    {
+      "id": "src-1884",
+      "text": "sunglasses"
+    },
+    {
+      "id": "src-1885",
+      "text": "نظارة شمس"
+    },
+    {
+      "id": "src-1886",
+      "text": "تركيب وصف شخص"
+    },
+    {
+      "id": "src-1887",
+      "text": "The girl with long hair = البنت اللي شعرها طويل."
+    },
+    {
+      "id": "src-1888",
+      "text": "The man in the blue shirt = الراجل اللي لابس قميص أزرق."
+    },
+    {
+      "id": "src-1889",
+      "text": "The young man with a beard = الشاب اللي عنده دقن."
+    },
+    {
+      "id": "src-1890",
+      "text": "نقدر نستخدم الوصف عشان نحدد شخص وسط مجموعة."
+    },
+    {
+      "id": "src-1891",
+      "text": "الفرق بين in وwith"
+    },
+    {
+      "id": "src-1892",
+      "text": "in بنستخدمها مع الملابس: the man in a white shirt؛ the woman in jeans؛ the girl in a red T-shirt."
+    },
+    {
+      "id": "src-1893",
+      "text": "with بنستخدمها مع الشعر والملامح والحاجات المصاحبة: the girl with long hair؛ the man with a beard؛ the woman with glasses."
+    },
+    {
+      "id": "src-1894",
+      "text": "إجابات تدريبات in / with"
+    },
+    {
+      "id": "src-1895",
+      "text": "5a The man in denim jeans is my older brother, Carlos."
+    },
+    {
+      "id": "src-1896",
+      "text": "5b Who’s the woman with sunglasses?"
+    },
+    {
+      "id": "src-1897",
+      "text": "5c The man in the white shirt is Dr Suzuki."
+    },
+    {
+      "id": "src-1898",
+      "text": "5d The girl with short hair is called Amy."
+    },
+    {
+      "id": "src-1899",
+      "text": "وصف الصور في الصفحة"
+    },
+    {
+      "id": "src-1900",
+      "text": "تدريب الصفحة بيطلب مطابقة أوصاف مع صور وأسماء: Bo, Cheng, Leila, Marcel, Marcus, Professor Hanson, Rosa. بعض الفراغات تعتمد على تفاصيل الصور/التسجيل. أمثلة الصيغ الظاهرة: The girl with long ___ is called Rosa. / The young man in the red ___ is called Cheng. لا أضع إجابات نهائية للفراغات التي لا يمكن حسمها من النص المستخرج وحده."
+    },
+    {
+      "id": "src-1901",
+      "text": "أسئلة التعارف عن الأشخاص"
+    },
+    {
+      "id": "src-1902",
+      "text": "Who’s the man in the ...? = مين الراجل اللي لابس...؟ His name’s ... = اسمه..."
+    },
+    {
+      "id": "src-1903",
+      "text": "Who’s the woman with ...? = مين الست اللي معاها/عندها...؟ Her name’s ... = اسمها..."
+    },
+    {
+      "id": "src-1904",
+      "text": "4) Writing Skills — الكتابة وعلامة الملكية"
+    },
+    {
+      "id": "src-1905",
+      "text": "قاعدة apostrophe"
+    },
+    {
+      "id": "src-1906",
+      "text": "علامة apostrophe (’) بتوضح إن حاجة ملك شخص. a) تتحط بعد اسم المالك. b) لو المالك مفرد، نحط ’s قبل حرف s. c) لو الكلمة بالفعل جمع وتنتهي بـ s، نحط apostrophe بعد الـ s. d) لو جمع شاذ لا ينتهي بـ s، نضيف ’s."
+    },
+    {
+      "id": "src-1907",
+      "text": "تصحيح فقرة Waleed"
+    },
+    {
+      "id": "src-1908",
+      "text": "I’m Waleed and this is my family. I’ve got two brothers and a sister. My sister’s name is Hind and she is a student at university. My brothers’ names are Mohammad and Faris. My older brother’s name is Mohammad. He’s married. His wife’s name is Norah. They have got two children. Their children’s names are Leena and Sara. They all live in New York. Mohammad is a taxi driver. His taxi’s yellow."
+    },
+    {
+      "id": "src-1909",
+      "text": "إجابات أسئلة الفقرة"
+    },
+    {
+      "id": "src-1910",
+      "text": "a) The writer’s name is Waleed."
+    },
+    {
+      "id": "src-1911",
+      "text": "b) He has got two brothers."
+    },
+    {
+      "id": "src-1912",
+      "text": "c) His older brother’s name is Mohammad."
+    },
+    {
+      "id": "src-1913",
+      "text": "d) Leena and Sara are Mohammad’s children."
+    },
+    {
+      "id": "src-1914",
+      "text": "e) Mohammad’s taxi is yellow."
+    },
+    {
+      "id": "src-1915",
+      "text": "خطة كتابة Profile من 50–100 كلمة"
+    },
+    {
+      "id": "src-1916",
+      "text": "اختار شخص من العيلة أو صديق. اكتب: الاسم والعلاقة بيك، السن أو الدراسة/الشغل لو متاح، أفراد أسرته أو اهتماماته، ومعلومة مميزة. استخدم possessive adjectives و’s صح. راجع Capital letters في بداية الجمل والأسماء، وfull stops في نهاية الجمل، وapostrophes للملكية والاختصارات."
+    },
+    {
+      "id": "src-1917",
+      "text": "نموذج Profile للتدريب"
+    },
+    {
+      "id": "src-1918",
+      "text": "My cousin Ahmed is 20 years old. He is a university student. His favourite subject is English, and he enjoys football. Ahmed’s family lives in Cairo. His father is a teacher, and his mother is a doctor. He has one sister. Her name is Salma. She is very friendly. I enjoy spending time with my cousin."
+    },
+    {
+      "id": "src-1919",
+      "text": "5) Study Skills — تنظيم الكلمات الجديدة"
+    },
+    {
+      "id": "src-1920",
+      "text": "الفكرة"
+    },
+    {
+      "id": "src-1921",
+      "text": "الكتاب بيقترح تنظيم المفردات بطرق بصرية زي الصور والرسومات والجداول بدل كتابة الكلمات في قائمة عشوائية."
+    },
+    {
+      "id": "src-1922",
+      "text": "مثال تصنيف الملابس"
+    },
+    {
+      "id": "src-1923",
+      "text": "clothes: blouse, jacket, shirt, shoes, skirt, tie, trousers, suit."
+    },
+    {
+      "id": "src-1924",
+      "text": "suit = جاكيت وبنطلون (بدلة)؛ trousers = بنطلون؛ jacket = جاكيت؛ shirt = قميص؛ blouse = بلوزة؛ shoes = حذاء؛ skirt = جيبة؛ tie = كرافتة."
+    },
+    {
+      "id": "src-1925",
+      "text": "طريقة عملية للمذاكرة"
+    },
+    {
+      "id": "src-1926",
+      "text": "اعمل صفحة لكل موضوع في كشكول الكلمات. اكتب عنوان الموضوع، ثم صنف الكلمات في جدول أو رسمة. مثال: Family / Clothes / Appearance. في الحصة التالية قارن الكلمات وطريقة التنظيم مع زملائك."
+    },
+    {
+      "id": "src-1927",
+      "text": "6) Communication — Asking for help: طلب المساعدة"
+    },
+    {
+      "id": "src-1928",
+      "text": "عبارات مهمة"
+    },
+    {
+      "id": "src-1929",
+      "text": "Sorry, can you repeat that, please? = ممكن تكرر الكلام لو سمحت؟"
+    },
+    {
+      "id": "src-1930",
+      "text": "Sorry, can you speak slowly? = ممكن تتكلم ببطء؟"
+    },
+    {
+      "id": "src-1931",
+      "text": "Can you explain the meaning, please? = ممكن تشرح المعنى؟"
+    },
+    {
+      "id": "src-1932",
+      "text": "How do you spell that? = الكلمة دي بتتكتب إزاي؟"
+    },
+    {
+      "id": "src-1933",
+      "text": "Sorry, I don’t understand the task. = معلش، أنا مش فاهم المطلوب."
+    },
+    {
+      "id": "src-1934",
+      "text": "Can you say it again? = ممكن تقولها تاني؟"
+    },
+    {
+      "id": "src-1935",
+      "text": "مطابقة الوظيفة بالعبارة"
+    },
+    {
+      "id": "src-1936",
+      "text": "Asking for a spelling = How do you spell that, please?"
+    },
+    {
+      "id": "src-1937",
+      "text": "Asking for repetition = Can you repeat that, please? / Can you say it again?"
+    },
+    {
+      "id": "src-1938",
+      "text": "Asking about meaning = Can you explain the meaning of ...?"
+    },
+    {
+      "id": "src-1939",
+      "text": "Asking for clarification about a task = Sorry, I don’t understand the task. Can you explain it again?"
+    },
+    {
+      "id": "src-1940",
+      "text": "تدريب إكمال الجمل"
+    },
+    {
+      "id": "src-1941",
+      "text": "a) Sorry, Mr Murray, can you repeat the exercise number, please?"
+    },
+    {
+      "id": "src-1942",
+      "text": "b) Can you explain the meaning of megacity?"
+    },
+    {
+      "id": "src-1943",
+      "text": "c) Sorry, can you say the address slowly?"
+    },
+    {
+      "id": "src-1944",
+      "text": "d) How do you spell that, please?"
+    },
+    {
+      "id": "src-1945",
+      "text": "e) Sorry, I don’t understand the task. Can you explain it again?"
+    },
+    {
+      "id": "src-1946",
+      "text": "ملاحظة: ترتيب الكلمات في بعض الفراغات يتأثر بصياغة النشاط المطبوعة."
+    },
+    {
+      "id": "src-1947",
+      "text": "7) Communication — Predicting: توقع الموقف قبل الاستماع"
+    },
+    {
+      "id": "src-1948",
+      "text": "الفكرة"
+    },
+    {
+      "id": "src-1949",
+      "text": "قبل ما تسمع محادثة، بص على الصور وخمّن الموقف: الناس فين؟ علاقتهم ببعض إيه؟ بيتكلموا في مناسبة إيه؟ التوقع بيساعدك تفهم الكلام لما تسمعه."
+    },
+    {
+      "id": "src-1950",
+      "text": "مفردات الصور"
+    },
+    {
+      "id": "src-1951",
+      "text": "birthday = عيد ميلاد؛ girlfriend = صديقة/حبيبة؛ gown = فستان/رداء رسمي؛ graduation = تخرّج؛ living room = غرفة المعيشة؛ parent(s) = الأب/الأم أو الوالدان؛ presents = هدايا؛ son = ابن؛ students = طلاب."
+    },
+    {
+      "id": "src-1952",
+      "text": "نشاط الاستماع"
+    },
+    {
+      "id": "src-1953",
+      "text": "الكتاب يطلب الاستماع إلى محادثتين (Audio 3.8) وتقييم قدرتك على الفهم أول مرة، ثم توقع إجابات من الصور، ثم الاستماع مرة أخرى وتقييم الفهم. ملف الكتاب المرفق لا يحتوي التسجيل الصوتي؛ لذلك لا يمكن تأكيد محتوى المحادثتين أو الإجابات الخاصة بهما."
+    },
+    {
+      "id": "src-1954",
+      "text": "8) Planning Ahead — خطة التعلم"
+    },
+    {
+      "id": "src-1955",
+      "text": "مراجعة الوحدة"
+    },
+    {
+      "id": "src-1956",
+      "text": "اكتب 3 حاجات اتعلمتها في الوحدة و3 حاجات محتاجة تدريب. أمثلة: تعلمت أسماء أفراد العائلة؛ فهمت possessive adjectives؛ أحتاج أتدرب على وصف الأشخاص باستخدام in وwith."
+    },
+    {
+      "id": "src-1957",
+      "text": "خطة الأسبوع القادم"
+    },
+    {
+      "id": "src-1958",
+      "text": "اكتب 4 أفكار لتحسين الإنجليزي وحدد وقت لكل فكرة. مثال الكتاب: أتعلم خمس كلمات جديدة وأكتبها في كشكول المفردات (10 دقائق)."
+    },
+    {
+      "id": "src-1959",
+      "text": "المشاركة في الفصل"
+    },
+    {
+      "id": "src-1960",
+      "text": "طرق المشاركة: اسأل لما متفهمش، ساعد زميلك، اتكلم في أنشطة المجموعات، جاوب لما تعرف. مثال هدف: أسأل المدرس أو زميلي سؤالين أو ثلاثة في الحصة القادمة."
+    },
+    {
+      "id": "src-1961",
+      "text": "9) مراجعة سريعة قبل الامتحان"
+    },
+    {
+      "id": "src-1962",
+      "text": "لازم تكون فاهم"
+    },
+    {
+      "id": "src-1963",
+      "text": "1) أسماء أفراد العائلة والعلاقات."
+    },
+    {
+      "id": "src-1964",
+      "text": "2) الفرق بين male/female/both."
+    },
+    {
+      "id": "src-1965",
+      "text": "3) صفات الملكية: my, your, his, her, its, our, their."
+    },
+    {
+      "id": "src-1966",
+      "text": "4) have مع I/you/we/they وhas مع he/she/it."
+    },
+    {
+      "id": "src-1967",
+      "text": "5) ملكية المفرد ’s وملكية الجمع المنتهي بـ s’."
+    },
+    {
+      "id": "src-1968",
+      "text": "6) in للملابس وwith للشعر والملامح."
+    },
+    {
+      "id": "src-1969",
+      "text": "7) عبارات طلب التكرار والشرح والتهجئة."
+    },
+    {
+      "id": "src-1970",
+      "text": "أخطاء شائعة"
+    },
+    {
+      "id": "src-1971",
+      "text": "خطأ: She name → صح: Her name."
+    },
+    {
+      "id": "src-1972",
+      "text": "خطأ: He sister → صح: His sister."
+    },
+    {
+      "id": "src-1973",
+      "text": "خطأ: my parents’s house → صح: my parents’ house."
+    },
+    {
+      "id": "src-1974",
+      "text": "خطأ: the man with a blue shirt (في سياق وصف الملابس) → الأفضل في قاعدة الوحدة: the man in a blue shirt."
+    },
+    {
+      "id": "src-1975",
+      "text": "خطأ: the girl in long hair → صح: the girl with long hair."
+    },
+    {
+      "id": "src-1976",
+      "text": "10) اختبار تدريبي شامل مع الإجابات"
+    },
+    {
+      "id": "src-1977",
+      "text": "A. Choose the correct answer"
+    },
+    {
+      "id": "src-1978",
+      "text": "1) Sara is my (brother / sister / father). → sister."
+    },
+    {
+      "id": "src-1979",
+      "text": "2) This is Ali. __ father is a teacher. (His / Her / Their) → His."
+    },
+    {
+      "id": "src-1980",
+      "text": "3) My parents __ in Cairo. (live / lives) → live."
+    },
+    {
+      "id": "src-1981",
+      "text": "4) The girl __ long hair is Mona. (in / with) → with."
+    },
+    {
+      "id": "src-1982",
+      "text": "5) The man __ a black jacket is my uncle. (in / with) → in."
+    },
+    {
+      "id": "src-1983",
+      "text": "B. Correct the mistakes"
+    },
+    {
+      "id": "src-1984",
+      "text": "1) My brothers name is Ali. → My brother’s name is Ali."
+    },
+    {
+      "id": "src-1985",
+      "text": "2) Her father name is Sam. → Her father’s name is Sam."
+    },
+    {
+      "id": "src-1986",
+      "text": "3) The childrens school is big. → The children’s school is big."
+    },
+    {
+      "id": "src-1987",
+      "text": "4) The woman in glasses is Sara. → The woman with glasses is Sara."
+    },
+    {
+      "id": "src-1988",
+      "text": "C. Complete"
+    },
+    {
+      "id": "src-1989",
+      "text": "1) I → my."
+    },
+    {
+      "id": "src-1990",
+      "text": "2) He → his."
+    },
+    {
+      "id": "src-1991",
+      "text": "3) She → her."
+    },
+    {
+      "id": "src-1992",
+      "text": "4) We → our."
+    },
+    {
+      "id": "src-1993",
+      "text": "5) They → their."
+    },
+    {
+      "id": "src-1994",
+      "text": "6) It → its."
+    },
+    {
+      "id": "src-1995",
+      "text": "D. Translate into English"
+    },
+    {
+      "id": "src-1996",
+      "text": "1) أختي طالبة. → My sister is a student."
+    },
+    {
+      "id": "src-1997",
+      "text": "2) اسمه أحمد. → His name is Ahmed."
+    },
+    {
+      "id": "src-1998",
+      "text": "3) الراجل اللي لابس قميص أبيض. → The man in a white shirt."
+    },
+    {
+      "id": "src-1999",
+      "text": "4) البنت اللي شعرها طويل. → The girl with long hair."
+    },
+    {
+      "id": "src-2000",
+      "text": "5) أسماء أصدقائي. → My friends’ names."
+    },
+    {
+      "id": "src-2001",
+      "text": "E. Writing"
+    },
+    {
+      "id": "src-2002",
+      "text": "اكتب 50–100 كلمة عن فرد من عيلتك أو صديق. لازم تستخدم صفات ملكية على الأقل مرتين، وملكية ’s مرة واحدة، وجملتين لوصف الشخص أو اهتماماته. راجع capital letters وfull stops وapostrophes."
+    },
+    {
+      "id": "src-2003",
+      "text": "ملاحظات مهمة عن المصدر"
+    },
+    {
+      "id": "src-2004",
+      "text": "حدود الحل"
+    },
+    {
+      "id": "src-2005",
+      "text": "المذكرة مبنية على Unit 3 في الكتاب، من صفحات الكتاب المطبوعة 48–61 تقريبًا (صفحات PDF 35–48)."
+    },
+    {
+      "id": "src-2006",
+      "text": "التسجيلات الصوتية، والصور/المحتوى الخارجي المشار إليه في بعض الأنشطة، غير مضمنة في ملف PDF؛ لذلك لم يتم اختلاق إجابات الاستماع أو تفاصيل لا يثبتها النص."
+    },
+    {
+      "id": "src-2007",
+      "text": "ملاحظة على ترقيم الصفحات"
+    },
+    {
+      "id": "src-2008",
+      "text": "بعض التدريبات تشير إلى صور في صفحة 51 أو مواد في Digital Workbook. أرقام الصفحات دي هي أرقام الكتاب المطبوعة، وقد تختلف عن رقم صفحة ملف PDF."
+    },
+    {
+      "id": "src-2009",
+      "text": "FINAL REVIEW — المراجعة النهائية العامة"
+    },
+    {
+      "id": "src-2010",
+      "text": "مراجعة تجميعية من محتوى المذكرات الثلاث؛ لا تضيف قواعد أو أمثلة من خارجها."
+    },
+    {
+      "id": "src-2011",
+      "text": "أهم القواعد والتراكيب"
+    },
+    {
+      "id": "src-2012",
+      "text": "الوحدة"
+    },
+    {
+      "id": "src-2013",
+      "text": "تذكّر"
+    },
+    {
+      "id": "src-2014",
+      "text": "مثال وارد في المذكرات"
+    },
+    {
+      "id": "src-2015",
+      "text": "Unit 1"
+    },
+    {
+      "id": "src-2016",
+      "text": "I + am؛ You/We/They + are؛ He/She/It + is. النفي بإضافة not؛ والسؤال بتقديم فعل be."
+    },
+    {
+      "id": "src-2017",
+      "text": "I am Egyptian. / Are you a student? / Yes, I am."
+    },
+    {
+      "id": "src-2018",
+      "text": "Unit 2"
+    },
+    {
+      "id": "src-2019",
+      "text": "وصف شخص آخر؛ أسئلة الاسم والأصل؛ والإجابات القصيرة."
+    },
+    {
+      "id": "src-2020",
+      "text": "She is a writer. / What's her name? / Where's she from? / No, he isn't."
+    },
+    {
+      "id": "src-2021",
+      "text": "Unit 3"
+    },
+    {
+      "id": "src-2022",
+      "text": "صفات الملكية: my, your, his, her, its, our, their."
+    },
+    {
+      "id": "src-2023",
+      "text": "His name is Frank. / Their children are students."
+    },
+    {
+      "id": "src-2024",
+      "text": "Unit 3"
+    },
+    {
+      "id": "src-2025",
+      "text": "ملكية المفرد ’s؛ والجمع المنتهي بـ s يأخذ ’؛ وhave مع I/you/we/they، وhas مع he/she/it."
+    },
+    {
+      "id": "src-2026",
+      "text": "my father’s car / my parents’ house / children’s school / They have four children."
+    },
+    {
+      "id": "src-2027",
+      "text": "Unit 3"
+    },
+    {
+      "id": "src-2028",
+      "text": "in مع الملابس؛ with مع الشعر والملامح والأشياء المصاحبة."
+    },
+    {
+      "id": "src-2029",
+      "text": "the man in a white shirt / the woman with glasses"
+    },
+    {
+      "id": "src-2030",
+      "text": "مفردات للمراجعة"
+    },
+    {
+      "id": "src-2031",
+      "text": "Unit 1"
+    },
+    {
+      "id": "src-2032",
+      "text": "Unit 2"
+    },
+    {
+      "id": "src-2033",
+      "text": "Unit 3"
+    },
+    {
+      "id": "src-2034",
+      "text": "Country = دولة"
+    },
+    {
+      "id": "src-2035",
+      "text": "writer = كاتب / مؤلف"
+    },
+    {
+      "id": "src-2036",
+      "text": "parents = الوالدان"
+    },
+    {
+      "id": "src-2037",
+      "text": "Nationality = جنسية"
+    },
+    {
+      "id": "src-2038",
+      "text": "professor = أستاذ جامعي"
+    },
+    {
+      "id": "src-2039",
+      "text": "cousin = ابن/ابنة العم أو الخال"
+    },
+    {
+      "id": "src-2040",
+      "text": "Capital city = عاصمة"
+    },
+    {
+      "id": "src-2041",
+      "text": "course = مقرر / برنامج دراسي"
+    },
+    {
+      "id": "src-2042",
+      "text": "husband = زوج"
+    },
+    {
+      "id": "src-2043",
+      "text": "Date of birth = تاريخ الميلاد"
+    },
+    {
+      "id": "src-2044",
+      "text": "interests = اهتمامات"
+    },
+    {
+      "id": "src-2045",
+      "text": "wife = زوجة"
+    },
+    {
+      "id": "src-2046",
+      "text": "Family name = اسم العائلة"
+    },
+    {
+      "id": "src-2047",
+      "text": "married = متزوج"
+    },
+    {
+      "id": "src-2048",
+      "text": "shirt = قميص"
+    },
+    {
+      "id": "src-2049",
+      "text": "Registration form = نموذج تسجيل"
+    },
+    {
+      "id": "src-2050",
+      "text": "gallery = معرض فني"
+    },
+    {
+      "id": "src-2051",
+      "text": "beard = دقن/لحية"
+    },
+    {
+      "id": "src-2052",
+      "text": "قبل إغلاق الكتاب"
+    },
+    {
+      "id": "src-2053",
+      "text": "□ أراجع الحروف الكبيرة وعلامات الترقيم والاختصارات."
+    },
+    {
+      "id": "src-2054",
+      "text": "□ أستطيع تقديم نفسي وتقديم شخص آخر وكتابة Personal Profile."
+    },
+    {
+      "id": "src-2055",
+      "text": "□ أميز بين its وit’s، وبين in وwith، وأراجع أمثلة الملكية."
+    },
+    {
+      "id": "src-2056",
+      "text": "□ أستخدم Can you repeat that, please? وHow do you spell that, please? عند الحاجة."
+    },
+    {
+      "id": "src-2057",
+      "text": "تذكير من المذكرات: بعض أنشطة الاستماع والمشاهدة تحتاج إلى ملفات الصوت أو الفيديو الأصلية؛ لا تُستنتج إجاباتها من الصور وحدها."
+    }
+  ]
+}
