@@ -41,7 +41,7 @@
     const fraction = Math.max(0, Math.min(1, (window.scrollY - absoluteTop + 100) / available));
     const pct = activeIndex === 0 ? 0 : Math.min(100, Math.round(((activeIndex - 1 + fraction) / (nav.length - 2)) * 100));
     $('#reading-progress').style.width = pct + '%';
-    $('#reading-status').textContent = activeIndex === 0 ? 'الغلاف والإهداء' : 'تقدّم القراءة · ' + pct + '%';
+    $('#reading-status').textContent = activeIndex === 0 ? 'المراجعة النهائية · خمس وحدات' : 'تقدّم القراءة · ' + pct + '%';
     $('#back-to-top').classList.toggle('visible', window.scrollY > 380);
     scrollScheduled = false;
   }
@@ -58,7 +58,11 @@
     $$('#book-nav [data-route]').forEach(a => {
       const active = a.dataset.route === result.section.id;
       a.classList.toggle('active', active);
-      if (active) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+      if (active) {
+        a.setAttribute('aria-current', 'page');
+        let parent = a.parentElement;
+        while (parent && parent !== sidebar) { if (parent.tagName === 'DETAILS') parent.open = true; parent = parent.parentElement; }
+      } else a.removeAttribute('aria-current');
     });
     $$('.nav-topics').forEach(n => n.classList.toggle('active', n.dataset.for === result.section.id));
     const group = $('#book-nav .nav-group[data-unit="' + nav[activeIndex].unit + '"]');
@@ -73,8 +77,8 @@
     if (sidebar.classList.contains('open')) menu(false);
     if (shouldScroll) requestAnimationFrame(() => {
       if (result.el !== result.section) {
-        const details = result.el.closest('details');
-        if (details) details.open = true;
+        let parent = result.el.parentElement;
+        while (parent && parent !== result.section) { if (parent.tagName === 'DETAILS') parent.open = true; parent = parent.parentElement; }
         result.el.scrollIntoView({ behavior: 'instant', block: 'start' });
         window.scrollBy({ top: -105, behavior: 'instant' });
         result.el.classList.remove('search-flash');
@@ -146,6 +150,7 @@
   }
   function openSearch() { if (!modal.open) modal.showModal(); setTimeout(() => $('#search-input').focus(), 20); }
   function preparePrint() {
+    if (expandedForPrint.length) return; // Idempotent if a PDF renderer repeats beforeprint.
     expandedForPrint = $$('details.original-toc:not([open])'); expandedForPrint.forEach(el => el.open = true);
   }
   function restorePrint() { expandedForPrint.forEach(el => el.open = false); expandedForPrint = []; }

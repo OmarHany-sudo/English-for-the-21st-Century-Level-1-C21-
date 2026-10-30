@@ -1,0 +1,1115 @@
+
+[units45-p1-0] BOLD ENGLISH FOR THE 21st CENTURY – LEVEL 1
+
+[units45-p1-1] C21 | مذكرة شرح وتدريب
+
+[units45-p1-2] BOLD UNIT 4: NETWORKS
+
+[units45-p1-3] BOLD UNIT 5: WORK
+
+[units45-p1-4] شرح بالمصري المبسط • مفردات • قواعد • محادثات • نطق • قراءة • كتابة • C21 Skills
+
+[units45-p2-0] BOLD مقدمة ونطاق المذكرة
+
+[units45-p2-1] المذكرة دي مخصصة للوحدتين4 و5فقط، مع الرجوع للصور والأنشطة والجداول في ملف الكتاب الأصلي. Unit
+
+[units45-p2-2] 4: الصفحات المطبوعة60–71. Unit 5: الصفحات المطبوعة74–89. اختبار Progress Test في ص72 – 73 خاص
+
+[units45-p2-3] بالوحدتين3 و4ًع ما، لذلك هنذكر علاقته بالوحدة الرابعة من غير إعادة شرح Unit 3.
+
+[units45-p2-4] تنبيه مهم: ملف PDF لا يحتوي التسجيلات الصوتية المستقلة ولا عرض الشرائح المشار إليه في بعض الأنشطة.
+
+[units45-p2-5] هنشرح المطلوب وطريقة الحل، لكن مش هنخترع إجابات استماع أو تفاصيل غير ظاهرة في الكتاب.
+
+[units45-p2-6] BOLD الفهرس
+
+[units45-p2-7] •!، Look at me، Conversations about friends، Pronouns، Unit 4 – Networks: Careers & Events
+
+[units45-p2-8] C21 Skills، Writing Skills، مراجعة واختبار.
+
+[units45-p2-9] •، Profiles، University subjects، Present Simple، Adjectives، Places of work، Unit 5 – Work: Jobs
+
+[units45-p2-10] C21 Skills، Writing Skills، مراجعة واختبار.
+
+[units45-p2-11] • قاموس شامل، ملخص القواعد، امتحان نهائي شامل.
+
+[units45-p3-0] BOLD UNIT 4 – NETWORKS
+
+[units45-p3-1] موضوع الوحدة: اختيار الكورس أو المسار المهني، حضور فعاليات ومعارض الوظائف، الحديث عن الأصدقاء والأشخاص المهمين، واستخدام الضمائر بدل تكرار الأسماء.
+
+[units45-p3-2] 
+القسم | الموضوع | صفحات الكتاب
+4A | Careers / Events | 62–63
+4A | Pronouns: he, she,, it we, they | 64–65
+4B | Conversations about friends / Conversation styles | 66–67
+4C | Look at me! – Slideshow | 68
+Writing Skills | Pronouns, verb forms, profiles | 69–70
+C21 Skills | Writing style / Responses in conversations | 71
+
+[units45-p3-3] BOLD ص62 –63 4A – Careers and Events |
+
+[units45-p3-4] السؤال الافتتاحي في الكتاب: ليه الناس بتروح Job fairs؟ وليه الجامعات بتنظمها؟ الهدف إن الطالب يعرف فرص
+
+[units45-p3-5] الدراسة والتوظيف، يقابل جهات وشركات، ويجمع معلومات عن الكورسات والمسارات المهنية.
+
+[units45-p3-6] BOLD Vocabulary
+
+[units45-p3-7] 
+الكلمة | المعنى | مثال
+career | مسار مهني | I want a career in IT. – عايز مسار مهني في تكنولوجيا المعلومات.
+event | فعالية | The event is on Friday. – الفعالية يوم الجمعة.
+job fair | معرض وظائف | I'm going to a job fair.
+course | كورس / مقرر | This course is useful.
+university | جامعة | She studies at a university.
+company | شركة | He works for a company.
+entry fee | رسوم دخول | The entry fee is £ 15.
+free | مجاني | Entry is free.
+application | طلب تقديم | The application is online.
+information | معلومات | I need information about the event.
+
+[units45-p3-8] في ص62فيه3 إعلانات فعلية: London Connect Job Club، Computer Games، و Youth Job Fair. المطلوب
+
+[units45-p3-9] قراءة الإعلانات وربط الجمل بالمعلومات: مين المنظم؟ مين المستهدف؟ إيه التخصص أو النشاط؟ إمتى؟ فين؟ بكام؟
+
+[units45-p4-0] شرح أنشطة ص62–63 • ص62 – نشاط1: ناقش سبب ذهاب الناس لمعارض الوظائف وسبب تنظيم الجامعات لها. إجابة تعبيرية
+
+[units45-p4-1] مقترحة: People go to job fairs to learn about jobs and meet employers. Universities organise them
+
+[units45-p4-2] to give students information about courses and careers. دي صياغة مساعدة وليست ن صًا حرفًا مني
+
+[units45-p4-3] الكتاب.
+
+[units45-p4-4] • ص62 – نشاط2: اقرأ الإعلانات الثلاثة وأكمل الجمل. حدد الكلمات المفتاحية في الجملة مثل students /
+
+[units45-p4-5] school / university / local companies / IT، ثم دور على المعلومة المطابقة داخل الإعلان. لا تعتمد على
+
+[units45-p4-6] التخمين.
+
+[units45-p4-7] • ص63 – نشاط3: انقل اسم كل فعالية وتاريخها ووقتها وتكلفتها إلى الجدول. الظاهر بالصفحة أن Computer
+
+[units45-p4-8] Games له تاريخان11 July أو16 September ويبدأ10 a m.؛ والفعالية الثانية يومي12 و30 July والدخول
+
+[units45-p4-9] Free؛ و Youth Job Fair من9 a m. إلى 4.30 p m.. راجع الإعلان الأصلي لأي خانة صغيرة غير واضحة.
+
+[units45-p4-10] • ص63 – نشاط4: اقرأ Profile نادية: عمرها18 سنة وفي السنة الأخيرة بالمدرسة، جيدة في المواد التقنية،
+
+[units45-p4-11] وتهتم بتكنولوجيا المعلومات والشبكات الاجتماعية والكمبيوتر. اختر الفعالية الأنسب لها من إعلانات ص62 واذكر السبب. الاختيار لازم يتوافق مع اهتمامها بالتكنولوجيا.
+
+[units45-p4-12] • ص63 – نشاط5: ابحث عن Job fair للطلاب في بلدك واكتب اسم الحدث والتاريخ والمكان والتكلفة
+
+[units45-p4-13] وتفاصيل أخرى، ثم قدمه للفصل. ده نشاط بحث وعرض شفهي وإجابته حسب بلدك.
+
+[units45-p4-14] • ص63 – النطق: استمع للكلمات وحدد المقطع المشدد. Word stress يعني إن مقط عا صوتًيا في الكلمة
+
+[units45-p4-15] بيتنطق أوضح وأقوى من باقي المقاطع. التسجيل مش موجود في الـ PDF، لذلك لا نحدد مواضع التشديد
+
+[units45-p4-16] المسموعة.
+
+[units45-p4-17] BOLD ص64 –65 4A – Pronouns |
+
+[units45-p4-18] Pronoun = ضمير. بنستخدمه بدل الاسم عشان ما نكررش الاسم في كل جملة. مثال: Omar is a student.
+
+[units45-p4-19] Omar studies engineering. الأفضل: Omar is a student. He studies engineering.
+
+[units45-p4-20] 
+الضمير | الاستخدام | مثال وترجمة
+he | مذكر مفرد | Ahmed is my friend. He is kind –. أحمد صديقي، هو طيب.
+she | مؤنث مفرد | Mona is a doctor. She works in a hospital.
+it | شيء أو غير عاقل مفرد | My laptop is new. It is fast.
+we | أنا مع شخص أو أكثر | Ali and I are students. We study English.
+they | جمع أشخاص أو أشياء | Mona and Sara are friends. They study together.
+
+[units45-p5-0] BOLD اختيار الضمير خطوة بخطوة
+
+[units45-p5-1] 1. حدد الاسم الذي سيحل الضمير محله.
+
+[units45-p5-2] 2.اسأل: مفرد ولا جمع؟ شخص ولا شيء؟
+
+[units45-p5-3] 3. مذكر مفرد = he؛ مؤنث مفرد = she؛ شيء مفرد = it؛ أنا مع آخرين = we؛ جمع = they.
+
+[units45-p5-4] 4. تأكد إن القارئ يقدر يعرف الضمير راجع على مين.
+
+[units45-p5-5] BOLD صلة الضمائر بالفعل
+
+[units45-p5-6] الكتاب يربط الضمائر بتصريف الفعل: مع he/she/itًب غالا نضيف s أو es في Present Simple، ومع I/you/we/they
+
+[units45-p5-7] نستخدم الفعل الأساسي.
+
+[units45-p5-8] 
+الفاعل | شكل الفعل | مثال
+I / you / we / they | base verb | They study engineering.
+he / she / it | verb + s/es | She studies engineering.
+
+[units45-p5-9] شرح إضافي لتكوين النفي والسؤال في Present Simple: مع I/you/we/they نستخدم don't، ومع he/she/it
+
+[units45-p5-10] نستخدم doesn't. بعد don't أو doesn't الفعل يرجع للمصدر: She doesn't work (مش works.)
+
+[units45-p5-11] 
+النوع | I / you / we / they | he / she / it
+إثبات | They work. | She works.
+نفي | They don't work. | She doesn't work.
+سؤال | Do they work? | Does she work?
+إجابة قصيرة | Yes, they do. / No, they don't. | Yes, she does. / No, she doesn't.
+
+[units45-p5-12] BOLD تمارين ص64–65
+
+[units45-p5-13] • ص64 – نشاط1: اقرأ النصين A و B وحدد أيهما يكرر الأسماء وأيهما أفضل. النص الأفضل هو الذي يستخدم
+
+[units45-p5-14] الضمائر بصورة طبيعية مع وضوح مرجعها.
+
+[units45-p5-15] • ص64 – نشاط2: استبدل الكلمات المحددة بضمائر he / it / she / they / we. حّدد أو ل ااً عدد المرجع ونوعه،
+
+[units45-p5-16] وابدأ الضمير بحرف كبير إذا جاء في أول الجملة.
+
+[units45-p5-17] • ص64 – نشاط3: رتب الكلمات لتكوين جمل. استخدم Subject + Verb + Complement. مثال توضيحي: He /
+
+[units45-p5-18] He is good at science → good / at / science.
+
+[units45-p5-19] • ص65 – نشاط4: أعد كتابة الإيميل باستبدال الأسماء المتكررة بالضمائر. لا تستخدم they لو المقصود شخص
+
+[units45-p5-20] واحد، ولا تستخدم he بدل she.
+
+[units45-p5-21] • ص65 – نشاط5: اكتب إيميل50–80كلمة لفرد من العائلة عن اثنين من أصدقائك. استخدم تحية، تعري اف بالصديقين، معلومات عن الدراسة أو العمل، اهتما ما أو هواية، ثم ختاً.ام
+
+[units45-p6-0] BOLD نموذج إيميل محلول – ص65
+
+[units45-p6-1] Hi Mum,
+
+[units45-p6-2] I want to tell you about my two friends, Ali and Sara. They are students at university. Ali studies
+
+[units45-p6-3] computer science and he likes programming. Sara studies business and she enjoys reading. They are
+
+[units45-p6-4] friendly and helpful. I often meet them after classes. I think you will like them!
+
+[units45-p6-5] See you soon,
+
+[units45-p6-6] Omar
+
+[units45-p6-7] الترجمة: أه ل ااً ماما، عايز أحكيلك عن صديقّي علي وسارة. هما طلاب في الجامعة. علي بيدرس علوم الكمبيوتر وبيحب البرمجة. سارة بتدرس إدارة الأعمال وبتحب القراءة. هما ودودين ومتعاونين. غال با بقابلهم بعد المحاضرات. أشوفك قري.اب
+
+[units45-p6-8] 
+تعبير | الاستخدام
+Dear... | تحية رسمية أو شبه رسمية
+Hi... | تحية ودية
+I'm writing to... | بكتب لك عشان...
+I want to tell you about... | عايز أحكيلك عن...
+Best wishes / Best regards | ختام مهذب
+See you soon | أشوفك قري با
+
+[units45-p6-9] BOLD ص66 –67 4B – Conversations about friends |
+
+[units45-p6-10] الدرس بيركز على Conversation styles: هل الشخص بيسأل كل الأسئلة؟ هل بيرد بإجابات قصيرة ج ا؟ ولاد
+
+[units45-p6-11] بيضيف معلومات مفيدة؟ المحادثة الطبيعية فيها سؤال ورد ومعلومة متابعة.
+
+[units45-p6-12] 
+المصطلح | المعنى | مثال
+asks all the questions | شخص واحد بيسأل كل الأسئلة | Where are you from? What do you do?
+very short answers | إجابات قصيرة جًدا | Yes. / No. / From Cairo.
+extra information | معلومة زيادة مرتبطة بالسؤال | I'm from Cairo, but I study in Alexandria.
+
+[units45-p6-13] BOLD مفردات المحادثة
+
+[units45-p6-14] 
+الكلمة | المعنى
+friend / best friend | صديق / أعز صديق
+actor / actress | ممثل / ممثلة
+
+[units45-p7-0] 
+films | أفلام
+football player | لاعب كرة قدم
+team | فريق
+teacher | مدرس
+company | شركة
+married | متزوج
+baby | رضيع
+born | مولود / اتولد
+
+[units45-p7-1] BOLD محادثة الكتاب – ص66
+
+[units45-p7-2] Maria: Tell me about your friend. Who's your best friend at college?
+
+[units45-p7-3] Tom: A guy called Bo. He's on my course and he's from China.
+
+[units45-p7-4] Maria: Really? Which city is he from?
+
+[units45-p7-5] Tom: He's from Shanghai. His family has a taxi company.
+
+[units45-p7-6] Maria: How about you, Maria? Who's your best friend?
+
+[units45-p7-7] المعنى: ماريا بتسأل توم عن أعز صديق له في الكلية. توم بيقول اسمه وعلاقته به وبلده. ماريا بتسأل سؤال متابعة عن المدينة، وتوم يضيف معلومة عن عائلته.
+
+[units45-p7-8] تمارين ص66–67 • ص66 – نشاط1: استمع لنسختين من الحوار وحدد أي وصف ينطبق على كل نسخة: ماريا بتسأل كل الأسئلة؟ توم إجاباته قصيرة؟ توم بيضيف معلومات؟ لا يمكن تحديد النسخة دون التسجيل.
+
+[units45-p7-9] • ص66 – نشاط2: من الحوار المكتوب استخرج سؤالين لماريا، وتعبير مفاجأة، وسؤال متابعة. أمثلة: Who's
+
+[units45-p7-10] your best friend at college? / Which city is he from? / Really? / How about you?
+
+[units45-p7-11] • ص66 – نشاط3: استمع وأكمل الحوارات بكلمات الصندوق: actor, age, class, films, football player,
+
+[units45-p7-12] family, born, son, teacher, team. اقرأ ما قبل الفراغ وبعده لتعرف نوع الكلمة. الإجابات النهائية تحتاج
+
+[units45-p7-13] Audio 4.3.
+
+[units45-p7-14] • ص67 – نشاط4: اختار أشخا ا مهمين من حياتك واكتب جم ل ااً عنهم مثل He's my cousin / She's my best
+
+[units45-p7-15] friend / He's a businessman.
+
+[units45-p7-16] • ص67 – نشاط5: تدرب على أسئلة عن البلد والكاتب المفضل. جاوب بجملة كاملة وأضف معلومة مرتبطة.
+
+[units45-p7-17] • ص67 – نشاط6: جهز أربع أسئلة عن شخص مهم، ثم أجًرر حوا ا مع زميلك. ابدأ بسؤال عام، ثم اسأل عن العلاقة والاسم والعمل أو الدراسة والهوايات.
+
+[units45-p7-18] 
+سؤال متابعة | المعنى
+Where is he/she from? | هو/هي منين؟
+
+[units45-p8-0] 
+What does he/she do? | بيشتغل/بتشتغل إيه؟
+Where does he/she work? | بيشتغل فين؟
+How old is he/she? | عنده كام سنة؟
+Are they married? | هما متجوزين؟
+How about you? | وأنت؟
+
+[units45-p8-1] BOLD ص68 4C – Look at me! |
+
+[units45-p8-2] الصفحة بتقدم Slideshow بعنوان Look at me! والصور فيها مجموعة أصدقاء، شخص في نشاط خارجي،
+
+[units45-p8-3] ومجموعة في مناسبة. المطلوب توقع موضوع العرض، عمل Word map للكلمات المتوقعة، مشاهدة العرض
+
+[units45-p8-4] وتسجيل الكلمات، ثم مناقشة الصور وطريقة تقديم الشخص لنفسه.
+
+[units45-p8-5] • نشاط1: صف الصور: مين الأشخاص؟ فين؟ بيعملوا إيه؟
+
+[units45-p8-6] • نشاط2: اكتب كلمات متوقعة في خريطة ذهنية، مثل friends, selfie, photo, social networking, holiday،
+
+[units45-p8-7] باعتبارها توقعات منك وليست إجابات مؤكدة.
+
+[units45-p8-8] • نشاط3: شاهد العرض وسجل الكلمات التي تسمعها. العرض غير مرفق في PDF.
+
+[units45-p8-9] • نشاط4: ناقش أي صورة أعجبتك وهل المتحدث يبدو سعي دا أو واثًقا ولماذا.
+
+[units45-p8-10] • نشاط5: فكر في أسئلة عن التقاط الصور الذاتية ومواقع التواصل: Do you like taking selfies? / Do you
+
+[units45-p8-11] use social networking sites? / What's your favourite selfie?
+
+[units45-p8-12] • نشاط6: اكتب وصًفا لصورة أو موقف مفضل في 100–200كلمة، وفق الخطوات: خطط، اكتب المسودة، شاركها، ثم ح.ّسنها
+
+[units45-p8-13] 
+Expression | المعنى
+In this photo..., | في الصورة دي...
+In the background | في الخلفية
+In the foreground | في المقدمة
+On the left / right | على الشمال / اليمين
+At the top / bottom | في أعلى / أسفل
+It looks like... | يبدو أن...
+
+[units45-p8-14] BOLD ص69 –70 Writing Skills – Unit 4 |
+
+[units45-p8-15] BOLD ص69 – نشاط1: قواعد شكل الفعل
+
+[units45-p8-16] المطلوب توصيل أنصاف الجمل لتكوين قواعد عن الفعل بعد الضمير. القاعدة: I/you/we/they +الفعل الأساسي؛
+
+[units45-p8-17] he/she/it + s أو es. وإذا انتهى الفعل بحرف ساكن + yًب غالا تتحول y إلى studies → ies: study.
+
+[units45-p9-0] 
+الفاعل | الشكل | مثال
+I / you / we / they | study / work / watch | They study.
+he / she / it | studies / works / watches | She studies.
+
+[units45-p9-1] BOLD ص69 – نشاط2: استبدال الأسماء
+
+[units45-p9-2] اقرأ Profile الخاص بـ Mansoor وأصدقائه Omar و Hanan و Arwa و Fatima و Louisa. استبدل الاسم المتكرر
+
+[units45-p9-3] بضمير مناسب: he لشخص مذكر مفرد، she لمؤنث مفرد، they لأكثر من شخص. خليك متأكد إن الضمير بيرجع
+
+[units45-p9-4] للاسم المقصود.
+
+[units45-p9-5] BOLD ص69 – نشاط3: اختيار الفعل
+
+[units45-p9-6] 
+الفاعل | الصحيح | السبب
+I | study | I لا تأخذ s.
+Maha | works | Maha = she.
+Rakan and Leena | are | فاعل جمع.
+He | goes | he يأخذ s/es.
+My brother | plays | my brother = he.
+
+[units45-p9-7] BOLD ص70 – أنشطة4 –7
+
+[units45-p9-8] • نشاط4: أكمل Profile نادية بصيغ الأفعال في الأقواس. حّدد الفاعل قبل الفعل: her friends =، Naya = she
+
+[units45-p9-9] they. أمثلة القاعدة: She is 18; she studies; she wants; her friends live. راجع كل فعل داخل النص قبل
+
+[units45-p9-10] تثبيت الإجابة.
+
+[units45-p9-11] • نشاط5: ارجع إلى Profile ص69 وحدد المعلومات الموجودة فع ل ااً: الاسم، السن، الجنسية، المواد الدراسية،
+
+[units45-p9-12] الاهتمامات، الأسرة، مكان السكن، وأفضل صديق. لا تختار معلومة غير مذكورة.
+
+[units45-p9-13] • نشاط6: اكتب Profileًر قصي ا عن صديق. خطط الأفكار في خريطة، رتبها، اكتب المسودة، ثم راجع subject–
+
+[units45-p9-14] verb agreement وترتيب المعلومات والحروف الكبيرة وعلامات الترقيم.
+
+[units45-p9-15] • نشاط7: اكتب محادثة من80–100كلمة مع صديق عن شخص مهم في حياتك. لازم يكون فيها أسئلة وأجوبة ومعلومات متابعة، مش وص فا سردًيا فقط.
+
+[units45-p9-16] BOLD نموذج محادثة إضافي
+
+[units45-p9-17] A: Who is an important person in your life?
+
+[units45-p9-18] B: My cousin Karim. He's a university student.
+
+[units45-p9-19] A: What does he study?
+
+[units45-p9-20] B: He studies engineering, and he wants to be a civil engineer.
+
+[units45-p9-21] A: Where does he live?
+
+[units45-p10-0] B: He lives near my house. We play football together at weekends.
+
+[units45-p10-1] A: Is he your best friend?
+
+[units45-p10-2] B: Yes, he is. He's very helpful.
+
+[units45-p10-3] BOLD ص71 C21 Skills – Unit 4 |
+
+[units45-p10-4] BOLD A. Communication: Writing style
+
+[units45-p10-5] الكتاب بيطلب منك تراجع المسودة الأولى بعناية: spelling و grammar. نشاط1: اكتشف الأخطاء وصححها في
+
+[units45-p10-6] جمل عن Fatima و Hassan و Harvard و Syrian. نشاط2: ادمج كل زوج جمل في جملة واحدة طبيعية. نشاط3:
+
+[units45-p10-7] اقرأ مسودة مقال عن الجامعة وحّسنها مع زميلك. نشاط 4: اقرأ مسودة زميلك واقترح تغييرات. نشاط5: حّدث مسودتك.
+
+[units45-p10-8] مثال دمج توضيحي: Carmen Rodriguez is a → Carmen Rodriguez is from Morocco. She is a student.
+
+[units45-p10-9] student from Morocco. المثال لشرح الفكرة، وليس ح ل ااًًي حرفا لكل جمل الصفحة.
+
+[units45-p10-10] BOLD B. Communication: Responses in conversations
+
+[units45-p10-11] الصفحة بتوضح إن الرد الجيد لازم يكون مناسًبا لكلام الطرف التاني. في Conversation 1 Anne تسأل Mike عن
+
+[units45-p10-12] الرياضة والاهتمامات؛ وفي Conversation 2 تسأله عن الكورس والسنة الدراسية. أكمل الفراغات بالاعتماد على
+
+[units45-p10-13] سياق السؤال ثم استمع للتحقق. الصوت غير موجود.
+
+[units45-p10-14] 
+سؤال | رد مناسب توضيحي
+What sports do you like? | I like football.
+What course are you on? | I'm on the engineering course.
+Which year are you in? | I'm in my second year.
+What about you? | I like tennis, but I'm not very good.
+
+[units45-p10-15] BOLD Unit 4 مراجعة
+
+[units45-p10-16] 
+النقطة | الخلاصة
+Pronouns | he مذكر مفرد؛ she مؤنث مفرد؛ it شيء مفرد؛ we أنا وآخرون؛ they. جمع
+Avoid repetition | استخدم الضمير بدل الاسم إذا كان مرجعه واض.اح
+Verb agreement | he/she/it + s/es؛ I/you/we/they + base verb.
+Conversation | سؤال واضح +إجابة كاملة +معلومة إضافية مناسبة.
+Writing | رتب الأفكار، راجع الضمائر، الفعل، الحروف الكبيرة والترقيم.
+Photo description | اذكر الأشخاص والمكان والخلفية والمقدمة وما يحدث.
+
+[units45-p11-0] BOLD Unit 4 – أخطاء شائعة
+
+[units45-p11-1] • e studies engineering → He study engineering. H ✓.
+
+[units45-p11-2] • Mona is my friend. He is kind. ✗→ She is kind ✓.
+
+[units45-p11-3] • Ali and I are students. They study English. ✗ (لو المقصود أنا وعلي→) We study English ✓.
+
+[units45-p11-4] • My friends is nice. ✗→ My friends are nice ✓.
+
+[units45-p11-5] • تكرار الاسم في كل جملة؛ استخدم الضمير عند وضوح المرجع.
+
+[units45-p11-6] BOLD Unit 4 اختبار
+
+[units45-p11-7] 5. Mona is a doctor. ___ works in a hospital. (he/she/they)
+
+[units45-p11-8] 6. My brother and I are students. ___ study English.
+
+[units45-p11-9] 7.:صحح Ahmed study computer science.
+
+[units45-p11-10] 8. استبدل التكرار: Sara is my friend. Sara is helpful.
+
+[units45-p11-11] 9.:رتب studies / he / engineering.
+
+[units45-p11-12] 10. My laptop is new. ___ is very fast.
+
+[units45-p11-13] 11. They (work/works) in a company.
+
+[units45-p11-14] 12. اكتب سؤال متابعة بعد: I'm from Alexandria.
+
+[units45-p11-15] 13. اذكر تعبيرين لوصف صورة.
+
+[units45-p11-16] 14. اكتب أربع جمل عن صديق مستخدًام he أو she.
+
+[units45-p11-17] BOLD Unit 4 نموذج إجابة
+
+[units45-p11-18] • She.
+
+[units45-p11-19] • We.
+
+[units45-p11-20] • Ahmed studies computer science.
+
+[units45-p11-21] • Sara is my friend. She is helpful.
+
+[units45-p11-22] • He studies engineering.
+
+[units45-p11-23] • It.
+
+[units45-p11-24] • work.
+
+[units45-p11-25] • Which city are you from? / Do you live there?
+
+[units45-p12-0] • In the background; on the left; at the top.
+
+[units45-p12-1] •:مثال My friend is Ali. He studies IT. He likes football. He is helpful.
+
+[units45-p13-0] BOLD UNIT 5 – WORK
+
+[units45-p13-1] موضوع الوحدة: الوظائف وأماكن العمل، صفات الوظيفة، الحياة اليومية والمضارع البسيط، التخصصات الجامعية، والكتابة عن شخص أو كورس.
+
+[units45-p13-2] 
+القسم | الموضوع | صفحات الكتاب
+5A | My job: jobs / places / adjectives | 76–78
+5B | My life: Present Simple with I, you, we, they | 79–81
+5C | Career choices: University subjects / profiles | 82–84
+Writing Skills | Profile and paragraph structure | 85–86
+C21 Skills | Instructions / Classroom language / Planning ahead | 87–89
+
+[units45-p13-3] BOLD ص76 –78 5A – My job: Jobs and occupations |
+
+[units45-p13-4] BOLD الوظائف Vocabulary –
+
+[units45-p13-5] 
+Job | المعنى | ماذا يعمل؟
+architect | مهندس معماري | designs buildings – يصمم المباني
+construction worker | عامل إنشاءات | works on building sites – يعمل في مواقع البناء
+designer | مصمم | creates designs – يصمم
+engineer | مهندس | works on technical projects – يعمل في مشروعات تقنية
+journalist | صحفي | writes news – يكتب الأخبار
+lawyer | محاٍم | works in law – يعمل في القانون
+nurse | ممرض/ممرضة | cares for patients – يرعى المرضى
+police officer | شرطي | works for the police – يعمل بالشرطة
+scientist | عالم | does research – يجري أبحا اث
+chef | ٍهطا | cooks professionally – يطبخ باحتراف
+doctor | طبيب | treats patients – يعالج المرضى
+teacher | مدرس | teaches students – يدّرس الطلاب
+
+[units45-p14-0] ص76 نشاط1: ضع أسماء الوظائف من الصندوق تحت الصور التسع. استخدم أدوات المهنة وبيئة العمل كدليل:
+
+[units45-p14-1] خوذة موقع البناء تشير إلى construction worker، أدوات المعمل إلى scientist، تصميم المباني إلى architect،
+
+[units45-p14-2] .وهكذا
+
+[units45-p14-3] ص77 نشاط2: اختار وظيفتين لكل مجموعة وقارن اختياراتك. أمثلة ظاهرة في ملاحظات الصفحة: dangerous
+
+[units45-p14-4] jobs – police officer؛ interesting jobs – designer؛ jobs with good salaries – engineer. نشاط3: أضف
+
+[units45-p14-5] وظائف أخرى؛ الإجابات مفتوحة.
+
+[units45-p14-6] BOLD أماكن العمل Places of work –
+
+[units45-p14-7] 
+المكان | المعنى | مثال
+a factory | مصنع | A worker works in a factory.
+at home | في المنزل | I work at home.
+a hospital | مستشفى | A nurse works in a hospital.
+a laboratory | معمل | A scientist works in a laboratory.
+an office | مكتب | A lawyer works in an office.
+outside | في الخارج | A construction worker works outside.
+
+[units45-p14-8] BOLD ص77 Prepositions: in / at / for |
+
+[units45-p14-9] 
+التركيب | الاستخدام | مثال
+work in | داخل مكان أو مدينة/بلد | I work in an office. / I work in Cairo.
+work at | موقع أو مكان عمل محدد | She works at a hospital.
+work for | شركة أو جهة | He works for a company.
+
+[units45-p14-10] نشاط5ص77: حدد أين يعمل كل شخص باستخدام الأماكن الموجودة في الصندوق. نشاط6: اختار in أو at أو
+
+[units45-p14-11] for. فكر: هل بتحدد الشركة؟ غالًاب for. هل بتحدد المكان؟ at أو in حسب التعبير. هل بتتكلم عن مدينة؟ in.
+
+[units45-p14-12] BOLD الصفات | ص78 Adjectives –
+
+[units45-p14-13] Adjective كلمة بتوصف اسً:ام interesting job = وظيفة ممتعة، helpful colleagues = زملاء متعاونون، high
+
+[units45-p14-14] salary = راتب مرتفع. نشاط7 يطلب اختيار الصفة التي لا تتناسب مع مجموعة الأسماء؛ الهدف تعلم الكلمات
+
+[units45-p14-15] اللي بتيجي مع بعض طبيعً(اي collocations.)
+
+[units45-p14-16] 
+Adjective | المعنى | Noun شائع معها
+long | طويل | hours / holidays حسب السياق
+helpful | متعاون | colleagues
+
+[units45-p15-0] 
+flexible | مرن | hours
+international | دولي | company
+dangerous | خطير | job
+interesting | ممتع | job / work
+friendly | ودود | colleagues / boss
+high | مرتفع | salary
+large | كبير | company
+good | جيد | salary / job
+difficult | صعب | job / work
+
+[units45-p15-1] نشاط8ص78: استمع لشخصين يتكلمان عن الوظائف والزملاء، وحدد الصفات التي استخدموها. محتاج Audio
+
+[units45-p15-2] 5.1. نشاط9: اختار ثلاثة أشياء مهمة في الوظيفة وناقشها. نشاط10: تكلم عن الوظيفة التي تريدها بعد خمس
+
+[units45-p15-3] سنوات واذكر السبب.
+
+[units45-p15-4] BOLD g حرف Pronunciation –
+
+[units45-p15-5] ص78 تلفت النظر إلى إن حرف g ممكن يختلف نطقه حسب الكلمة. مثال good يبدأ بصوت / g /، وفي engineer
+
+[units45-p15-6] نطق الحرف مختلف. اسمع التسجيل وكرر الكلمات؛ لا توجد قاعدة واحدة تضمن نطق كل كلمة.
+
+[units45-p15-7] BOLD تمارين ص78 بالتفصيل
+
+[units45-p15-8] • نشاط7: اقرأ كل مجموعة من الصفات والأسماء وحدد الصفة الغريبة عن المعنى. ركز على collocations مثل
+
+[units45-p15-9] high salary و friendly colleagues و long hours.
+
+[units45-p15-10] • نشاط8: اسمع المتحدثين وحدد الصفات التي يستخدمونها من قائمة نشاط7. لا يمكن حسمها دون التسجيل.
+
+[units45-p15-11] • نشاط9: قارن أولوياتك في الوظيفة مع زميلك، مثل interesting work / good salary / flexible hours /
+
+[units45-p15-12] helpful colleagues.
+
+[units45-p15-13] • نشاط10: أكمل جملة عن وظيفة تريدها في المستقبل ثم تحدث مع زميلك عن هدف مشابه. مثال: I want to
+
+[units45-p15-14] be an engineer because I enjoy solving problems.
+
+[units45-p15-15] BOLD ص79 –81 5B – My life: Present Simple |
+
+[units45-p15-16] Present Simple بنستخدمه للعادات والروتين والحقائق. الجزء ده يركز على I / you / we / they.
+
+[units45-p15-17] BOLD الإثبات
+
+[units45-p15-18] 
+الفاعل | التركيب | مثال
+I | I + base verb | I live in Cairo.
+you | you + base verb | You study English.
+we | we + base verb | We work together.
+
+[units45-p16-0] 
+they | they + base verb | They have lunch at work.
+
+[units45-p16-1] BOLD النفي
+
+[units45-p16-2] نستخدم don't +الفعل الأساسي مع I / you / we / they. don't اختصار do not.
+
+[units45-p16-3] 
+الفاعل | التركيب | مثال
+I / you / we / they | don't + base verb | I don't drive to work.
+they | don't + base verb | They don't live here.
+
+[units45-p16-4] BOLD السؤال والإجابة القصيرة
+
+[units45-p16-5] 
+النوع | التركيب | مثال
+Yes/No question | Do + subject + base verb? | Do you live here?
+إجابة نعم | Yes, + subject + do. | Yes, I do.
+إجابة لا | No, + subject + don't. | No, I don't.
+Wh-question | Wh-word + do + subject + base verb? | Where do you live?
+
+[units45-p16-6] مهم: بعد do أو don't الفعل يرجع للمصدر: Do you work? وليس Do you works? / They don't study وليس
+
+[units45-p16-7] They don't studies.
+
+[units45-p16-8] شرح أنشطة ص79–81 • ص79 – نشاط1: استمع إلى حوارين وطابق كل حوار بالصورة مع ذكر السبب. نشاط2: أكمل المحادثتين ثم استمع للتحقق. الحوار الأول عن الغداء في العمل، والثاني عن السكن. لا يمكن تأكيد الكلمات الناقصة دون
+
+[units45-p16-9] Audio 5.4.
+
+[units45-p16-10] • ص79 – Grammar box: أمثلة الإثبات I live with my parents؛ النفي I don't live in a student residence؛
+
+[units45-p16-11] السؤال Do you study at...? والإجابة Yes, I do / No, I don't.
+
+[units45-p16-12] • ص80 – نشاط3: استخدم الأفعال بين الأقواس لتكوين جمل عن نفسك. ابدأ بالفاعل ثم اختر الفعل الأساسي.
+
+[units45-p16-13] • ص80 – نشاط4: أكمل Profile باستخدام الأفعال في الصندوق: don't go out, don't like, don't stop, go,
+
+[units45-p16-14] have, like, live, work. اقرأ الجملة كاملة لتحديد المعنى والزمن.
+
+[units45-p16-15] • ص80 – نشاط5: اكتب ست جمل عن نفسك، تتضمن جملتين غير صحيحتين، ليحاول زميلك اكتشافهما. ده نشاط تواصل وليس له إجابة واحدة.
+
+[units45-p16-16] • ص80 – نشاط6: أضف do في مكانه لتكوين أسئلة: Do you work in the city? / Where do you live? / Do
+
+[units45-p16-17] you speak Spanish?
+
+[units45-p17-0] • ص81 – نشاط7: اكتب أسئلة مناسبة للإجابات ثم استمع وتحقق. مثال الصفحة: Do you live with your
+
+[units45-p17-1] parents? – No, I don't. I live in a student residence.
+
+[units45-p17-2] • ص81 – نشاط8: اسأل زميلك وأجب عن الأسئلة. نشاط9: رتب الكلمات. النمط: Wh-word + do +
+
+[units45-p17-3] subject + base verb. مثال: What kind of books do you like? نشاط10: تبادل الأسئلة والإجابات.
+
+[units45-p17-4] BOLD أنماط أسئلة مهمة
+
+[units45-p17-5] 
+المطلوب | الصيغة | مثال
+هل؟ | Do + subject + base verb? | Do you play football?
+أين؟ | Where + do + subject + base verb? | Where do they work?
+ماذا؟ | What + do + subject + base verb? | What do you study?
+كم مرة؟ | How often + do + subject + base verb? | How often do you exercise?
+
+[units45-p17-6] BOLD ص82 –84 5C – Career choices: University subjects |
+
+[units45-p17-7] BOLD التخصصات الجامعية Vocabulary –
+
+[units45-p17-8] 
+Subject | المعنى
+architecture | العمارة
+languages | اللغات
+economics | الاقتصاد
+medicine | الطب
+chemistry | الكيمياء
+tourism | السياحة
+engineering | الهندسة
+science | العلوم
+business | إدارة الأعمال
+law | القانون
+
+[units45-p17-9] • ص82 – نشاط1: اكتب أسماء التخصصات الجامعية تحت الصور. الصور والخيارات تتضمن architecture,
+
+[units45-p17-10] languages, economics, medicine, chemistry, tourism, engineering.
+
+[units45-p17-11] • ص82 – نشاط2: اذكر تخصصين آخرين تعرفهما. نشاط مفتوح.
+
+[units45-p17-12] • ص82 – نشاط3: استمع إلى Ahmed و Cheng و Isabel وهم يتحدثون عن التخصصات وحدد ما يذكرونه. يحتاج
+
+[units45-p17-13] التسجيل.
+
+[units45-p17-14] • ص82 – نشاط4: اكتب ملاحظات عن كل متحدث ثم قارنها مع زميلك. لا نخترع محتوى التسجيل.
+
+[units45-p18-0] • ص83 – نشاط5: اختر كورًسا جامعًيا لكل طالب واذكر أسبابك. نشاط 6: أكمل استبيا نا عن الاهتمامات الأكاديمية والشخصية واتبع التعليمات المشار إليها في الكتاب.
+
+[units45-p18-1] • ص83 – قراءة Femi El Masry: Profile على موقع تواصل مهني. النص يعرض معلومات عامة ودراسة Femi
+
+[units45-p18-2] واهتماماته وأهدافه. المطلوب تحديد أي فقرة فيها general facts، وأي فقرة personal interests، وأي فقرة
+
+[units45-p18-3] career interests and goals.
+
+[units45-p18-4] • ص83 – نشاط2: ضع خ ا تحت and و an في النص لملاحظة أدوات الربط وأداة النكرة.
+
+[units45-p18-5] BOLD Paragraph structure
+
+[units45-p18-6] 
+نوع الفقرة | ماذا تحتوي؟
+General information | الاسم، الدراسة، المكان، معلومات عامة.
+Personal interests | الهوايات والأنشطة الشخصية.
+Career interests and goals | الاهتمامات المهنية والأهداف المستقبلية.
+
+[units45-p18-7] BOLD ص84 a / an |
+
+[units45-p18-8] نستخدم a قبل اسم مفرد معدود يبدأ بصوت ساكن، و an قبل اسم مفرد معدود يبدأ بصوت متحرك. المهم الصوت
+
+[units45-p18-9] مش شكل الحرف.
+
+[units45-p18-10] 
+a | an
+a university course – بداية صوت / y / | an architect
+a designer | an engineer
+a student | an interesting subject
+
+[units45-p18-11] نشاط3ص84: اختار a أو an في الجمل. مثال: a university student لأن university تبدأ بصوت / y /، و an
+
+[units45-p18-12] engineer لأن engineer تبدأ بصوت متحرك.
+
+[units45-p18-13] BOLD Online profile و Sentence structure
+
+[units45-p18-14] ترتيب الجملة الإنجليزية الأساسي غالًاب Subject + Verb + Object/Complement. مثال: Femi studies
+
+[units45-p18-15] economics (. Femi فاعل، studies، فعل economics مفعول/تكملة.)
+
+[units45-p18-16] Online profile هو ملف تعريفي على الإنترنت. نظمه إلى: معلومات عامة، اهتمامات شخصية، اهتمامات وأهداف
+
+[units45-p18-17] مهنية. نشاط4ص84: اكتب Profile عن نفسك. نشاط5: اعمل Poster يعرض Profiles وقارن الأهداف المهنية
+
+[units45-p18-18] مع زملائك.
+
+[units45-p19-0] BOLD ص85 –86 Writing Skills – Unit 5 |
+
+[units45-p19-1] BOLD Profile: Nawaf Al Zaida ص85 – قراءة
+
+[units45-p19-2] اقرأ Profile نواف ثم أجب عن أسئلة الاسم، السن، اللغات، ما يدرسه، الوظيفة أو المجال الذي يهتم به، وما يحب
+
+[units45-p19-3] فعله في وقت الفراغ. طريقة الحل: دور على الجملة التي فيها المعلومة المطلوبة، وانقلها في إجابة كاملة.
+
+[units45-p19-4] BOLD Topic sentence
+
+[units45-p19-5] Topic sentence هي الجملة الرئيسية اللي بتقدم موضوع الفقرة. الجمل اللي بعدها Supporting sentences
+
+[units45-p19-6] بتضيف تفاصيل وأمثلة. نشاط2ص85 يطلب تحديد فقرات المعلومات العامة والاهتمامات الشخصية والأهداف
+
+[units45-p19-7] المهنية. نشاط3يكمل قاعدة تنظيم الفقرة باستخدام general / paragraph / sentence / topic.
+
+[units45-p19-8] BOLD ص86 – خطوات الكتابة
+
+[units45-p19-9] 
+الخطوة | المعنى
+Plan your text | خطط لأفكارك قبل الكتابة.
+Check the text | راجع ترتيب الجمل والمعلومات.
+Improve your text | حّسن الصياغة وأضف أو احذف.
+Write the first draft | اكتب المسودة الأولى.
+Write your final version | اكتب النسخة النهائية بعد المراجعة.
+
+[units45-p19-10] نشاط4: صِل أجزاء الجمل لتكوين تعليمات الكتابة. نشاط 5: اكتب Profile عن صديق أو فرد من العائلة،
+
+[units45-p19-11] باستخدام نموذج ص85وخريطة أفكار ثم مسودة ومراجعة. نشاط6: اكتب وص فا لكورس جامعي تحبه واذكر
+
+[units45-p19-12] أسباب اختيارك في حوالي100. كلمة
+
+[units45-p19-13] BOLD إضافي Profile نموذج
+
+[units45-p19-14] My name is Omar. I am a university student in Egypt. I study computer science and I am interested in
+
+[units45-p19-15] programming and technology. In my free time, I enjoy learning English and developing small
+
+[units45-p19-16] software projects. In the future, I want to work as a software engineer because I like solving problems
+
+[units45-p19-17] and creating useful applications.
+
+[units45-p19-18] الترجمة: اسمي عمر. أنا طالب جامعي في مصر. أدرس علوم الكمبيوتر وأهتم بالبرمجة والتكنولوجيا. في وقت فراغي أحب تعلم الإنجليزية وتطوير مشروعات برمجية صغيرة. في المستقبل أريد العمل مهندس برمجيات لأني أحب حل المشكلات وإنشاء تطبيقات مفيدة.
+
+[units45-p19-19] BOLD ص87 –89 C21 Skills – Unit 5 |
+
+[units45-p19-20] BOLD ص87 A. Study Skills: Instructions |
+
+[units45-p19-21] الصفحة بتدربك على فهم تعليمات المعلم وترتيبها. نشاط1: اقرأ التعليمات واكتب رقم الخطوة المناسبة. نشاط
+
+[units45-p19-22] 2: صِل أجزاء الجمل لتكوين تعليمات مثل Open your book / Do / Talk to / Get / Now change / Check your
+
+[units45-p20-0] answers. نشاط3: قسم التعليمات إلى تعليمات للتمرين وتعليمات للعمل الثنائي أو الجماعي. نشاط4: أضف
+
+[units45-p20-1] تعليمات أخرى.
+
+[units45-p20-2] 
+English | المعنى
+Open your book. | افتح كتابك.
+Do the exercise. | حل التمرين.
+Talk to your partner. | اتكلم مع زميلك.
+Get into pairs. | اشتغلوا في أزواج.
+Work in groups. | اشتغلوا في مجموعات.
+Check your answers. | راجع إجاباتك.
+Now change partners. | بّدل زميلك.
+Can you turn to page 24? | ممكن تفتح صفحة24؟
+Introduce yourself. | عّرف نفسك.
+
+[units45-p20-3] BOLD ص88 B. Communication: Classroom language |
+
+[units45-p20-4] المهارة هنا إنك تسأل لما متفهمش وتطلب المساعدة بأدب. نشاط1: صِل الأسئلة بالإجابات: What do you
+
+[units45-p20-5] understand? / Who wants to go first? / Is it my turn now? / Can you help me with exercise 3, please? /
+
+[units45-p20-6] What does... mean? / Is my answer correct? نشاط2استماع للتحقق. نشاط3 حدد أي محادثة بين مجموعة
+
+[units45-p20-7] طلاب. نشاط4حدد أي محادثة بين طالب ومعلم. نشاط5 صنف الأسئلة إلى Working in groups و Asking for
+
+[units45-p20-8] help وأضف سؤالين.
+
+[units45-p20-9] 
+سؤال مفيد | المعنى
+Could you repeat that, please? | ممكن تكرر ده؟
+Can you explain this word? | ممكن تشرح الكلمة دي؟
+Is my answer correct? | إجابتي صح؟
+Can you help me with this exercise? | ممكن تساعدني في التمرين؟
+What does this mean? | ده معناه إيه؟
+
+[units45-p20-10] BOLD ص89 C. Planning Ahead |
+
+[units45-p20-11] اكتب ثلاث حاجات اتعلمتها وثلاث حاجات محتاج تتدرب عليها. اعمل Learning plan للأسبوع القادم: فكرة التعلم،
+
+[units45-p20-12] الإجراء، الوقت بالدقائق، ومراجعة بعد أسبوع. شارك خطتك مع زميل. بعد أسبوع قّيم: Done / Not done / More
+
+[units45-p20-13] practice / Update learning plan. وفي Communication in class ق،ّيم هل بتسأل لما متفهمش، بتساعد زملاءك
+
+[units45-p20-14] بتتكلم في مجموعات، وبتجاوب لما تعرف.
+
+[units45-p21-0] Present Simple with he, she and it – تكملة أساسية لقواعد Unit 5
+
+[units45-p21-1] مع he / she / it بنضيف s أو es للفعل في الإثبات. القاعدة دي بتكمل درس Present Simple، وبتساعدك تفهم
+
+[units45-p21-2] جمل الـ Profile في صفحات الوحدة. مثال: I work, but he works. / They study, but she studies.
+
+[units45-p21-3] BOLD قواعد إضافة النهاية:
+
+[units45-p21-4] 1) أغلب الأفعال: نضيف lives → live، reads → read، works → s: work.
+
+[units45-p21-5] 2) الأفعال المنتهية بـ - ch, -sh, -ss, -x, -oًب غالا نضيف goes → go، washes → wash، watches → es: watch.
+
+[units45-p21-6] 3) consonant + y: نحذف y ونضيف tries → try، studies → ies: study. أما vowel + y فنضيف s: فقط → play
+
+[units45-p21-7] plays.
+
+[units45-p21-8] الإثبات: She works in an office. / He studies engineering. / It starts at nine.
+
+[units45-p21-9] النفي: doesn't + base verb: She doesn't work at night. / He doesn't study medicine. لا نضيف s للفعل بعد
+
+[units45-p21-10] doesn't.
+
+[units45-p21-11] السؤال: Does + he/she/it + base verb? Does she work here? Does he study English?
+
+[units45-p21-12] الإجابة القصيرة: Yes, she does. / No, she doesn't. – Yes, he does. / No, he doesn't.
+
+[units45-p21-13] أخطاء شائعة: He don't work ✗→ He doesn't work ✓؛ Does she works? ✗→ Does she work? ✓؛ She study
+
+[units45-p21-14] ✗→She studies.✓
+
+[units45-p21-15] مقارنة سريعة: I/you/we/they work – he/she/it works؛ I/you/we/they don't work – he/she/it doesn't work؛
+
+[units45-p21-16] Do they work? – Does she work?
+
+[units45-p21-17] BOLD Unit 5 مراجعة
+
+[units45-p21-18] 
+الموضوع | الخلاصة
+Jobs | architect, construction worker, designer, engineer, journalist, lawyer, nurse, police officer, scientist.
+Places of work | factory, hospital, laboratory, office, at home, outside.
+Prepositions | work in = داخل مكان/مدينة؛ work at = موقع؛ work for = جهة أو شركة.
+Adjectives | high salary, long hours, helpful colleagues, flexible
+
+[units45-p22-0] 
+ | hours, interesting job.
+Present Simple | I/you/we/they + base verb؛ النفي don't؛ السؤال Do.
+University subjects | architecture, languages, economics, medicine, chemistry, tourism, engineering.
+a/an | a قبل صوت ساكن؛ an قبل صوت متحرك.
+Paragraph | Topic sentence ثم supporting sentences.
+Classroom language | اطلب التكرار والشرح والمساعدة بأدب.
+
+[units45-p22-1] BOLD Unit 5 – أخطاء شائعة
+
+[units45-p22-2] • I works in an office. ✗→ I work in an office ✓.
+
+[units45-p22-3] • Do you works here? ✗→ Do you work here ✓?
+
+[units45-p22-4] • They doesn't live here. ✗→ They don't live here ✓.
+
+[units45-p22-5] • an university ✗→ a university؛ البداية صوت / y./
+
+[units45-p22-6] • a engineer ✗→ an engineer.
+
+[units45-p22-7] • work for a company، لكن work in Cairo لو المقصود المدينة.
+
+[units45-p22-8] • high salary وليس highly salary.
+
+[units45-p22-9] • ابدأ الفقرة بـ Topic sentence واضحة.
+
+[units45-p22-10] BOLD Unit 5 اختبار
+
+[units45-p22-11] 15. A nurse works in a.______
+
+[units45-p22-12] 16. He works (in / for / at) Microsoft.
+
+[units45-p22-13] 17. I (live / lives) in Egypt.
+
+[units45-p22-14] 18. حّول للنفي: They study English.
+
+[units45-p22-15] 19. كّون سؤا ل ااً: you / work / in an office?
+
+[units45-p22-16] 20. She is ___ engineer.
+
+[units45-p22-17] 21. We (don't / doesn't) play tennis.
+
+[units45-p22-18] 22. اكتب ثلاثة تخصصات جامعية.
+
+[units45-p22-19] 23. ما معنى topic sentence؟
+
+[units45-p22-20] 24. اكتب أربع جمل عن الوظيفة التي تريدها.
+
+[units45-p23-0] BOLD Unit 5 نموذج إجابة
+
+[units45-p23-1] • hospital.
+
+[units45-p23-2] • for.
+
+[units45-p23-3] • live.
+
+[units45-p23-4] • They don't study English.
+
+[units45-p23-5] • Do you work in an office?
+
+[units45-p23-6] • an.
+
+[units45-p23-7] • don't.
+
+[units45-p23-8] • medicine, engineering, economics (أمثلة.)
+
+[units45-p23-9] • الجملة الرئيسية التي تقدم موضوع الفقرة.
+
+[units45-p23-10] • إجابة شخصية؛ مثال: I want to be an engineer. I like technology. I enjoy solving problems. I want to
+
+[units45-p23-11] work for an international company.
+
+[units45-p24-0] BOLD Unit 4 & Unit 5 – قاموس شامل
+
+[units45-p24-1] 
+English | المعنى بالعربية
+career | مسار مهني
+event | فعالية
+job fair | معرض وظائف
+course | كورس/مقرر
+entry fee | رسوم دخول
+application | طلب تقديم
+company | شركة
+university | جامعة
+information | معلومات
+friend | صديق
+best friend | أعز صديق
+actor / actress | ممثل / ممثلة
+football player | لاعب كرة قدم
+team | فريق
+married | متزوج
+baby | رضيع
+pronoun | ضمير
+profile | ملف تعريفي
+background | خلفية الصورة
+foreground | مقدمة الصورة
+formal email | إيميل رسمي
+architect | مهندس معماري
+construction worker | عامل إنشاءات
+designer | مصمم
+engineer | مهندس
+journalist | صحفي
+lawyer | محا م
+nurse | ممرض
+police officer | شرطي
+scientist | عالم
+factory | مصنع
+hospital | مستشفى
+laboratory | معمل
+
+[units45-p25-0] 
+office | مكتب
+outside | في الخارج
+salary | راتب
+colleague | زميل عمل
+boss | مدير
+flexible | مرن
+dangerous | خطير
+interesting | ممتع
+friendly | ودود
+helpful | متعاون
+international | دولي
+high | مرتفع
+long hours | ساعات عمل طويلة
+architecture | العمارة
+languages | اللغات
+economics | الاقتصاد
+medicine | الطب
+chemistry | الكيمياء
+tourism | السياحة
+engineering | الهندسة
+topic sentence | الجملة الرئيسية
+supporting sentence | جملة داعمة
+networking site | موقع تواصل مهني
+goal | هدف
+instruction | تعليمات
+partner | زميل
+repeat | يكرر
+explain | يشرح
+understand | يفهم
+learning plan | خطة تعلم
+
+[units45-p25-1] BOLD ملخص القواعد في جداول
+
+[units45-p25-2] 
+القاعدة | التركيب | مثال
+ضمائر الفاعل | he / she / it / we / they | She is a student.
+Present Simple مع I/you/we/they | subject + base verb | They work.
+
+[units45-p26-0] 
+Present Simple مع he/she/it | subject + verb-s/es | He works.
+النفي مع I/you/we/they | don't + base verb | We don't work.
+السؤال مع I/you/we/they | Do + subject + base verb? | Do you work?
+a / an | a + consonant sound; an + vowel sound | a university; an engineer
+work in | مكان أو مدينة | work in an office / Cairo
+work at | موقع محدد | work at a hospital
+work for | شركة أو جهة | work for a company
+
+[units45-p26-1] BOLD Unit 4 & Unit 5 – الامتحان النهائي الشامل
+
+[units45-p26-2] 25. اختر الضمير: Sara is a student. (He / She / They) studies medicine.
+
+[units45-p26-3] 26. استبدل التكرار: Ali is my friend. Ali works in a hospital.
+
+[units45-p26-4] 27.:صحح My brother study engineering.
+
+[units45-p26-5] 28.:اختر They (work / works) for an international company.
+
+[units45-p26-6] 29. حّول للنفي: We live in Cairo.
+
+[units45-p26-7] 30. كّون سؤا ل ااً: you / study / English?
+
+[units45-p26-8] 31. اختر حرف الجر: My father works (for / in) an oil company.
+
+[units45-p26-9] 32. A scientist works in a (laboratory / school bus).
+
+[units45-p26-10] 33. She is ___ architect.
+
+[units45-p26-11] 34. اكتب سؤال متابعة بعد: He's from Amman.
+
+[units45-p26-12] 35. اذكر ثلاثة أماكن عمل.
+
+[units45-p26-13] 36. اذكر ثلاثة تخصصات جامعية.
+
+[units45-p26-14] 37. ما الفرق بين he و they؟
+
+[units45-p26-15] 38. ما وظيفة Topic sentence؟
+
+[units45-p26-16] 39. اكتب فقرة من80–100كلمة عن شخص مهم أو وظيفة تريدها مستخد ما الضمائر والمضارع البسيط.
+
+[units45-p26-17] BOLD نموذج إجابة الامتحان النهائي
+
+[units45-p26-18] • She.
+
+[units45-p26-19] • Ali is my friend. He works in a hospital.
+
+[units45-p26-20] • My brother studies engineering.
+
+[units45-p27-0] • work.
+
+[units45-p27-1] • We don't live in Cairo.
+
+[units45-p27-2] • Do you study English?
+
+[units45-p27-3] • for.
+
+[units45-p27-4] • laboratory.
+
+[units45-p27-5] • an.
+
+[units45-p27-6] • Where does he live? / What does he do?
+
+[units45-p27-7] • factory, hospital, laboratory (أي ثلاثة.)
+
+[units45-p27-8] • medicine, engineering, economics (أي ثلاثة.)
+
+[units45-p27-9] • he للمذكر المفرد، they للجمع.
+
+[units45-p27-10] • تقدم الفكرة الرئيسية للفقرة وتوضح موضوعها.
+
+[units45-p27-11] • إجابة شخصية؛ راجع ترتيب الأفكار والضمائر وتصريف الفعل والحروف الكبيرة والترقيم.
+
+[units45-p27-12] BOLD ملاحظات المصدر وحدود الإجابات
+
+[units45-p27-13] تمت مراجعة الصفحات المصورة المطبوعة60–71 للوحدة الرابعة و74–89للوحدة الخامسة، بما فيها الإعلانات
+
+[units45-p27-14] والصور والجداول وصناديق Grammar و Pronunciation و Writing و C21 Skills.
+
+[units45-p27-15] الأنشطة التي تعتمد على تسجيلات مثل4.1–4.3 و5.1–5.6 و5.9لا يمكن تأكيد إجاباتها دون ملفات الصوت. كما
+
+[units45-p27-16] أن عرض الشرائح Look at me! في ص68غير مرفق. تم شرح خطوات الحل وترك الإجابات السمعية غير
+
+[units45-p27-17] محسومة.
+
+[units45-p27-18] بعض الجداول والأمثلة النحوية توسع القاعدة للتوضيح، خصو صًا النفي والسؤال في Present Simple؛ وقدُوضعت
+
+[units45-p27-19] بوصفها شر حا إضافًيا لا باعتبارها ن صًا حرفًيا من النشاط. الأنشطة المفتوحة لها نماذج مقترحة وليست إجابات وحيدة.
+
+[units45-p27-20] لم تتم إعادة شرح Units 1–3. Progress Test ص72 –73يراجع Units 3 4&ًع ما، لذا لم نكرر تدريبات Unit 3.

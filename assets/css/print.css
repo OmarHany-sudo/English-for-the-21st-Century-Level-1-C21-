@@ -9,20 +9,20 @@
 .js-ready .cover-page{padding:10mm!important;border-radius:3mm!important}
 .js-ready .lesson-page{break-before:auto!important;padding-top:7mm!important;margin-top:5mm!important}
 .js-ready .lesson-page>.lesson-breadcrumb{margin-bottom:3mm;break-after:avoid}
-.js-ready .unit-opening,.js-ready .contents-page,.js-ready .book-section[data-unit="4"]{break-before:page!important}
+.js-ready .unit-opening,.js-ready .contents-page,.js-ready #lesson-28{break-before:page!important}
 .toc-grid{column-gap:5mm;margin-top:5mm}.toc-unit{padding:3.5mm;margin-bottom:4mm}.toc-unit a{padding:1.6mm 0;font-size:7.3pt;line-height:1.5}.toc-unit h3{font-size:11pt;margin:3mm 0}.toc-unit-top>span{font-size:20pt}.toc-unit-top p{font-size:5.5pt}
 .original-toc{margin-top:0}.original-toc .table-scroll{margin:2mm 0}.original-toc th,.original-toc td{padding:.8mm 2mm}.original-toc .cell-text,.original-toc .cell-text[dir=ltr]{font-size:7.5pt;line-height:1.5}.original-toc thead{display:table-row-group}
 .source-paragraph,.source-paragraph[dir=ltr]{font-size:9.5pt;line-height:1.85;margin-bottom:2.5mm}.source-paragraph[dir=ltr]{line-height:1.7}
 th,td{padding:2mm 2.5mm}.cell-text,.cell-text[dir=ltr]{font-size:8.5pt;line-height:1.7}
 .topic-block{margin-top:4mm;padding-top:4mm}.topic-heading,.topic-heading[dir=ltr]{margin-bottom:3mm}.type-grammar{padding:4mm 4mm 1.5mm}.example-box{padding:2.5mm 3mm}.important-note{padding:3mm!important;margin:3mm 0!important}.table-scroll{margin:3mm 0 4mm}.type-exercise>.source-paragraph{padding-bottom:2mm}.check-item{padding:1.7mm 2.5mm;font-size:9pt}.unit-front .source-paragraph{font-size:11pt;line-height:2;margin-bottom:5mm}
-.js-ready .book-section[data-unit="4"] .source-paragraph{font-size:9pt;line-height:1.7}.js-ready .book-section[data-unit="4"] .cell-text{font-size:8pt;line-height:1.6}
+.js-ready #lesson-28 .source-paragraph{font-size:9pt;line-height:1.7}.js-ready #lesson-28 .cell-text{font-size:8pt;line-height:1.6}
 }
 @media print{
-.js-ready .book-section[data-unit="4"] .lesson-title{font-size:18pt;margin-bottom:3mm}
-.js-ready .book-section[data-unit="4"] .lesson-breadcrumb{margin-bottom:2mm}
-.js-ready .book-section[data-unit="4"] .topic-block{padding-top:3mm;margin-top:3mm}
-.js-ready .book-section[data-unit="4"] th,.js-ready .book-section[data-unit="4"] td{padding:1.3mm 2mm}
-.js-ready .book-section[data-unit="4"] .topic-heading{font-size:11pt;margin-bottom:2mm}
-.js-ready .book-section[data-unit="4"] .check-item{padding:1mm 2mm;margin-bottom:1.5mm;font-size:8.5pt}
-.js-ready .book-section[data-unit="4"] .important-note{font-size:8pt!important;line-height:1.7!important;padding:2mm!important}
+.js-ready #lesson-28 .lesson-title{font-size:18pt;margin-bottom:3mm}
+.js-ready #lesson-28 .lesson-breadcrumb{margin-bottom:2mm}
+.js-ready #lesson-28 .topic-block{padding-top:3mm;margin-top:3mm}
+.js-ready #lesson-28 th,.js-ready #lesson-28 td{padding:1.3mm 2mm}
+.js-ready #lesson-28 .topic-heading{font-size:11pt;margin-bottom:2mm}
+.js-ready #lesson-28 .check-item{padding:1mm 2mm;margin-bottom:1.5mm;font-size:8.5pt}
+.js-ready #lesson-28 .important-note{font-size:8pt!important;line-height:1.7!important;padding:2mm!important}
 }

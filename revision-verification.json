@@ -1,0 +1,63 @@
+{
+  "legacy_source_blocks_preserved": 2058,
+  "new_source_blocks_preserved": 2155,
+  "internal_links_checked": 644,
+  "source_nodes": 810,
+  "pdf_pages": 57,
+  "unmapped_pdf_body_spans": 0,
+  "new_tables": 59,
+  "checklist_items": 50,
+  "responsive_routes": [
+    {
+      "width": 320,
+      "routes": 65,
+      "horizontal_overflow": 0
+    },
+    {
+      "width": 390,
+      "routes": 65,
+      "horizontal_overflow": 0
+    },
+    {
+      "width": 768,
+      "routes": 65,
+      "horizontal_overflow": 0
+    },
+    {
+      "width": 1024,
+      "routes": 65,
+      "horizontal_overflow": 0
+    },
+    {
+      "width": 1440,
+      "routes": 65,
+      "horizontal_overflow": 0
+    }
+  ],
+  "functional": {
+    "question_answer_roundtrip": true,
+    "search_arabic_english": true,
+    "theme_persistence": true,
+    "checklist_persistence_reset": true,
+    "mobile_menu_escape": true,
+    "nested_sidebar": true,
+    "source_pdf_links": true,
+    "print_all_sections": true,
+    "print_details_restore": true,
+    "file_offline": true
+  },
+  "javascript_errors": [],
+  "http_errors": [],
+  "print_smoke": {
+    "pages": 126,
+    "near_empty_pages": [],
+    "page_boundary_violations": [],
+    "review": "Automated bounds on every page; visual spot checks, not a full print-edition proof."
+  },
+  "source_sha256": {
+    "C21_Level1_Final_Revision_Units1-5_AR.pdf": "ecfaaa3bd565fc4d0138a5f4bcc5644755b72536310bf94bf29f6433f9b6c8ee",
+    "C21_Level1_Units4-5_Study_Guide_AR.pdf": "ed2caad673c94251fc48fef9f2141679d1b1e387570b63c16761f8a455edefd8"
+  },
+  "source_pipeline_reproducible": true,
+  "original_pdf_bytes_unchanged": true
+}
